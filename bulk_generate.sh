@@ -61,7 +61,6 @@ for version in "${ALL_VERSIONS[@]}"; do
     # Check if version is in skip list
     if grep -q "^${version}$" "$SKIP_FILE" 2>/dev/null; then
         echo "--> Version '$version' is broken (in skip list). Skipping..."
-        previous_branch="$version"
         continue
     fi
 
