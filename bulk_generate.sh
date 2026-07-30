@@ -80,32 +80,27 @@ for version in "${ALL_VERSIONS[@]}"; do
     if [[ -z "$previous_branch" ]]; then
         echo "--> First target ($START_VERSION): Creating orphan branch..."
         git checkout --orphan "$version"
+        git rm -rf . >/dev/null 2>&1 || true
+        git clean -fdx
     else
         echo "--> Creating branch '$version' based on '$previous_branch'..."
         git checkout -b "$version" "$previous_branch"
     fi
 
-    # Clean previous files from working directory and Git index
-    git rm -rf . >/dev/null 2>&1 || true
-    git clean -fdx
-
     # Copy generated data into repository root
     echo "--> Copying generated data into repository..."
     cp -r "$WORK_DIR"/* ./ 2>/dev/null || true
 
-    # Create README.md with current version name
+    # Always create/overwrite README.md to reflect the current version
     echo "# Minecraft Data - $version" > README.md
 
     # Commit and Push
     git add -A
 
-    if git diff-index --quiet HEAD 2>/dev/null; then
-        echo "--> No changes detected for version '$version'."
-    else
-        git commit -m "Add generated data for Minecraft $version"
-        echo "--> Pushing branch '$version' to origin..."
-        git push origin "$version"
-    fi
+    # Commit with --allow-empty as a safety fallback to ensure a commit (and branch) is ALWAYS created
+    echo "--> Committing and pushing branch '$version'..."
+    git commit --allow-empty -m "Add generated data for Minecraft $version"
+    git push origin "$version"
 
     previous_branch="$version"
 
