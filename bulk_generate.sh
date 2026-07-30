@@ -71,11 +71,6 @@ for version in "${ALL_VERSIONS[@]}"; do
         "$TOOLS_DIR/run_generator.sh" "$WORK_DIR/server.jar"
     )
 
-    # Remove unwanted files/directories from the temp output
-    rm -f "$WORK_DIR/server.jar"
-    rm -rf "$WORK_DIR/assets"
-    rm -rf "$WORK_DIR/libraries"
-
     # Create/checkout target branch
     if [[ -z "$previous_branch" ]]; then
         echo "--> First target ($START_VERSION): Creating orphan branch..."
@@ -91,13 +86,24 @@ for version in "${ALL_VERSIONS[@]}"; do
     echo "--> Copying generated data into repository..."
     cp -r "$WORK_DIR"/* ./ 2>/dev/null || true
 
+    # Create .gitignore to exclude unwanted folders and files
+    cat << 'EOF' > .gitignore
+assets/
+libraries/
+.idea/
+server.jar
+EOF
+
+    # Clean any ignored untracked files brought over during copying
+    git clean -fdX
+
     # Always create/overwrite README.md to reflect the current version
     echo "# Minecraft Data - $version" > README.md
 
     # Commit and Push
     git add -A
 
-    # Commit with --allow-empty as a safety fallback to ensure a commit (and branch) is ALWAYS created
+    # Commit with --allow-empty as a safety fallback
     echo "--> Committing and pushing branch '$version'..."
     git commit --allow-empty -m "Add generated data for Minecraft $version"
     git push origin "$version"
