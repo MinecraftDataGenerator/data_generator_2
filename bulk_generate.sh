@@ -33,6 +33,14 @@ mkdir -p "$TOOLS_DIR"
 cp manifest.py download.py run_generator.sh "$TOOLS_DIR/"
 chmod +x "$TOOLS_DIR/run_generator.sh"
 
+# Sanitize version name to valid git branch name
+sanitize_branch_name() {
+    local name="$1"
+    # Replace spaces with hyphens, remove invalid characters, lowercase
+    name=$(echo "$name" | tr ' ' '-' | sed 's/[^a-zA-Z0-9._-]//g' | tr '[:upper:]' '[:lower:]')
+    echo "$name"
+}
+
 # 3. Execute manifest.py and fetch the version list
 echo "==> Fetching version list via manifest.py..."
 MANIFEST_OUTPUT=$(python3 "$TOOLS_DIR/manifest.py")
@@ -49,6 +57,7 @@ previous_branch=""
 
 for version in "${ALL_VERSIONS[@]}"; do
     version=$(echo "$version" | xargs)
+    branch_name=$(sanitize_branch_name "$version")
 
     if [[ "$version" == "$START_VERSION" ]]; then
         start_processing=true
@@ -65,15 +74,15 @@ for version in "${ALL_VERSIONS[@]}"; do
     fi
 
     # Check if branch already exists locally or remotely
-    if git rev-parse --verify --quiet "refs/heads/$version" >/dev/null || \
-       git rev-parse --verify --quiet "refs/remotes/origin/$version" >/dev/null; then
-        echo "--> Branch '$version' already exists. Skipping..."
-        previous_branch="$version"
+    if git rev-parse --verify --quiet "refs/heads/$branch_name" >/dev/null || \
+       git rev-parse --verify --quiet "refs/remotes/origin/$branch_name" >/dev/null; then
+        echo "--> Branch '$branch_name' (version: $version) already exists. Skipping..."
+        previous_branch="$branch_name"
         continue
     fi
 
     echo "=================================================="
-    echo "Processing new version: $version"
+    echo "Processing new version: $version (branch: $branch_name)"
     echo "=================================================="
 
     # Clean temporary working directory
@@ -94,12 +103,12 @@ for version in "${ALL_VERSIONS[@]}"; do
     # Create/checkout target branch
     if [[ -z "$previous_branch" ]]; then
         echo "--> First target ($START_VERSION): Creating orphan branch..."
-        git checkout --orphan "$version"
+        git checkout --orphan "$branch_name"
         git rm -rf . >/dev/null 2>&1 || true
         git clean -fdx
     else
-        echo "--> Creating branch '$version' based on '$previous_branch'..."
-        git checkout -b "$version" "$previous_branch"
+        echo "--> Creating branch '$branch_name' based on '$previous_branch'..."
+        git checkout -b "$branch_name" "$previous_branch"
     fi
 
     # Copy generated data into repository root
@@ -124,11 +133,11 @@ EOF
     git add -A
 
     # Commit with --allow-empty as a safety fallback
-    echo "--> Committing and pushing branch '$version'..."
+    echo "--> Committing and pushing branch '$branch_name'..."
     git commit --allow-empty -m "Add generated data for Minecraft $version"
-    git push origin "$version"
+    git push origin "$branch_name"
 
-    previous_branch="$version"
+    previous_branch="$branch_name"
 
     # Switch back to main branch for next iteration
     git checkout "$MAIN_BRANCH"
