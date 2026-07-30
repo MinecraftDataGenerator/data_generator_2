@@ -98,6 +98,13 @@
                   }
                 },
                 {
+                  "type": "minecraft:night_vision",
+                  "duration": {
+                    "min": 7.0,
+                    "max": 10.0
+                  }
+                },
+                {
                   "type": "minecraft:weakness",
                   "duration": {
                     "min": 6.0,
@@ -106,13 +113,6 @@
                 },
                 {
                   "type": "minecraft:saturation",
-                  "duration": {
-                    "min": 7.0,
-                    "max": 10.0
-                  }
-                },
-                {
-                  "type": "minecraft:speed",
                   "duration": {
                     "min": 7.0,
                     "max": 10.0
