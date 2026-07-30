@@ -1,18 +1,18 @@
-[20:53:52] [main/INFO]: Starting provider: SNBT -> NBT
-[20:53:52] [main/INFO]: SNBT -> NBT finished after 0 ms
-[20:53:52] [main/INFO]: Starting provider: Block Tags
-[20:53:52] [main/INFO]: Block Tags finished after 8 ms
-[20:53:52] [main/INFO]: Starting provider: Item Tags
-[20:53:52] [main/INFO]: Item Tags finished after 1 ms
-[20:53:52] [main/INFO]: Starting provider: Recipes
-[20:53:52] [main/INFO]: Recipes finished after 102 ms
-[20:53:52] [main/INFO]: Starting provider: NBT to SNBT
-[20:53:52] [main/INFO]: NBT to SNBT finished after 0 ms
-[20:53:52] [main/INFO]: Starting provider: Block List
-[20:53:52] [main/INFO]: Block List finished after 36 ms
-[20:53:52] [main/INFO]: Starting provider: Item List
-[20:53:52] [main/INFO]: Item List finished after 1 ms
-[20:53:52] [main/INFO]: Starting provider: Item List
-[20:53:53] [main/INFO]: Loaded 0 recipes
-[20:53:53] [main/INFO]: Loaded 0 advancements
-[20:53:53] [main/INFO]: Item List finished after 245 ms
+[20:54:01] [main/INFO]: Starting provider: SNBT -> NBT
+[20:54:01] [main/INFO]: SNBT -> NBT finished after 0 ms
+[20:54:01] [main/INFO]: Starting provider: Block Tags
+[20:54:01] [main/INFO]: Block Tags finished after 9 ms
+[20:54:01] [main/INFO]: Starting provider: Item Tags
+[20:54:01] [main/INFO]: Item Tags finished after 1 ms
+[20:54:01] [main/INFO]: Starting provider: Recipes
+[20:54:01] [main/INFO]: Recipes finished after 104 ms
+[20:54:01] [main/INFO]: Starting provider: NBT to SNBT
+[20:54:01] [main/INFO]: NBT to SNBT finished after 0 ms
+[20:54:01] [main/INFO]: Starting provider: Block List
+[20:54:01] [main/INFO]: Block List finished after 35 ms
+[20:54:01] [main/INFO]: Starting provider: Item List
+[20:54:01] [main/INFO]: Item List finished after 3 ms
+[20:54:01] [main/INFO]: Starting provider: Command Syntax
+[20:54:01] [main/INFO]: Loaded 0 recipes
+[20:54:01] [main/INFO]: Loaded 0 advancements
+[20:54:01] [main/INFO]: Command Syntax finished after 269 ms
