@@ -2,19 +2,16 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:coal_block"
+      "minecraft:popped_chorus_fruit"
     ]
   },
   "criteria": {
-    "has_at_least_9_coal": {
+    "has_chorus_fruit": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:coal",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:chorus_fruit"
           }
         ]
       }
@@ -22,13 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:coal_block"
+        "recipe": "minecraft:popped_chorus_fruit"
       }
     }
   },
   "requirements": [
     [
-      "has_at_least_9_coal",
+      "has_chorus_fruit",
       "has_the_recipe"
     ]
   ]

@@ -2,19 +2,16 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:coal_block"
+      "minecraft:acacia_wood"
     ]
   },
   "criteria": {
-    "has_at_least_9_coal": {
+    "has_log": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:coal",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:acacia_log"
           }
         ]
       }
@@ -22,13 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:coal_block"
+        "recipe": "minecraft:acacia_wood"
       }
     }
   },
   "requirements": [
     [
-      "has_at_least_9_coal",
+      "has_log",
       "has_the_recipe"
     ]
   ]
