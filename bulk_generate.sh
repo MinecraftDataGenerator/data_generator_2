@@ -4,10 +4,24 @@ set -euo pipefail
 START_VERSION="18w01a"
 WORK_DIR="/tmp/datagenerator"
 TOOLS_DIR="/tmp/mc_tools"
+SKIP_FILE="skip_version.txt"
 
 # 1. Ensure we are in the repository root directory
 REPO_ROOT="$(git rev-parse --show-toplevel)"
 cd "$REPO_ROOT"
+
+# Load versions to skip from skip_version.txt
+declare -A SKIP_VERSIONS
+if [[ -f "$SKIP_FILE" ]]; then
+    echo "==> Loading skip list from $SKIP_FILE..."
+    while IFS= read -r version; do
+        version=$(echo "$version" | xargs)  # Trim whitespace
+        if [[ -n "$version" ]]; then
+            SKIP_VERSIONS["$version"]=1
+            echo "    - Skipping: $version"
+        fi
+    done < "$SKIP_FILE"
+fi
 
 MAIN_BRANCH="$(git rev-parse --abbrev-ref HEAD)"
 
@@ -41,6 +55,13 @@ for version in "${ALL_VERSIONS[@]}"; do
     fi
 
     if [[ "$start_processing" == "false" ]]; then
+        continue
+    fi
+
+    # Check if version is in skip list
+    if [[ -v SKIP_VERSIONS["$version"] ]]; then
+        echo "--> Version '$version' is broken (in skip list). Skipping..."
+        previous_branch="$version"
         continue
     fi
 
