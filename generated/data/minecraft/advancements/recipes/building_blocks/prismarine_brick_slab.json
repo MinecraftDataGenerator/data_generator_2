@@ -2,16 +2,16 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:dried_kelp_from_smelting"
+      "minecraft:prismarine_brick_slab"
     ]
   },
   "criteria": {
-    "has_kelp": {
+    "has_prismarine_bricks": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:kelp"
+            "item": "minecraft:prismarine_bricks"
           }
         ]
       }
@@ -19,13 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:dried_kelp_from_smelting"
+        "recipe": "minecraft:prismarine_brick_slab"
       }
     }
   },
   "requirements": [
     [
-      "has_kelp",
+      "has_prismarine_bricks",
       "has_the_recipe"
     ]
   ]
