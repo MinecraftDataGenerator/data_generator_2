@@ -1,1 +1,118 @@
-# 18w01a
+#!/usr/bin/env bash
+set -euo pipefail
+
+START_VERSION="18w01a"
+WORK_DIR="/tmp/datagenerator"
+TOOLS_DIR="/tmp/mc_tools"
+
+# 1. Ensure we are in the repository root directory
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+MAIN_BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+
+# 2. Backup helper scripts to a temporary directory
+# This keeps them accessible even when switching/clearing orphan branches
+echo "==> Backing up helper scripts to $TOOLS_DIR..."
+rm -rf "$TOOLS_DIR"
+mkdir -p "$TOOLS_DIR"
+cp manifest.py download.py run_generator.sh "$TOOLS_DIR/"
+chmod +x "$TOOLS_DIR/run_generator.sh"
+
+# 3. Execute manifest.py and fetch the version list
+echo "==> Fetching version list via manifest.py..."
+MANIFEST_OUTPUT=$(python3 "$TOOLS_DIR/manifest.py")
+VERSIONS_LINE=$(echo "$MANIFEST_OUTPUT" | grep "^versions=" | cut -d= -f2)
+
+IFS=',' read -ra ALL_VERSIONS <<< "$VERSIONS_LINE"
+
+# 4. Fetch all remote branches for accurate existence checks
+echo "==> Updating remote branch information..."
+git fetch origin --prune
+
+start_processing=false
+previous_branch=""
+
+for version in "${ALL_VERSIONS[@]}"; do
+    version=$(echo "$version" | xargs)
+
+    if [[ "$version" == "$START_VERSION" ]]; then
+        start_processing=true
+    fi
+
+    if [[ "$start_processing" == "false" ]]; then
+        continue
+    fi
+
+    # Check if branch already exists locally or remotely
+    if git rev-parse --verify --quiet "refs/heads/$version" >/dev/null || \
+       git rev-parse --verify --quiet "refs/remotes/origin/$version" >/dev/null; then
+        echo "--> Branch '$version' already exists. Skipping..."
+        previous_branch="$version"
+        continue
+    fi
+
+    echo "=================================================="
+    echo "Processing new version: $version"
+    echo "=================================================="
+
+    # Clean temporary working directory
+    rm -rf "$WORK_DIR"
+    mkdir -p "$WORK_DIR"
+
+    # Download server JAR
+    echo "--> Downloading server JAR..."
+    python3 "$TOOLS_DIR/download.py" "$version" "$WORK_DIR"
+
+    # Run Data Generator
+    echo "--> Running Data Generator..."
+    (
+        cd "$WORK_DIR"
+        "$TOOLS_DIR/run_generator.sh" "$WORK_DIR/server.jar"
+    )
+
+    # Remove unwanted files/directories from the temp output
+    rm -f "$WORK_DIR/server.jar"
+    rm -rf "$WORK_DIR/assets"
+    rm -rf "$WORK_DIR/libraries"
+
+    # Create/checkout target branch
+    if [[ -z "$previous_branch" ]]; then
+        echo "--> First target ($START_VERSION): Creating orphan branch..."
+        git checkout --orphan "$version"
+    else
+        echo "--> Creating branch '$version' based on '$previous_branch'..."
+        git checkout -b "$version" "$previous_branch"
+    fi
+
+    # Clean previous files from working directory and Git index
+    git rm -rf . >/dev/null 2>&1 || true
+    git clean -fdx
+
+    # Copy generated data into repository root
+    echo "--> Copying generated data into repository..."
+    cp -r "$WORK_DIR"/* ./ 2>/dev/null || true
+
+    # Create README.md with current version name
+    echo "# Minecraft Data - $version" > README.md
+
+    # Commit and Push
+    git add -A
+
+    if git diff-index --quiet HEAD 2>/dev/null; then
+        echo "--> No changes detected for version '$version'."
+    else
+        git commit -m "Add generated data for Minecraft $version"
+        echo "--> Pushing branch '$version' to origin..."
+        git push origin "$version"
+    fi
+
+    previous_branch="$version"
+
+    # Switch back to main branch for next iteration
+    git checkout "$MAIN_BRANCH"
+done
+
+# Cleanup temporary tools and data directories
+rm -rf "$WORK_DIR" "$TOOLS_DIR"
+echo "==> Done! All new versions have been processed."
