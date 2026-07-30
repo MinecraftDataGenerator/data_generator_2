@@ -1,32 +1,32 @@
-[00:34:24] [main/INFO]: Starting provider: SNBT -> NBT
-[00:34:24] [main/INFO]: SNBT -> NBT finished after 1 ms
-[00:34:24] [main/INFO]: Starting provider: Block State Definitions
-[00:34:24] [main/INFO]: Block State Definitions finished after 733 ms
-[00:34:24] [main/INFO]: Starting provider: Fluid Tags
-[00:34:24] [main/INFO]: Fluid Tags finished after 4 ms
-[00:34:24] [main/INFO]: Starting provider: Block Tags
-[00:34:24] [main/INFO]: Block Tags finished after 12 ms
-[00:34:24] [main/INFO]: Starting provider: Item Tags
-[00:34:24] [main/INFO]: Item Tags finished after 5 ms
-[00:34:24] [main/INFO]: Starting provider: Entity Type Tags
-[00:34:24] [main/INFO]: Entity Type Tags finished after 0 ms
-[00:34:24] [main/INFO]: Starting provider: Recipes
-[00:34:25] [main/INFO]: Recipes finished after 227 ms
-[00:34:25] [main/INFO]: Starting provider: Advancements
-[00:34:25] [main/INFO]: Advancements finished after 96 ms
-[00:34:25] [main/INFO]: Starting provider: LootTables
-[00:34:25] [main/INFO]: LootTables finished after 518 ms
-[00:34:25] [main/INFO]: Starting provider: NBT to SNBT
-[00:34:25] [main/INFO]: NBT to SNBT finished after 0 ms
-[00:34:25] [main/INFO]: Starting provider: Block List
-[00:34:25] [main/INFO]: Block List finished after 214 ms
-[00:34:25] [main/INFO]: Starting provider: Registry Dump
-[00:34:25] [main/INFO]: Registry Dump finished after 16 ms
-[00:34:25] [main/INFO]: Starting provider: Command Syntax
-[00:34:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:34:26] [main/INFO]: Command Syntax finished after 332 ms
-[00:34:26] [main/INFO]: All providers took: 2180 ms
+[00:34:44] [main/INFO]: Starting provider: SNBT -> NBT
+[00:34:44] [main/INFO]: SNBT -> NBT finished after 1 ms
+[00:34:44] [main/INFO]: Starting provider: Block State Definitions
+[00:34:44] [main/INFO]: Block State Definitions finished after 695 ms
+[00:34:44] [main/INFO]: Starting provider: Fluid Tags
+[00:34:44] [main/INFO]: Fluid Tags finished after 4 ms
+[00:34:44] [main/INFO]: Starting provider: Block Tags
+[00:34:44] [main/INFO]: Block Tags finished after 9 ms
+[00:34:44] [main/INFO]: Starting provider: Item Tags
+[00:34:44] [main/INFO]: Item Tags finished after 4 ms
+[00:34:44] [main/INFO]: Starting provider: Entity Type Tags
+[00:34:44] [main/INFO]: Entity Type Tags finished after 0 ms
+[00:34:44] [main/INFO]: Starting provider: Recipes
+[00:34:45] [main/INFO]: Recipes finished after 209 ms
+[00:34:45] [main/INFO]: Starting provider: Advancements
+[00:34:45] [main/INFO]: Advancements finished after 99 ms
+[00:34:45] [main/INFO]: Starting provider: LootTables
+[00:34:45] [main/INFO]: LootTables finished after 478 ms
+[00:34:45] [main/INFO]: Starting provider: NBT to SNBT
+[00:34:45] [main/INFO]: NBT to SNBT finished after 0 ms
+[00:34:45] [main/INFO]: Starting provider: Block List
+[00:34:45] [main/INFO]: Block List finished after 244 ms
+[00:34:45] [main/INFO]: Starting provider: Registry Dump
+[00:34:45] [main/INFO]: Registry Dump finished after 19 ms
+[00:34:45] [main/INFO]: Starting provider: Command Syntax
+[00:34:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:34:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:34:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:34:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:34:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:34:46] [main/INFO]: Command Syntax finished after 509 ms
+[00:34:46] [main/INFO]: All providers took: 2307 ms
