@@ -1,27 +1,29 @@
-[22:06:43] [main/INFO]: Starting provider: SNBT -> NBT
-[22:06:43] [main/INFO]: SNBT -> NBT finished after 0 ms
-[22:06:43] [main/INFO]: Starting provider: Fluid Tags
-[22:06:44] [main/INFO]: Fluid Tags finished after 13 ms
-[22:06:44] [main/INFO]: Starting provider: Block Tags
-[22:06:44] [main/INFO]: Block Tags finished after 11 ms
-[22:06:44] [main/INFO]: Starting provider: Item Tags
-[22:06:44] [main/INFO]: Item Tags finished after 7 ms
-[22:06:44] [main/INFO]: Starting provider: Recipes
-[22:06:44] [main/INFO]: Recipes finished after 142 ms
-[22:06:44] [main/INFO]: Starting provider: Advancements
-[22:06:44] [main/INFO]: Advancements finished after 22 ms
-[22:06:44] [main/INFO]: Starting provider: NBT to SNBT
-[22:06:44] [main/INFO]: NBT to SNBT finished after 0 ms
-[22:06:44] [main/INFO]: Starting provider: Block List
-[22:06:44] [main/INFO]: Block List finished after 55 ms
-[22:06:44] [main/INFO]: Starting provider: Item List
-[22:06:44] [main/INFO]: Item List finished after 2 ms
-[22:06:44] [main/INFO]: Starting provider: Command Syntax
-[22:06:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:06:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:06:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:06:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:06:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:06:44] [main/INFO]: Loaded 0 recipes
-[22:06:44] [main/INFO]: Loaded 0 advancements
-[22:06:44] [main/INFO]: Command Syntax finished after 138 ms
+[22:06:56] [main/INFO]: Starting provider: SNBT -> NBT
+[22:06:56] [main/INFO]: SNBT -> NBT finished after 0 ms
+[22:06:56] [main/INFO]: Starting provider: Fluid Tags
+[22:06:56] [main/INFO]: Fluid Tags finished after 15 ms
+[22:06:56] [main/INFO]: Starting provider: Block Tags
+[22:06:57] [main/INFO]: Block Tags finished after 15 ms
+[22:06:57] [main/INFO]: Starting provider: Item Tags
+[22:06:57] [main/INFO]: Item Tags finished after 7 ms
+[22:06:57] [main/INFO]: Starting provider: Recipes
+[22:06:57] [main/INFO]: Recipes finished after 151 ms
+[22:06:57] [main/INFO]: Starting provider: Advancements
+[22:06:57] [main/INFO]: Advancements finished after 25 ms
+[22:06:57] [main/INFO]: Starting provider: NBT to SNBT
+[22:06:57] [main/INFO]: NBT to SNBT finished after 0 ms
+[22:06:57] [main/INFO]: Starting provider: Block List
+[22:06:57] [main/INFO]: Block List finished after 73 ms
+[22:06:57] [main/INFO]: Starting provider: Item List
+[22:06:57] [main/INFO]: Item List finished after 2 ms
+[22:06:57] [main/INFO]: Starting provider: Command Syntax
+[22:06:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:06:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:06:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:06:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:06:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:06:57] [main/INFO]: Loaded 0 recipes
+[22:06:57] [main/INFO]: Loaded 0 advancements
+[22:06:57] [main/ERROR]: Could not serialize argument bz@71f056a (class bz)!
+[22:06:57] [main/ERROR]: Could not serialize argument bz@64f6dd19 (class bz)!
+[22:06:57] [main/INFO]: Command Syntax finished after 150 ms
