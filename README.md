@@ -1,1 +1,1 @@
-# Minecraft Data - 1.20-rc1
+# Minecraft Data - 1.20
