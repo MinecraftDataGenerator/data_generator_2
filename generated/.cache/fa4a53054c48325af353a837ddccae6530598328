@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 2	2026-07-31T14:13:15.334152708	vanilla/Tags for minecraft:item
+// 1.19.4 Release Candidate 3	2026-07-31T14:13:29.540719131	vanilla/Tags for minecraft:item
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/items/signs.json
@@ -60,8 +60,8 @@ b197c522c5d1bf863432ab04a9c9b18fa9e8ced7 data/minecraft/tags/items/axolotl_tempt
 a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/items/walls.json
 8f9d98e8e906913bd9389fccb47fef34320f78cc data/minecraft/tags/items/cluster_max_harvestables.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/items/redstone_ores.json
-7c28f85f87f39201d2d4b362cadb5fc432d2a888 data/minecraft/tags/items/wooden_doors.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/items/lectern_books.json
+7c28f85f87f39201d2d4b362cadb5fc432d2a888 data/minecraft/tags/items/wooden_doors.json
 3b950c80bace8299126b5b156ecf34a265bf4df2 data/minecraft/tags/items/arrows.json
 1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/items/piglin_repellents.json
 555cdf03117de10eb8274ffe28d2304a4d7bfb9f data/minecraft/tags/items/shovels.json
