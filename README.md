@@ -1,1 +1,1 @@
-# Minecraft Data - 1.19.2-rc1
+# Minecraft Data - 1.19.2-rc2
