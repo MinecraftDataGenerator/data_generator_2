@@ -1,4 +1,4 @@
-// 1.21.2	2026-07-31T14:43:54.023154032	vanilla/Tags for minecraft:block
+// 1.21.3	2026-07-31T14:44:10.451359736	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
@@ -25,8 +25,8 @@ ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/block/mushroom_grow
 9dfd09180a555f6464fec17bc82c39e10974b22e data/minecraft/tags/block/ancient_city_replaceable.json
 6434eab593808ccdda380aa89dbf4977e908d7b4 data/minecraft/tags/block/mangrove_roots_can_grow_through.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/block/warped_stems.json
-55d021ee37fe4ddcf34b5e733280ae51aa90d6be data/minecraft/tags/block/impermeable.json
 c8ec59201ede7ff6cb74a70bd44fb6be642a3f40 data/minecraft/tags/block/stone_pressure_plates.json
+55d021ee37fe4ddcf34b5e733280ae51aa90d6be data/minecraft/tags/block/impermeable.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/soul_fire_base_blocks.json
 d7741a7bcdab6fbdbc9c931e88576a038a1562ed data/minecraft/tags/block/wither_immune.json
 5077a13d64733dabbf06096540da79548431f405 data/minecraft/tags/block/saplings.json
@@ -133,9 +133,9 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 642497f10f9b4cd17f0596ccd068a662779a5143 data/minecraft/tags/block/logs_that_burn.json
 4161727d1e5d26faf957fabebe6b6c8cc6e884f2 data/minecraft/tags/block/leaves.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
-090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
-c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
 b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
+c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
+090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/block/pressure_plates.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 158a4877fad0ee79d00e8c9f641ad661e822cdb5 data/minecraft/tags/block/sniffer_egg_hatch_boost.json
