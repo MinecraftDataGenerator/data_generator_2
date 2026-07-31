@@ -1,4 +1,4 @@
-// 1.21.8 Release Candidate 1	2026-07-31T14:58:45.201672459	vanilla/Loot Tables
+// 1.21.8	2026-07-31T14:59:01.901666164	vanilla/Loot Tables
 415fbbb37d98668ba0c268122a5227bc70bc1d0e data/minecraft/loot_table/gameplay/chicken_lay.json
 0f905afcf3733f9f7ce32d8b48e4a2041b7aefdd data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 c4dbb75007d3c56c0793952d0e1581a79319e798 data/minecraft/loot_table/blocks/birch_wood.json
@@ -644,8 +644,8 @@ d6c30c87f994301602f7c0db1dbe669d33dede99 data/minecraft/loot_table/blocks/smooth
 747b419c8834a94b61e4bdd0a39e0f199bb60578 data/minecraft/loot_table/archaeology/trail_ruins_common.json
 b0e2b655f576991dee637ef4a4b14187d01d24f4 data/minecraft/loot_table/blocks/polished_tuff_wall.json
 6f58b1b0d2e185400ebea38aa62bfe8b10ef17ad data/minecraft/loot_table/blocks/torch.json
-ff1455465a439abd047c9e94bb0f2fcfeb9ae8e8 data/minecraft/loot_table/blocks/polished_blackstone_slab.json
 c9c7f519884e556442f2d5d27a3cd1f4d24c3586 data/minecraft/loot_table/blocks/stripped_warped_hyphae.json
+ff1455465a439abd047c9e94bb0f2fcfeb9ae8e8 data/minecraft/loot_table/blocks/polished_blackstone_slab.json
 56af62e0fc7459b1b303033836e649d03ed5d579 data/minecraft/loot_table/entities/dolphin.json
 4653908d1a9a145bc7c7f7aa14581047829646e8 data/minecraft/loot_table/blocks/potted_azalea_bush.json
 177e1c8acce6d6074a4aafb2bfe9ab4610d637bc data/minecraft/loot_table/blocks/bamboo_trapdoor.json
@@ -1018,8 +1018,8 @@ f2201dc822d8739ccb15fed8b11c23cc25523cad data/minecraft/loot_table/blocks/mangro
 ea35c1452864695d4bbafb0e9ecdaed20b260112 data/minecraft/loot_table/blocks/potted_allium.json
 c96241858090b54d2962443b7a7ea36f19a908d2 data/minecraft/loot_table/chests/desert_pyramid.json
 7fe84b94aa82cd08eda84c47f7ef451d9fb856f1 data/minecraft/loot_table/chests/nether_bridge.json
-63ecf5b7af0e2c42ca3405f956455eda217e54b6 data/minecraft/loot_table/blocks/blue_concrete.json
 544d0f04c9d7e5d1a6b1fb0097f7b6b4f0d384a3 data/minecraft/loot_table/blocks/polished_basalt.json
+63ecf5b7af0e2c42ca3405f956455eda217e54b6 data/minecraft/loot_table/blocks/blue_concrete.json
 517c459df4308f013df933ef43663fc81f1949bb data/minecraft/loot_table/blocks/melon.json
 74519cf75d1db26ddc59d2cf0044c1aec55f6cbe data/minecraft/loot_table/blocks/pink_candle.json
 1d6a5c5c1285cc95c7c55fc9d85f266bc686d26e data/minecraft/loot_table/blocks/white_candle.json
