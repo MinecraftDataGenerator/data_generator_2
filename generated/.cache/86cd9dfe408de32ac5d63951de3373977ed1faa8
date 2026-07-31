@@ -1,4 +1,4 @@
-// 1.21.5 Release Candidate 2	2026-07-31T14:52:41.642621472	vanilla/Tags for minecraft:block
+// 1.21.5	2026-07-31T14:53:02.612565356	vanilla/Tags for minecraft:block
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/block/bee_attractive.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 e58f5fa3c4fe3090b27304fa8f3c92e23594f085 data/minecraft/tags/block/flower_pots.json
@@ -92,13 +92,13 @@ ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 dd3a77b2229c67cb46f729e311d06ba0f1ed4525 data/minecraft/tags/block/replaceable.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json
-45bb9869c8765a149d367b37f30de3aa7b649c59 data/minecraft/tags/block/dirt.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/block/crimson_stems.json
+45bb9869c8765a149d367b37f30de3aa7b649c59 data/minecraft/tags/block/dirt.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/block/completes_find_tree_tutorial.json
 92861bbfc33718f65a6c66f4468675fa09ac162f data/minecraft/tags/block/animals_spawnable_on.json
-445ffbabd7c2f65b4778c62104d7ecffde797cbc data/minecraft/tags/block/fence_gates.json
 72c48bb2bb0c020c522578894e993b200e9e5efd data/minecraft/tags/block/wall_hanging_signs.json
+445ffbabd7c2f65b4778c62104d7ecffde797cbc data/minecraft/tags/block/fence_gates.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/block/unstable_bottom_center.json
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_replaceable.json
 2f6f453e3ae95b8921ba5b843b704a77117e01a7 data/minecraft/tags/block/climbable.json
@@ -123,8 +123,8 @@ f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/block/fall_damage_r
 9fa8e169d8e22baeaa4b0c96ba6ab87ab881a4cd data/minecraft/tags/block/wolves_spawnable_on.json
 31c793313c9b85d3bd3d53198d21098ea2adaf78 data/minecraft/tags/block/camel_sand_step_sound_blocks.json
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/block/trapdoors.json
-c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/convertable_to_mud.json
 da8b8f8686a75b8cf996f5f2752a61934cf2dfaa data/minecraft/tags/block/mineable/shovel.json
+c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/convertable_to_mud.json
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/block/spruce_logs.json
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/block/concrete_powder.json
 da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spawnable_on.json
