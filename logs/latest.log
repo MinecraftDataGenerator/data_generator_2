@@ -1,36 +1,40 @@
-[13:53:53] [ServerMain/INFO]: Starting provider: SNBT -> NBT
-[13:53:53] [ServerMain/INFO]: SNBT -> NBT finished after 0 ms
-[13:53:53] [ServerMain/INFO]: Starting provider: Block State Definitions
-[13:53:54] [ServerMain/INFO]: Block State Definitions finished after 1000 ms
-[13:53:54] [ServerMain/INFO]: Starting provider: Fluid Tags
-[13:53:54] [ServerMain/INFO]: Fluid Tags finished after 5 ms
-[13:53:54] [ServerMain/INFO]: Starting provider: Block Tags
-[13:53:54] [ServerMain/INFO]: Block Tags finished after 95 ms
-[13:53:54] [ServerMain/INFO]: Starting provider: Item Tags
-[13:53:54] [ServerMain/INFO]: Item Tags finished after 34 ms
-[13:53:54] [ServerMain/INFO]: Starting provider: Entity Type Tags
-[13:53:54] [ServerMain/INFO]: Entity Type Tags finished after 11 ms
-[13:53:54] [ServerMain/INFO]: Starting provider: Recipes
-[13:53:55] [ServerMain/INFO]: Recipes finished after 644 ms
-[13:53:55] [ServerMain/INFO]: Starting provider: Advancements
-[13:53:55] [ServerMain/INFO]: Advancements finished after 698 ms
-[13:53:55] [ServerMain/INFO]: Starting provider: LootTables
-[13:53:56] [ServerMain/INFO]: LootTables finished after 722 ms
-[13:53:56] [ServerMain/INFO]: Starting provider: Game Event Tags
-[13:53:56] [ServerMain/INFO]: Game Event Tags finished after 1 ms
-[13:53:56] [ServerMain/INFO]: Starting provider: NBT to SNBT
-[13:53:56] [ServerMain/INFO]: NBT to SNBT finished after 0 ms
-[13:53:56] [ServerMain/INFO]: Starting provider: Block List
-[13:53:56] [ServerMain/INFO]: Block List finished after 372 ms
-[13:53:56] [ServerMain/INFO]: Starting provider: Registry Dump
-[13:53:56] [ServerMain/INFO]: Registry Dump finished after 24 ms
-[13:53:57] [ServerMain/INFO]: Starting provider: Command Syntax
-[13:53:57] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:53:57] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:53:57] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:53:57] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:53:57] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:53:57] [ServerMain/INFO]: Command Syntax finished after 625 ms
-[13:53:57] [ServerMain/INFO]: Starting provider: Worldgen
-[13:54:02] [ServerMain/INFO]: Worldgen finished after 4721 ms
-[13:54:02] [ServerMain/INFO]: All providers took: 9026 ms
+[13:54:19] [ServerMain/INFO]: Starting provider: SNBT -> NBT
+[13:54:19] [ServerMain/INFO]: SNBT -> NBT finished after 0 ms
+[13:54:19] [ServerMain/INFO]: Starting provider: Block State Definitions
+[13:54:20] [ServerMain/INFO]: Block State Definitions finished after 750 ms
+[13:54:20] [ServerMain/INFO]: Starting provider: Fluid Tags
+[13:54:20] [ServerMain/INFO]: Fluid Tags finished after 5 ms
+[13:54:20] [ServerMain/INFO]: Starting provider: Block Tags
+[13:54:20] [ServerMain/INFO]: Block Tags finished after 38 ms
+[13:54:20] [ServerMain/INFO]: Starting provider: Item Tags
+[13:54:20] [ServerMain/INFO]: Item Tags finished after 13 ms
+[13:54:20] [ServerMain/INFO]: Starting provider: Entity Type Tags
+[13:54:20] [ServerMain/INFO]: Entity Type Tags finished after 1 ms
+[13:54:20] [ServerMain/INFO]: Starting provider: Recipes
+[13:54:20] [ServerMain/INFO]: Recipes finished after 563 ms
+[13:54:20] [ServerMain/INFO]: Starting provider: Advancements
+[13:54:21] [ServerMain/INFO]: Advancements finished after 476 ms
+[13:54:21] [ServerMain/INFO]: Starting provider: LootTables
+[13:54:21] [ServerMain/INFO]: LootTables finished after 564 ms
+[13:54:21] [ServerMain/INFO]: Starting provider: Game Event Tags
+[13:54:21] [ServerMain/INFO]: Game Event Tags finished after 1 ms
+[13:54:21] [ServerMain/INFO]: Starting provider: Biome Tags
+[13:54:22] [ServerMain/INFO]: Biome Tags finished after 5 ms
+[13:54:22] [ServerMain/INFO]: Starting provider: NBT to SNBT
+[13:54:22] [ServerMain/INFO]: NBT to SNBT finished after 0 ms
+[13:54:22] [ServerMain/INFO]: Starting provider: Block List
+[13:54:22] [ServerMain/INFO]: Block List finished after 375 ms
+[13:54:22] [ServerMain/INFO]: Starting provider: Registry Dump
+[13:54:22] [ServerMain/INFO]: Registry Dump finished after 23 ms
+[13:54:22] [ServerMain/INFO]: Starting provider: Command Syntax
+[13:54:22] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:54:23] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:54:23] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:54:23] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:54:23] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:54:23] [ServerMain/INFO]: Command Syntax finished after 642 ms
+[13:54:23] [ServerMain/INFO]: Starting provider: Worldgen
+[13:54:23] [ServerMain/WARN]: Creating a MIN function between two non-overlapping inputs: h[type=SQUEEZE, input=j[type=MUL, input=i[type=Interpolated, function=c[input=u[settings=ctz[minY=0, height=128, noiseSamplingSettings=cty@416b49dc, topSlideSettings=cua[target=0.9375, size=3, offset=0], bottomSlideSettings=cua[target=2.5, size=4, offset=-1], noiseSizeHorizontal=1, noiseSizeVertical=2, islandNoiseOverride=false, isAmplified=false, largeBiomes=false, terrainShaper=cby@75cc89c7], input=i[type=CacheOnce, function=a[type=ADD, f1=j[type=MUL, input=h[type=QUARTER_NEGATIVE, input=a[type=MUL, f1=a[type=ADD, f1=a[type=ADD, f1=y[fromY=-64, toY=320, fromValue=1.5, toValue=-1.5], f2=i[type=FlatCache, function=i[type=Cache2D, function=a[type=ADD, f1=a[type=MUL, f1=INSTANCE, f2=j[type=ADD, input=j[type=MUL, input=i[type=CacheOnce, function=INSTANCE], minValue=-1.0, maxValue=-1.0, argument=-1.0], minValue=0.0, maxValue=0.0, argument=1.0], minValue=0.0, maxValue=0.0], f2=a[type=MUL, f1=v[continentalness=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@cd57136]], erosion=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@190853b0]], weirdness=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@4c5b6f6d]], spline=ctx$$Lambda/0x00000000a16ece10@1f61cd32, minValue=-0.81, maxValue=2.5], f2=i[type=CacheOnce, function=INSTANCE], minValue=-0.81, maxValue=2.5], minValue=-0.81, maxValue=2.5]]], minValue=-2.31, maxValue=4.0], f2=a[type=MUL, f1=i[type=FlatCache, function=i[type=Cache2D, function=a[type=ADD, f1=j[type=MUL, input=j[type=ADD, input=j[type=MUL, input=i[type=CacheOnce, function=INSTANCE], minValue=-1.0, maxValue=-1.0, argument=-1.0], minValue=0.0, maxValue=0.0, argument=1.0], minValue=0.0, maxValue=0.0, argument=0.0], f2=a[type=MUL, f1=v[continentalness=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@cd57136]], erosion=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@190853b0]], weirdness=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@4c5b6f6d]], spline=ctx$$Lambda/0x00000000a16ee3a8@389a4329, minValue=0.0, maxValue=1.28], f2=i[type=CacheOnce, function=INSTANCE], minValue=0.0, maxValue=1.28], minValue=0.0, maxValue=1.28]]], f2=h[type=HALF_NEGATIVE, input=k[noise=dht@780a1aac, xzScale=1500.0, yScale=0.0], minValue=-3.137254901960784, maxValue=6.274509803921568], minValue=-4.015686274509803, maxValue=8.031372549019606], minValue=-6.325686274509803, maxValue=12.031372549019606], f2=i[type=FlatCache, function=i[type=Cache2D, function=a[type=ADD, f1=j[type=MUL, input=j[type=ADD, input=j[type=MUL, input=i[type=CacheOnce, function=INSTANCE], minValue=-1.0, maxValue=-1.0, argument=-1.0], minValue=0.0, maxValue=0.0, argument=1.0], minValue=0.0, maxValue=0.0, argument=10.0], f2=a[type=MUL, f1=v[continentalness=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@cd57136]], erosion=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@190853b0]], weirdness=i[type=FlatCache, function=t[shiftX=i[type=FlatCache, function=i[type=Cache2D, function=q[offsetNoise=dht@2f5753f7]]], shiftY=f[value=0.0], shiftZ=i[type=FlatCache, function=i[type=Cache2D, function=r[offsetNoise=dht@2f5753f7]]], xzScale=0.25, yScale=0.0, noise=dht@4c5b6f6d]], spline=ctx$$Lambda/0x00000000a16ee178@4cbfce8b, minValue=0.0, maxValue=8.0], f2=i[type=CacheOnce, function=INSTANCE], minValue=0.0, maxValue=8.0], minValue=0.0, maxValue=8.0]]], minValue=-50.60549019607842, maxValue=96.25098039215685], minValue=-12.651372549019605, maxValue=96.25098039215685], minValue=-50.60549019607842, maxValue=385.0039215686274, argument=4.0], f2=dhq@62c541, minValue=-2105.8414901960787, maxValue=2440.239921568628]]]]], minValue=-Infinity, maxValue=Infinity, argument=0.64], minValue=-0.4583333333333333, maxValue=0.4583333333333333] and f[value=64.0]
+[13:54:23] [ServerMain/WARN]: Creating a MIN function between two non-overlapping inputs: h[type=SQUEEZE, input=j[type=MUL, input=i[type=Interpolated, function=c[input=u[settings=ctz[minY=0, height=128, noiseSamplingSettings=cty@68f10f3e, topSlideSettings=cua[target=-23.4375, size=64, offset=-46], bottomSlideSettings=cua[target=-0.234375, size=7, offset=1], noiseSizeHorizontal=2, noiseSizeVertical=1, islandNoiseOverride=true, isAmplified=false, largeBiomes=false, terrainShaper=cby@17e89359], input=i[type=CacheOnce, function=a[type=ADD, f1=ctk$g@69eb2896, f2=dhq@147b8ec2, minValue=-687.2557499999999, maxValue=686.9744999999999]]]]], minValue=-Infinity, maxValue=Infinity, argument=0.64], minValue=-0.4583333333333333, maxValue=0.4583333333333333] and f[value=64.0]
+[13:54:24] [ServerMain/INFO]: Worldgen finished after 1489 ms
+[13:54:24] [ServerMain/INFO]: All providers took: 5023 ms
