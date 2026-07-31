@@ -1,4 +1,4 @@
-// 23w43b	2026-07-31T14:23:09.738642935	vanilla/Loot Tables
+// 23w44a	2026-07-31T14:23:26.192979708	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -564,8 +564,8 @@ a579abe6bfb2131f2559f3b3c9e9311529e7e5c3 data/minecraft/loot_tables/blocks/infes
 e41953a068314e4bbeb0597480467e8a1a3735d3 data/minecraft/loot_tables/blocks/cobbled_deepslate.json
 9dc71538e0a72ba2f3b914d34b1f762bffcd3693 data/minecraft/loot_tables/chests/ancient_city.json
 335389bb6fb6e0a7a84b59a42b634f05cda93b0d data/minecraft/loot_tables/blocks/brown_wool.json
-d0ff329ec5f535bbcae2507122bdd3760a5eb3af data/minecraft/loot_tables/blocks/light_blue_stained_glass_pane.json
 56322dc92f65dce211e48105f96d33a6b3f45440 data/minecraft/loot_tables/blocks/blue_orchid.json
+d0ff329ec5f535bbcae2507122bdd3760a5eb3af data/minecraft/loot_tables/blocks/light_blue_stained_glass_pane.json
 7f880c8229b79971b329ae3d4bf9e4f7ea776494 data/minecraft/loot_tables/blocks/ice.json
 fe5cf1db4c4443dc73f12a4676048c567b802c9a data/minecraft/loot_tables/blocks/blackstone_slab.json
 17f4edd6709c202d9d3306ce5bc0a6d5f0068815 data/minecraft/loot_tables/blocks/sandstone_wall.json
@@ -779,8 +779,8 @@ db483f89bd6a6f71e2ece42350814d82b3b8559a data/minecraft/loot_tables/blocks/smoot
 16627d78901fd7f72f23ebcc81e717877a2d5c67 data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
 a57f92be2f30f6a5d42f66c8905a8add833bd8d2 data/minecraft/loot_tables/blocks/birch_trapdoor.json
 097a4f5a4df50e3e2aff94f0e2abb1deaf8e01b6 data/minecraft/loot_tables/blocks/potted_pink_tulip.json
-7d77593e1ee18f049579f24302bfcb5e3b6f1f3b data/minecraft/loot_tables/blocks/spruce_fence_gate.json
 52052327b9ae772843164c701dc9be40ac6df431 data/minecraft/loot_tables/blocks/light_blue_bed.json
+7d77593e1ee18f049579f24302bfcb5e3b6f1f3b data/minecraft/loot_tables/blocks/spruce_fence_gate.json
 63e9ecb03a641d1e7ca63a3453f4225d7510f061 data/minecraft/loot_tables/blocks/bamboo_pressure_plate.json
 ba4b6f9e942b8a7c380b82c6cc5875b2a616053b data/minecraft/loot_tables/blocks/waxed_copper_door.json
 1f8833138e14bec637c25208b1b9af7ac20461fa data/minecraft/loot_tables/blocks/oak_pressure_plate.json
