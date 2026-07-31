@@ -1,4 +1,4 @@
-// 25w33a	2026-07-31T15:00:08.150470572	vanilla/Tags for minecraft:block
+// 25w34a	2026-07-31T15:00:29.526813811	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -15,7 +15,7 @@ e9d352a7a079a3d6b05caa452924fb03a001cbae data/minecraft/tags/block/wooden_fences
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/triggers_ambient_dried_ghast_block_sounds.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/block/warped_stems.json
 c8ec59201ede7ff6cb74a70bd44fb6be642a3f40 data/minecraft/tags/block/stone_pressure_plates.json
-55d021ee37fe4ddcf34b5e733280ae51aa90d6be data/minecraft/tags/block/impermeable.json
+cef9385c8f959fe9c62be9fdbee0480064da71b9 data/minecraft/tags/block/impermeable.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/block/emerald_ores.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/block/bamboo_blocks.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/block/dark_oak_logs.json
@@ -50,8 +50,8 @@ e096b0c31004c577be60ad20cf513bd59bbaed94 data/minecraft/tags/block/wall_signs.js
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/block/completes_find_tree_tutorial.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/block/unstable_bottom_center.json
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_replaceable.json
-51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/block/maintains_farmland.json
 2f6f453e3ae95b8921ba5b843b704a77117e01a7 data/minecraft/tags/block/climbable.json
+51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/block/maintains_farmland.json
 f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/block/infiniburn_end.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/block/frogs_spawnable_on.json
 e20a9087558b4404a6e500f050a7d0e926667902 data/minecraft/tags/block/wall_post_override.json
@@ -200,5 +200,5 @@ f8b33bdbdce4a74f9b09d6755c47411a750a0d4e data/minecraft/tags/block/lanterns.json
 6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/block/campfires.json
 8f81701d3d8af27885661ded1822c8dc147b9577 data/minecraft/tags/block/copper_chests.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/block/dampens_vibrations.json
-bd29d87fc419f7c781893cecdda4e18e36fc0c8d data/minecraft/tags/block/dragon_immune.json
 c95c455fe4e6a7c8c1a280e27f6957acdeb9e2f3 data/minecraft/tags/block/occludes_vibration_signals.json
+bd29d87fc419f7c781893cecdda4e18e36fc0c8d data/minecraft/tags/block/dragon_immune.json

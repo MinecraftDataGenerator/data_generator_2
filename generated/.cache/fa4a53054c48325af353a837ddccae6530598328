@@ -1,4 +1,4 @@
-// 25w33a	2026-07-31T15:00:08.146828131	vanilla/Tags for minecraft:item
+// 25w34a	2026-07-31T15:00:29.513716945	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -16,8 +16,8 @@ a6489f4d86c3a6bef6bfb8f58dd8cb1d3fb724da data/minecraft/tags/item/foot_armor.jso
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/item/completes_find_tree_tutorial.json
 04346ff78e5919b94c527de4177239c2e0be5212 data/minecraft/tags/item/llama_food.json
 a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisonous_food.json
-17ba01ef695bf5921b47243b56fd226dca024488 data/minecraft/tags/item/lightning_rods.json
 587c54e473e14c5f06b1e5cff5be44068aeba6d3 data/minecraft/tags/item/copper_golem_statues.json
+17ba01ef695bf5921b47243b56fd226dca024488 data/minecraft/tags/item/lightning_rods.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/item/lapis_ores.json
 eaa103df61588e3f3fc65f53de2a329861423539 data/minecraft/tags/item/boats.json
 7c7d628823aeb153c19b28c52827f0b6a399e5d7 data/minecraft/tags/item/breaks_decorated_pots.json
@@ -61,8 +61,8 @@ e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/item/shulker_boxes.
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 5d407768566931624382de0b64078a58503568c0 data/minecraft/tags/item/pickaxes.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/item/bamboo_blocks.json
-40fc28555ba86485c2fdf3bc327bb05602bd7cb5 data/minecraft/tags/item/camel_food.json
 1ee1f51eb410f708b409641cc525762de366b405 data/minecraft/tags/item/cluster_max_harvestables.json
+40fc28555ba86485c2fdf3bc327bb05602bd7cb5 data/minecraft/tags/item/camel_food.json
 39ee780e381eee7c3421edac518a33e84cec6fcf data/minecraft/tags/item/enchantable/mining_loot.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/item/redstone_ores.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/item/dark_oak_logs.json
