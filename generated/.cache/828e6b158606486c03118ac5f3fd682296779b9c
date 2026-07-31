@@ -1,4 +1,4 @@
-// 1.21.9-rc1	2026-07-31T15:04:20.651920053	vanilla/Loot Tables
+// 1.21.9	2026-07-31T15:04:36.777074588	vanilla/Loot Tables
 415fbbb37d98668ba0c268122a5227bc70bc1d0e data/minecraft/loot_table/gameplay/chicken_lay.json
 0f905afcf3733f9f7ce32d8b48e4a2041b7aefdd data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 c4dbb75007d3c56c0793952d0e1581a79319e798 data/minecraft/loot_table/blocks/birch_wood.json
@@ -354,8 +354,8 @@ d58ffd08c8a9c03b4dbb838401bf6a73a0936144 data/minecraft/loot_table/entities/wand
 f5e1c9132f89f37553d090672d9cb47fd5353ccb data/minecraft/loot_table/blocks/sandstone.json
 c71f77a9bc65e23328358fbd2161c46d00284e26 data/minecraft/loot_table/blocks/weeping_vines_plant.json
 6cf9078610a3f3ca7173d8fe2ca6dd0282e8d21b data/minecraft/loot_table/blocks/chiseled_resin_bricks.json
-36689efdc3b010228bdd0b68fecd7a56372302d6 data/minecraft/loot_table/entities/panda.json
 442a0691fbc0b1bf2e75184001b289c45fbac10d data/minecraft/loot_table/blocks/tube_coral_fan.json
+36689efdc3b010228bdd0b68fecd7a56372302d6 data/minecraft/loot_table/entities/panda.json
 fc78f7fca1f48445c445678b915c0c320de1f838 data/minecraft/loot_table/blocks/infested_mossy_stone_bricks.json
 2de5fc6989bdcf30a888e71a712d1c425bdb7f6d data/minecraft/loot_table/blocks/frosted_ice.json
 2cbc3e76e4fcc5fa648ee9a0850483f1a94f3018 data/minecraft/loot_table/blocks/ochre_froglight.json
@@ -433,8 +433,8 @@ c4d4ffc40a8bc3125cd2d4c4bd23b91c13b7ba44 data/minecraft/loot_table/blocks/brown_
 f1c98aae67537829cc8e5474e6fd4175ee56f157 data/minecraft/loot_table/blocks/jungle_fence_gate.json
 3343f4a5fabd5685bbe1cfcd2192091c0f23943d data/minecraft/loot_table/blocks/light_blue_terracotta.json
 26f742c0e13461405bc229596b951e6a6322cda1 data/minecraft/loot_table/blocks/bamboo_hanging_sign.json
-0f34f05745c6adccdde0c3bdde812a4e517912ce data/minecraft/loot_table/blocks/brown_bed.json
 24bd6613fe75fb26a504e2b79e16394a86777bf6 data/minecraft/loot_table/blocks/exposed_copper.json
+0f34f05745c6adccdde0c3bdde812a4e517912ce data/minecraft/loot_table/blocks/brown_bed.json
 419cbf036d517490f298dccefe091cfb7b0a337e data/minecraft/loot_table/entities/wolf.json
 436bee7462db1c06f689e51aac7dcd16617d332b data/minecraft/loot_table/entities/slime.json
 d4883759de8945b3c654dd77c332fda5b8bed166 data/minecraft/loot_table/blocks/hanging_roots.json
