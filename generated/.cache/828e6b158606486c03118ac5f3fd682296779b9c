@@ -1,4 +1,4 @@
-// 1.19.3 Pre-release 1	2026-07-31T14:08:24.600413847	vanilla/Loot Tables
+// 1.19.3 Pre-release 2	2026-07-31T14:08:42.896603461	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -824,8 +824,8 @@ d16466e275c74f4ede835eb6d0ab7f5b0d20d67e data/minecraft/loot_tables/blocks/jungl
 f0f7e7fae8e87e9df2cd6a6ff5f9b4f8997bf9b4 data/minecraft/loot_tables/blocks/rooted_dirt.json
 92f8bc7e28b77f12f96cf4cd512e15e40508a48e data/minecraft/loot_tables/blocks/soul_lantern.json
 c891a565c2d55db031f866e125edd90a5e1ea7f2 data/minecraft/loot_tables/entities/pufferfish.json
-f719fbbdcd58629d0beee505f9b77b993e53934d data/minecraft/loot_tables/blocks/obsidian.json
 357cb96f1585a6c2a8b191ea50f43ab42d100ea2 data/minecraft/loot_tables/blocks/iron_trapdoor.json
+f719fbbdcd58629d0beee505f9b77b993e53934d data/minecraft/loot_tables/blocks/obsidian.json
 6a6a90d3ccbb7148f0930ebb433c6a8c9855265d data/minecraft/loot_tables/blocks/bell.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/cake.json
 b9b6b59237b880693ba807f6e45d8099ac38e832 data/minecraft/loot_tables/blocks/white_stained_glass_pane.json
