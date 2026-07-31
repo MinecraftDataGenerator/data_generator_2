@@ -1,4 +1,4 @@
-// 24w04a	2026-07-31T14:27:48.049732367	vanilla/Loot Tables
+// 24w05a	2026-07-31T14:28:02.816140238	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -806,6 +806,7 @@ da91363b071ce3561c6fc53bd254815f9d09e2c6 data/minecraft/loot_tables/entities/zog
 6a0ea5d1f160a52544bf0782b453b0143e6045a7 data/minecraft/loot_tables/blocks/green_concrete_powder.json
 606add5c5827b56415003a1d506a84b285d0e3ef data/minecraft/loot_tables/blocks/orange_glazed_terracotta.json
 3d13aa46898fc4ece1ab77d8f325d62de159ec33 data/minecraft/loot_tables/blocks/blue_stained_glass_pane.json
+c3a96598489b08d3c189e7d97bb9c0fd208a419f data/minecraft/loot_tables/blocks/vault.json
 4bee2a5edb2b095879e28cbe4f8a926c0736da3f data/minecraft/loot_tables/blocks/jungle_slab.json
 c68e67346f5d6d30d3408c928493db8d739e6afb data/minecraft/loot_tables/blocks/glass_pane.json
 dc9b59546249bd23c0cce75685dd35e7d8b0c68a data/minecraft/loot_tables/entities/drowned.json
