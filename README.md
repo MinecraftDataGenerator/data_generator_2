@@ -1,1 +1,1 @@
-# Minecraft Data - 23w05a
+# Minecraft Data - 23w06a

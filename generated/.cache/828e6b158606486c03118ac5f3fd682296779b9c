@@ -1,4 +1,4 @@
-// 23w05a	2026-07-31T14:11:10.381530144	vanilla/Loot Tables
+// 23w06a	2026-07-31T14:11:24.722530317	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -245,7 +245,7 @@ e563d5a049160085b4ee33683b00f3e5a14d9632 data/minecraft/loot_tables/blocks/lime_
 3760a96b5b91a44ad3b8e2c88a0d1405c5ecb5dc data/minecraft/loot_tables/blocks/birch_wood.json
 0e5469e9630572d200dde3477e38bd04068f829b data/minecraft/loot_tables/blocks/sculk_vein.json
 e69a53926230456efcb8419a8a41aeab0ab8266f data/minecraft/loot_tables/blocks/acacia_slab.json
-480fd304e4769ab442ab062f22cd714ab85de63a data/minecraft/loot_tables/entities/turtle.json
+009300d3f9b402b654574c8f4ef6f2f2c8aea810 data/minecraft/loot_tables/entities/turtle.json
 a8133ecbd33757ea3f24cf15182958c98b62006c data/minecraft/loot_tables/blocks/green_shulker_box.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/bamboo_sign.json
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/giant.json
