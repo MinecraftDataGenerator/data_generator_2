@@ -1,4 +1,4 @@
-// 26.2-pre-2	2026-07-31T15:22:40.908392306	vanilla/Tags for minecraft:entity_type
+// 26.2-pre-3	2026-07-31T15:23:00.385372504	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -43,6 +43,6 @@ d108935ea565f22643f51f9b7f152a08b9a831d0 data/minecraft/tags/entity_type/not_sca
 de28c1b8f1dbe44fbb27df3cbf75932195e4bd6c data/minecraft/tags/entity_type/illager_friends.json
 3f1dd0c5c67aa8c83e77cc78c3de66b29c81d5ab data/minecraft/tags/entity_type/accepts_iron_golem_gift.json
 1ca3e9485b35aa306b8137e5b6b2f90e4580aa99 data/minecraft/tags/entity_type/cannot_be_pushed_onto_boats.json
-1d670a94cff7be39fb2db66dc268cb21e4b3cf20 data/minecraft/tags/entity_type/non_controlling_rider.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/sensitive_to_smite.json
+1d670a94cff7be39fb2db66dc268cb21e4b3cf20 data/minecraft/tags/entity_type/non_controlling_rider.json

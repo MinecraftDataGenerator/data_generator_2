@@ -1,4 +1,4 @@
-// 26.2-pre-2	2026-07-31T15:22:40.907069022	vanilla/Tags for minecraft:block
+// 26.2-pre-3	2026-07-31T15:23:00.3840814	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 0015c8ac2a73e2714e6a626d421ae0c88dc06a32 data/minecraft/tags/block/shears_minor_breaking_speed.json
@@ -58,8 +58,8 @@ bc8701774f57ab000a8f0f1d390702175a6cdbb8 data/minecraft/tags/block/polar_bear_im
 f0f92c5f0b5c5412980a4ca8436b4cb180919deb data/minecraft/tags/block/cannot_support_seagrass.json
 b965cf1cefd134257c07643683f8547e274e026e data/minecraft/tags/block/mud.json
 65bff720ec9fa0ed537b2bf6462fc181a94ad90c data/minecraft/tags/block/supports_nether_sprouts.json
-bb5968e9752253a1de8aed7529e1d9e29ddee6a5 data/minecraft/tags/block/ice_spike_replaceable.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_wooden_tool.json
+bb5968e9752253a1de8aed7529e1d9e29ddee6a5 data/minecraft/tags/block/ice_spike_replaceable.json
 08bfcdfa8e2a7f2275fbd3005e836a63b5c24dfc data/minecraft/tags/block/slabs.json
 e096b0c31004c577be60ad20cf513bd59bbaed94 data/minecraft/tags/block/wall_signs.json
 67b6ac293119b51c49d06c2ebc69a49e94065320 data/minecraft/tags/block/support_override_cactus_flower.json
@@ -257,10 +257,10 @@ ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/block/concrete_powders.json
 08686fbe81389dddc4df471b0c7b219b6579b8ee data/minecraft/tags/block/lanterns.json
 61457dea01cddadbf6e92ae401e0d7c9c804c96a data/minecraft/tags/block/supports_cocoa.json
-dcb7917ecc410e826c8d81e1b1a707ede8401c33 data/minecraft/tags/block/huge_brown_mushroom_can_place_on.json
-6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/block/campfires.json
-8f81701d3d8af27885661ded1822c8dc147b9577 data/minecraft/tags/block/copper_chests.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/block/dampens_vibrations.json
+8f81701d3d8af27885661ded1822c8dc147b9577 data/minecraft/tags/block/copper_chests.json
+6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/block/campfires.json
+dcb7917ecc410e826c8d81e1b1a707ede8401c33 data/minecraft/tags/block/huge_brown_mushroom_can_place_on.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/supports_frogspawn.json
 bd29d87fc419f7c781893cecdda4e18e36fc0c8d data/minecraft/tags/block/dragon_immune.json
 c95c455fe4e6a7c8c1a280e27f6957acdeb9e2f3 data/minecraft/tags/block/occludes_vibration_signals.json
