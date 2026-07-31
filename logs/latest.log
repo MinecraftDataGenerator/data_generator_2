@@ -1,36 +1,36 @@
-[13:51:05] [ServerMain/INFO]: Starting provider: SNBT -> NBT
-[13:51:05] [ServerMain/INFO]: SNBT -> NBT finished after 0 ms
-[13:51:05] [ServerMain/INFO]: Starting provider: Block State Definitions
-[13:51:06] [ServerMain/INFO]: Block State Definitions finished after 780 ms
-[13:51:06] [ServerMain/INFO]: Starting provider: Fluid Tags
-[13:51:06] [ServerMain/INFO]: Fluid Tags finished after 3 ms
-[13:51:06] [ServerMain/INFO]: Starting provider: Block Tags
-[13:51:06] [ServerMain/INFO]: Block Tags finished after 17 ms
-[13:51:06] [ServerMain/INFO]: Starting provider: Item Tags
-[13:51:06] [ServerMain/INFO]: Item Tags finished after 8 ms
-[13:51:06] [ServerMain/INFO]: Starting provider: Entity Type Tags
-[13:51:06] [ServerMain/INFO]: Entity Type Tags finished after 0 ms
-[13:51:06] [ServerMain/INFO]: Starting provider: Recipes
-[13:51:06] [ServerMain/INFO]: Recipes finished after 498 ms
-[13:51:06] [ServerMain/INFO]: Starting provider: Advancements
-[13:51:07] [ServerMain/INFO]: Advancements finished after 558 ms
-[13:51:07] [ServerMain/INFO]: Starting provider: LootTables
-[13:51:08] [ServerMain/INFO]: LootTables finished after 719 ms
-[13:51:08] [ServerMain/INFO]: Starting provider: Game Event Tags
-[13:51:08] [ServerMain/INFO]: Game Event Tags finished after 0 ms
-[13:51:08] [ServerMain/INFO]: Starting provider: NBT to SNBT
-[13:51:08] [ServerMain/INFO]: NBT to SNBT finished after 0 ms
-[13:51:08] [ServerMain/INFO]: Starting provider: Block List
-[13:51:08] [ServerMain/INFO]: Block List finished after 305 ms
-[13:51:08] [ServerMain/INFO]: Starting provider: Registry Dump
-[13:51:08] [ServerMain/INFO]: Registry Dump finished after 24 ms
-[13:51:08] [ServerMain/INFO]: Starting provider: Command Syntax
-[13:51:08] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:51:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:51:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:51:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:51:09] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:51:09] [ServerMain/INFO]: Command Syntax finished after 563 ms
-[13:51:09] [ServerMain/INFO]: Starting provider: Worldgen
-[13:51:10] [ServerMain/INFO]: Worldgen finished after 1898 ms
-[13:51:10] [ServerMain/INFO]: All providers took: 5418 ms
+[13:51:23] [ServerMain/INFO]: Starting provider: SNBT -> NBT
+[13:51:23] [ServerMain/INFO]: SNBT -> NBT finished after 0 ms
+[13:51:23] [ServerMain/INFO]: Starting provider: Block State Definitions
+[13:51:24] [ServerMain/INFO]: Block State Definitions finished after 902 ms
+[13:51:24] [ServerMain/INFO]: Starting provider: Fluid Tags
+[13:51:24] [ServerMain/INFO]: Fluid Tags finished after 3 ms
+[13:51:24] [ServerMain/INFO]: Starting provider: Block Tags
+[13:51:24] [ServerMain/INFO]: Block Tags finished after 43 ms
+[13:51:24] [ServerMain/INFO]: Starting provider: Item Tags
+[13:51:24] [ServerMain/INFO]: Item Tags finished after 8 ms
+[13:51:24] [ServerMain/INFO]: Starting provider: Entity Type Tags
+[13:51:24] [ServerMain/INFO]: Entity Type Tags finished after 3 ms
+[13:51:24] [ServerMain/INFO]: Starting provider: Recipes
+[13:51:24] [ServerMain/INFO]: Recipes finished after 415 ms
+[13:51:24] [ServerMain/INFO]: Starting provider: Advancements
+[13:51:25] [ServerMain/INFO]: Advancements finished after 725 ms
+[13:51:25] [ServerMain/INFO]: Starting provider: LootTables
+[13:51:26] [ServerMain/INFO]: LootTables finished after 845 ms
+[13:51:26] [ServerMain/INFO]: Starting provider: Game Event Tags
+[13:51:26] [ServerMain/INFO]: Game Event Tags finished after 0 ms
+[13:51:26] [ServerMain/INFO]: Starting provider: NBT to SNBT
+[13:51:26] [ServerMain/INFO]: NBT to SNBT finished after 0 ms
+[13:51:26] [ServerMain/INFO]: Starting provider: Block List
+[13:51:26] [ServerMain/INFO]: Block List finished after 515 ms
+[13:51:26] [ServerMain/INFO]: Starting provider: Registry Dump
+[13:51:26] [ServerMain/INFO]: Registry Dump finished after 24 ms
+[13:51:26] [ServerMain/INFO]: Starting provider: Command Syntax
+[13:51:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:51:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:51:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:51:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:51:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:51:27] [ServerMain/INFO]: Command Syntax finished after 684 ms
+[13:51:27] [ServerMain/INFO]: Starting provider: Worldgen
+[13:51:30] [ServerMain/INFO]: Worldgen finished after 2574 ms
+[13:51:30] [ServerMain/INFO]: All providers took: 6784 ms
