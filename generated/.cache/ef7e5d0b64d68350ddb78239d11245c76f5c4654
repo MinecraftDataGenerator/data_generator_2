@@ -1,4 +1,4 @@
-// 26.2	2026-07-31T15:25:12.015649256	vanilla/Tags for minecraft:villager_trade
+// 26.3-snapshot-1	2026-07-31T15:25:33.371888329	vanilla/Tags for minecraft:villager_trade
 8e206eb5b523d15247b9c247720d2ede19c6f388 data/minecraft/tags/villager_trade/common_smith/level_2.json
 8eafe6516e5fae133a13313f56473f297be45385 data/minecraft/tags/villager_trade/librarian/level_5.json
 b95fffffb7de49538ebc6cc79772e4dbd7644071 data/minecraft/tags/villager_trade/fisherman/level_5.json
@@ -20,7 +20,7 @@ b8bf4021e263f99596d640ba4ac1a7ada2304f3c data/minecraft/tags/villager_trade/wand
 8f1861c71450eff971941dd6c074512144e030a6 data/minecraft/tags/villager_trade/leatherworker/level_5.json
 184a747c81689b72fe3950101fc01072eb664e43 data/minecraft/tags/villager_trade/cartographer/level_4.json
 8521b78bba7f22ec115110bd91334e5ac33d5bc5 data/minecraft/tags/villager_trade/armorer/level_1.json
-828fcc460c7a8b5900c4d7b61076e5762b659c85 data/minecraft/tags/villager_trade/wandering_trader/common.json
+3e6a19dc6fe6549912410c48791db311a0558a8e data/minecraft/tags/villager_trade/wandering_trader/common.json
 2c0325109588e83a737dd381b1c90bb7420e9ff1 data/minecraft/tags/villager_trade/armorer/level_4.json
 0ae6bff773bd690f44784889e8bd78da77ff472a data/minecraft/tags/villager_trade/toolsmith/level_4.json
 e332edc1c70d44ec62a357d6280e4b8a24898cc9 data/minecraft/tags/villager_trade/fletcher/level_2.json
