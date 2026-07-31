@@ -1,41 +1,41 @@
-[13:56:34] [ServerMain/INFO]: Starting provider: SNBT -> NBT
-[13:56:34] [ServerMain/INFO]: SNBT -> NBT finished after 0 ms
-[13:56:34] [ServerMain/INFO]: Starting provider: Block State Definitions
-[13:56:35] [ServerMain/INFO]: Block State Definitions finished after 1019 ms
-[13:56:35] [ServerMain/INFO]: Starting provider: Tags for minecraft:fluid
-[13:56:35] [ServerMain/INFO]: Tags for minecraft:fluid finished after 8 ms
-[13:56:35] [ServerMain/INFO]: Starting provider: Tags for minecraft:block
-[13:56:35] [ServerMain/INFO]: Tags for minecraft:block finished after 51 ms
-[13:56:35] [ServerMain/INFO]: Starting provider: Tags for minecraft:item
-[13:56:35] [ServerMain/INFO]: Tags for minecraft:item finished after 14 ms
-[13:56:35] [ServerMain/INFO]: Starting provider: Tags for minecraft:entity_type
-[13:56:35] [ServerMain/INFO]: Tags for minecraft:entity_type finished after 10 ms
-[13:56:35] [ServerMain/INFO]: Starting provider: Recipes
-[13:56:36] [ServerMain/INFO]: Recipes finished after 677 ms
-[13:56:36] [ServerMain/INFO]: Starting provider: Advancements
-[13:56:36] [ServerMain/INFO]: Advancements finished after 328 ms
-[13:56:36] [ServerMain/INFO]: Starting provider: LootTables
-[13:56:37] [ServerMain/INFO]: LootTables finished after 471 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Tags for minecraft:game_event
-[13:56:37] [ServerMain/INFO]: Tags for minecraft:game_event finished after 1 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/biome
-[13:56:37] [ServerMain/INFO]: Tags for minecraft:worldgen/biome finished after 88 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/structure
-[13:56:37] [ServerMain/INFO]: Tags for minecraft:worldgen/structure finished after 0 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/world_preset
-[13:56:37] [ServerMain/INFO]: Tags for minecraft:worldgen/world_preset finished after 0 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/flat_level_generator_preset
-[13:56:37] [ServerMain/INFO]: Tags for minecraft:worldgen/flat_level_generator_preset finished after 0 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: NBT to SNBT
-[13:56:37] [ServerMain/INFO]: NBT to SNBT finished after 0 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Block List
-[13:56:37] [ServerMain/INFO]: Block List finished after 360 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Registry Dump
-[13:56:37] [ServerMain/INFO]: Registry Dump finished after 44 ms
-[13:56:37] [ServerMain/INFO]: Starting provider: Command Syntax
-[13:56:39] [ServerMain/INFO]: Command Syntax finished after 2058 ms
-[13:56:39] [ServerMain/INFO]: Starting provider: Worldgen
-[13:56:39] [ServerMain/INFO]: Worldgen finished after 325 ms
-[13:56:39] [ServerMain/INFO]: Starting provider: Biome Parameters
-[13:56:40] [ServerMain/INFO]: Biome Parameters finished after 656 ms
-[13:56:40] [ServerMain/INFO]: All providers took: 6162 ms
+[13:56:57] [ServerMain/INFO]: Starting provider: SNBT -> NBT
+[13:56:57] [ServerMain/INFO]: SNBT -> NBT finished after 0 ms
+[13:56:57] [ServerMain/INFO]: Starting provider: Block State Definitions
+[13:56:59] [ServerMain/INFO]: Block State Definitions finished after 1052 ms
+[13:56:59] [ServerMain/INFO]: Starting provider: Tags for minecraft:fluid
+[13:56:59] [ServerMain/INFO]: Tags for minecraft:fluid finished after 7 ms
+[13:56:59] [ServerMain/INFO]: Starting provider: Tags for minecraft:block
+[13:56:59] [ServerMain/INFO]: Tags for minecraft:block finished after 58 ms
+[13:56:59] [ServerMain/INFO]: Starting provider: Tags for minecraft:item
+[13:56:59] [ServerMain/INFO]: Tags for minecraft:item finished after 22 ms
+[13:56:59] [ServerMain/INFO]: Starting provider: Tags for minecraft:entity_type
+[13:56:59] [ServerMain/INFO]: Tags for minecraft:entity_type finished after 1 ms
+[13:56:59] [ServerMain/INFO]: Starting provider: Recipes
+[13:56:59] [ServerMain/INFO]: Recipes finished after 421 ms
+[13:56:59] [ServerMain/INFO]: Starting provider: Advancements
+[13:56:59] [ServerMain/INFO]: Advancements finished after 346 ms
+[13:56:59] [ServerMain/INFO]: Starting provider: LootTables
+[13:57:00] [ServerMain/INFO]: LootTables finished after 572 ms
+[13:57:00] [ServerMain/INFO]: Starting provider: Tags for minecraft:game_event
+[13:57:00] [ServerMain/INFO]: Tags for minecraft:game_event finished after 1 ms
+[13:57:00] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/biome
+[13:57:00] [ServerMain/INFO]: Tags for minecraft:worldgen/biome finished after 375 ms
+[13:57:00] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/structure
+[13:57:00] [ServerMain/INFO]: Tags for minecraft:worldgen/structure finished after 0 ms
+[13:57:00] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/world_preset
+[13:57:00] [ServerMain/INFO]: Tags for minecraft:worldgen/world_preset finished after 1 ms
+[13:57:00] [ServerMain/INFO]: Starting provider: Tags for minecraft:worldgen/flat_level_generator_preset
+[13:57:00] [ServerMain/INFO]: Tags for minecraft:worldgen/flat_level_generator_preset finished after 0 ms
+[13:57:00] [ServerMain/INFO]: Starting provider: NBT to SNBT
+[13:57:00] [ServerMain/INFO]: NBT to SNBT finished after 0 ms
+[13:57:00] [ServerMain/INFO]: Starting provider: Block List
+[13:57:01] [ServerMain/INFO]: Block List finished after 386 ms
+[13:57:01] [ServerMain/INFO]: Starting provider: Registry Dump
+[13:57:01] [ServerMain/INFO]: Registry Dump finished after 55 ms
+[13:57:01] [ServerMain/INFO]: Starting provider: Command Syntax
+[13:57:02] [ServerMain/INFO]: Command Syntax finished after 1565 ms
+[13:57:02] [ServerMain/INFO]: Starting provider: Worldgen
+[13:57:03] [ServerMain/INFO]: Worldgen finished after 347 ms
+[13:57:03] [ServerMain/INFO]: Starting provider: Biome Parameters
+[13:57:03] [ServerMain/INFO]: Biome Parameters finished after 456 ms
+[13:57:03] [ServerMain/INFO]: All providers took: 5702 ms
