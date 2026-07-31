@@ -1,4 +1,4 @@
-// 26.2-snapshot-7	2026-07-31T15:21:35.013848705	vanilla/Tags for minecraft:worldgen/biome
+// 26.2-snapshot-8	2026-07-31T15:21:56.736834178	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -60,8 +60,8 @@ f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_
 ec7bbb0c9b5fc5378f8716f54862806404f04360 data/minecraft/tags/worldgen/biome/has_structure/ocean_monument.json
 be4a1f061b9d167a07a785d3d7fd97b5993bc33a data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json
 45e2314b6fbf2e847bd70c163e678e0e756a1640 data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json
-becbb3e6d736ab8feb41683bc5afacce936c4825 data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
 49b2b8506eabfee9e16baf36a3c27ea1712b6b7e data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json
+becbb3e6d736ab8feb41683bc5afacce936c4825 data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
 db559b630eb1e15fc94e0ed089c5e4a2b1247670 data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json
 cf692980e7b8c83321d8489ae0d76db7effbaa4a data/minecraft/tags/worldgen/biome/has_structure/bastion_remnant.json
 e230510c9f5c1188c61cd1ad728a3d9a6bd3125f data/minecraft/tags/worldgen/biome/without_zombie_sieges.json
