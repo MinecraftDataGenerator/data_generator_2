@@ -1,4 +1,4 @@
-// 22w16a	2026-07-31T13:58:35.968514168	LootTables
+// 22w16b	2026-07-31T13:58:55.299599703	LootTables
 f0266b86d509baafb030ddb9915394ea06d372cd data/minecraft/loot_tables/entities/pillager.json
 b9e79fd1ed036ac69fc148465c1b7d78d5de9257 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 067dd6fdb7628c44312c982862382ecf07e5df19 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -823,7 +823,7 @@ be266bf4a1a39e931bdf24a9b6f81f9e5a33c875 data/minecraft/loot_tables/blocks/deeps
 bd094a38197d2402b45374aadf1efb794d73514c data/minecraft/loot_tables/blocks/red_stained_glass_pane.json
 a1673abf688ce47b8891ec126fde773ebd1ba851 data/minecraft/loot_tables/blocks/birch_planks.json
 42457073a6bfc4f7f0514aebf47aa71ac6d48f07 data/minecraft/loot_tables/blocks/deepslate_tiles.json
-31e00e60e4fc75192260704358cdf1e810cb3c3d data/minecraft/loot_tables/chests/shipwreck_supply.json
+aa4b4aba9aefeafb2dc3e7dd7bf77129421f455a data/minecraft/loot_tables/chests/shipwreck_supply.json
 13575c7b86fea605b8a8c1d9237428d1d31f3261 data/minecraft/loot_tables/blocks/pink_candle.json
 de57d671584aae70d7d9f66e2440a7800dc169a9 data/minecraft/loot_tables/blocks/acacia_door.json
 588db7475101e74473f2b6569b80f661b62ad78e data/minecraft/loot_tables/blocks/dead_tube_coral.json
