@@ -1,4 +1,4 @@
-// 1.20 Pre-release 4	2026-07-31T14:16:57.570248702	vanilla/Tags for minecraft:item
+// 1.20 Pre-release 5	2026-07-31T14:17:11.919080138	vanilla/Tags for minecraft:item
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 53c528d880bafa4b87443f610db9f1ad05996ce6 data/minecraft/tags/items/banners.json
@@ -53,8 +53,8 @@ d65ccc0a76745b7ae2fa8d612eaee0cab59052e9 data/minecraft/tags/items/fishes.json
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
 76ac0bd2e48021aef9ecffd104321ebc03c694eb data/minecraft/tags/items/signs.json
 88dcd99364a64f164a26461c5d5b9da0cb960b10 data/minecraft/tags/items/trapdoors.json
-49731163f40c037fed63e50ebb86dc7fd3d2722b data/minecraft/tags/items/sniffer_food.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/items/soul_fire_base_blocks.json
+49731163f40c037fed63e50ebb86dc7fd3d2722b data/minecraft/tags/items/sniffer_food.json
 7e7d3420a52ab3a414f357e405493da7fd6434ad data/minecraft/tags/items/chest_boats.json
 91c876271eaad016f609198a3c95f649ddc3344a data/minecraft/tags/items/hoes.json
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/items/candles.json

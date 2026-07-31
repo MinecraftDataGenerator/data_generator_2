@@ -1,4 +1,4 @@
-// 1.20 Pre-release 4	2026-07-31T14:16:57.570636652	vanilla/Loot Tables
+// 1.20 Pre-release 5	2026-07-31T14:17:11.919445438	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -538,8 +538,8 @@ a579abe6bfb2131f2559f3b3c9e9311529e7e5c3 data/minecraft/loot_tables/blocks/infes
 5bfc8ba25b8bc446980c763444208c16240360c2 data/minecraft/loot_tables/blocks/hanging_roots.json
 661d9c962c418d0d818598c5a01ded48164f64ec data/minecraft/loot_tables/blocks/cracked_polished_blackstone_bricks.json
 7e6ba7952f9adf5476b82bc147b4390b81c4187c data/minecraft/loot_tables/blocks/cyan_carpet.json
-9dc71538e0a72ba2f3b914d34b1f762bffcd3693 data/minecraft/loot_tables/chests/ancient_city.json
 e41953a068314e4bbeb0597480467e8a1a3735d3 data/minecraft/loot_tables/blocks/cobbled_deepslate.json
+9dc71538e0a72ba2f3b914d34b1f762bffcd3693 data/minecraft/loot_tables/chests/ancient_city.json
 335389bb6fb6e0a7a84b59a42b634f05cda93b0d data/minecraft/loot_tables/blocks/brown_wool.json
 56322dc92f65dce211e48105f96d33a6b3f45440 data/minecraft/loot_tables/blocks/blue_orchid.json
 d0ff329ec5f535bbcae2507122bdd3760a5eb3af data/minecraft/loot_tables/blocks/light_blue_stained_glass_pane.json
@@ -1037,8 +1037,8 @@ e08c4a4ff774957672a301c0cec57f78c1a9186e data/minecraft/loot_tables/blocks/strip
 c0de71ef178535403775bb21d405098be8e368b3 data/minecraft/loot_tables/blocks/yellow_bed.json
 b8a677f9dc84581776adf2c373a39584081a38f6 data/minecraft/loot_tables/blocks/brown_stained_glass.json
 06a005196c3de5d795cffb702e5928e7955a4124 data/minecraft/loot_tables/blocks/sniffer_egg.json
-973aee4ba0dfcbb0840a35cfdb47652ca5619380 data/minecraft/loot_tables/blocks/spore_blossom.json
 c713a4a5fcc62b3fc34a0e0f8e6af0dcbb950b7b data/minecraft/loot_tables/blocks/yellow_concrete_powder.json
+973aee4ba0dfcbb0840a35cfdb47652ca5619380 data/minecraft/loot_tables/blocks/spore_blossom.json
 eb7f6b5adfaa4956284278d01740168158acfdb1 data/minecraft/loot_tables/blocks/crimson_door.json
 02eb928b10514d6632227a93ea063a1707b33a7b data/minecraft/loot_tables/blocks/soul_campfire.json
 60a5a39209da36784f521ee0c715c0d0b3439a66 data/minecraft/loot_tables/blocks/clay.json
