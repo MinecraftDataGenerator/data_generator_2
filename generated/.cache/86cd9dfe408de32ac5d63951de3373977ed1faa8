@@ -1,12 +1,12 @@
-// 26.3-snapshot-5	2026-07-31T15:27:07.613209476	vanilla/Tags for minecraft:block
+// 26.3-snapshot-6	2026-07-31T15:27:27.496974767	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 0015c8ac2a73e2714e6a626d421ae0c88dc06a32 data/minecraft/tags/block/shears_minor_breaking_speed.json
 21a69dd01837fb1e87ce2a089ee7c2d814a004b8 data/minecraft/tags/block/blocks_motion_in_heightmap_no_leaves.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
-e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_glass.json
 84ca487e773b4a6e5d2dfb9c9a4e6a7d99f6f480 data/minecraft/tags/block/glazed_terracotta.json
+e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_glass.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_gold_tool.json
 002618d0a2234b3b3d20a70a6c530ec63bab9783 data/minecraft/tags/block/flowers.json
 28a395dbbea7d606bdda14cc8bcab6399d173b6b data/minecraft/tags/block/supports_sugar_cane_adjacently.json
@@ -76,8 +76,8 @@ c715bf7a2af064dd438c1329fc0b1976373e9a1a data/minecraft/tags/block/wall_signs.js
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/block/beacon_base_blocks.json
 991b4b13f517a78c2fdff9d9a6e631ecaf58a920 data/minecraft/tags/block/blocks_lava_fire_spread.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/block/completes_find_tree_tutorial.json
-e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/block/support_override_snow_layer.json
 0b98089d9e5e0278007f19881ffff2e4bdd990b0 data/minecraft/tags/block/fox_immune_to.json
+e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/block/support_override_snow_layer.json
 c1b2a217bb3fcb7e1d67f5bc45409796720bd171 data/minecraft/tags/block/supports_cactus.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/block/unstable_bottom_center.json
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_replaceable.json
@@ -230,8 +230,8 @@ b4727e6ebe055c567441285ae565462a8b1e4abc data/minecraft/tags/block/supports_neth
 e1e3ce6da8b89959d5563a7fffbc8ba14c1e20cf data/minecraft/tags/block/features_cannot_replace.json
 50e0ff26fd3c916d924204208650a91a98d622fd data/minecraft/tags/block/does_not_block_hoppers.json
 c0b9472da044676739361fd55bc4d413e485144e data/minecraft/tags/block/blocks_wind_charge_explosions.json
-619667c1b7332d180fa0737d335fc257a9549000 data/minecraft/tags/block/polar_bears_spawnable_on_alternate.json
 1d7aa48ce8d3237e8de4c54cdd5f57c3b5457ab2 data/minecraft/tags/block/supports_warped_fungus.json
+619667c1b7332d180fa0737d335fc257a9549000 data/minecraft/tags/block/polar_bears_spawnable_on_alternate.json
 db6195d77bd598771b111d12750ba39f41fe35c7 data/minecraft/tags/block/strider_warm_blocks.json
 27d5d843990905e2867c5eb23177875b51cfccef data/minecraft/tags/block/supports_stem_crops.json
 7dd9a9ab413710ca517fa686fd98e2b201ed169b data/minecraft/tags/block/azalea_grows_on.json

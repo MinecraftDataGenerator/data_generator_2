@@ -1,4 +1,4 @@
-// 26.3-snapshot-5	2026-07-31T15:27:07.595727109	vanilla/Tags for minecraft:item
+// 26.3-snapshot-6	2026-07-31T15:27:27.481914958	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -111,8 +111,8 @@ d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/pillager_prefe
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/item/wart_blocks.json
 13d81b6d0ad3432d8c6ff2772386362ecca51f2d data/minecraft/tags/item/panda_eats_from_ground.json
 237ae0010a21b6661acf9b44a30d8c6ff981d328 data/minecraft/tags/item/enchantable/chest_armor.json
-6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/cauldron_can_remove_dye.json
+6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 644d4f67864112c3d8f4fcf42290bc8f7f11db2d data/minecraft/tags/item/enchantable/vanishing.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/item/gold_ores.json
 95b1f6d4179ccf8d3094b5dfa8b146b10352e329 data/minecraft/tags/item/leaves.json
@@ -183,8 +183,8 @@ d5a46f1d7ffb486e165c55564f067fd2e99d9a86 data/minecraft/tags/item/chest_boats.js
 b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 d32efc3396c94cf043c5aa0ad11b4671a52cdeb4 data/minecraft/tags/item/enchantable/lunge.json
 f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/item/decorated_pot_ingredients.json
-5e7c760621586934c47d721d06be94fdb2693f4e data/minecraft/tags/item/douses_campfires.json
 533400376c7ce584616f3af5acf77d2b925e82b1 data/minecraft/tags/item/harnesses.json
+5e7c760621586934c47d721d06be94fdb2693f4e data/minecraft/tags/item/douses_campfires.json
 02dfdb41688ccea8169a8d046943461f0aa3c361 data/minecraft/tags/item/fox_food.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/item/diamond_ores.json
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/item/bee_food.json
