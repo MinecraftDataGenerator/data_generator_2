@@ -1,4 +1,4 @@
-// 26.1-pre-3	2026-07-31T15:15:16.834269021	vanilla/Tags for minecraft:entity_type
+// 26.1-rc-1	2026-07-31T15:15:41.985112693	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
