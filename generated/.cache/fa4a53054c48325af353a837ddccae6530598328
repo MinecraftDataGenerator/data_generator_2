@@ -1,4 +1,4 @@
-// 26.1-snapshot-9	2026-07-31T15:13:34.824460776	vanilla/Tags for minecraft:item
+// 26.1-snapshot-10	2026-07-31T15:13:54.354674474	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/item/small_flowers.json
@@ -8,8 +8,8 @@ b9d0a0f22210c8764d7f52b92e0ac6983fb1536c data/minecraft/tags/item/horse_food.jso
 105727dc444ddc319293c250e6c64f197b4ba151 data/minecraft/tags/item/frog_food.json
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/diamond_tool_materials.json
 a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisonous_food.json
-587c54e473e14c5f06b1e5cff5be44068aeba6d3 data/minecraft/tags/item/copper_golem_statues.json
 17ba01ef695bf5921b47243b56fd226dca024488 data/minecraft/tags/item/lightning_rods.json
+587c54e473e14c5f06b1e5cff5be44068aeba6d3 data/minecraft/tags/item/copper_golem_statues.json
 7c7d628823aeb153c19b28c52827f0b6a399e5d7 data/minecraft/tags/item/breaks_decorated_pots.json
 eaa103df61588e3f3fc65f53de2a329861423539 data/minecraft/tags/item/boats.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/item/lapis_ores.json
@@ -149,8 +149,8 @@ ea2b7aa418c563ab8f02c06883d3c45e0ec7435c data/minecraft/tags/item/happy_ghast_fo
 f756762fd97e893f40e05ebeab43638fbffc2bc5 data/minecraft/tags/item/walls.json
 84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 da8880b27b664f60523120a7fade87922c9848cc data/minecraft/tags/item/wooden_stairs.json
-578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/map_invisibility_equipment.json
 2554bb25aaa696aeca8da09c7bf2325529a9d0c4 data/minecraft/tags/item/cat_collar_dyes.json
+578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/map_invisibility_equipment.json
 68f246f71ae9f6e70afc3b182652d81a9baf370a data/minecraft/tags/item/armadillo_food.json
 b197c522c5d1bf863432ab04a9c9b18fa9e8ced7 data/minecraft/tags/item/axolotl_food.json
 5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/item/beds.json
