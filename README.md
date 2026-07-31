@@ -1,1 +1,1 @@
-# Minecraft Data - 26.2-snapshot-1
+# Minecraft Data - 26.1.2-rc-1

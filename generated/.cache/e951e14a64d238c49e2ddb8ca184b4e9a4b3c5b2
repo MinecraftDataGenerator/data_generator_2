@@ -1,4 +1,4 @@
-// 26.2-snapshot-1	2026-07-31T15:18:20.637594457	vanilla/Advancements
+// 26.1.2-rc-1	2026-07-31T15:18:51.06252151	vanilla/Advancements
 722f45171920e40a359658d6f1a358d280dafbf9 data/minecraft/advancement/story/upgrade_tools.json
 30cf01fc718cbe954eb77ead9d393814cad61b0e data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 fb1623e5bb386f83c03abfdf53264d6b6dfc5b06 data/minecraft/advancement/end/root.json
@@ -36,7 +36,7 @@ fcf15ccf52afb1e03726f3c7e708301c767b78f3 data/minecraft/advancement/husbandry/ma
 d6d70a9843688bba3ae258fff3b8330433584175 data/minecraft/advancement/adventure/ol_betsy.json
 6fe5ca1e798d9c76ff6a3fdf598ef4a4fe3d27bc data/minecraft/advancement/husbandry/ride_a_boat_with_a_goat.json
 024e64642d855e0a1ce31853b479275cdda0f7ff data/minecraft/advancement/husbandry/bred_all_animals.json
-ccc1b8d6641c21be7e0e3784ba16dcf1fe31a2e5 data/minecraft/advancement/adventure/adventuring_time.json
+9dcc27e40fe369ad43ef0a349304d77e9b9b4f9e data/minecraft/advancement/adventure/adventuring_time.json
 7540da53b571168c3b850648cbc24b376cda107c data/minecraft/advancement/husbandry/plant_any_sniffer_seed.json
 b8ae0991f35182378bfc8b8678b7dcd3293fa59a data/minecraft/advancement/nether/brew_potion.json
 dd71ae036d20d4e5c1422584a635d92332076f4e data/minecraft/advancement/husbandry/obtain_sniffer_egg.json
@@ -62,7 +62,7 @@ d3c032b7f54fa9b3361a1f724d30491476bfee99 data/minecraft/advancement/husbandry/ob
 0f4a4612b5d06a1fb2710ccdcbc3fca9b8b23512 data/minecraft/advancement/adventure/play_jukebox_in_meadows.json
 cd3ade8d54e9540f50e8fb09c8b4fb2e5abaf73d data/minecraft/advancement/adventure/trim_with_any_armor_pattern.json
 dd32eecbd2c2e8e232238b9fa191140def61e1b2 data/minecraft/advancement/nether/root.json
-bf6bda4c1aca702a94955e1bef706ea34ec47c1e data/minecraft/advancement/adventure/lighten_up.json
+f078cfdec9a609b3f334b4753f1982edef56d5a6 data/minecraft/advancement/adventure/lighten_up.json
 326eb7986cd89d6dd32a5d01806735c5576e7e89 data/minecraft/advancement/end/kill_dragon.json
 92202dd1a4ab991389bc114305f58dd0ecdc27d3 data/minecraft/advancement/husbandry/plant_seed.json
 98b600134bb4691328cea1dd89fd2cd88ebb73db data/minecraft/advancement/adventure/avoid_vibration.json
