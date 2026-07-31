@@ -1,4 +1,5 @@
 assets/
 libraries/
+versions/
 .idea/
 server.jar
