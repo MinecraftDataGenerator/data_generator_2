@@ -119,6 +119,7 @@ for version in "${ALL_VERSIONS[@]}"; do
     cat << 'EOF' > .gitignore
 assets/
 libraries/
+versions/
 .idea/
 server.jar
 EOF
