@@ -1,4 +1,5 @@
-// 23w46a	2026-07-31T14:24:06.270542116	update_1_21/Tags for minecraft:entity_type
+// 1.20.3 Pre-Release 1	2026-07-31T14:24:26.61885085	update_1_21/Tags for minecraft:entity_type
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/deflects_tridents.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/fall_damage_immune.json
+bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/can_turn_in_boats.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/datapacks/update_1_21/data/minecraft/tags/entity_types/deflects_arrows.json
