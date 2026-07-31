@@ -1,4 +1,4 @@
-// 24w21b	2026-07-31T14:36:13.03593785	vanilla/Tags for minecraft:item
+// 1.21 Pre-Release 1	2026-07-31T14:36:28.778803406	vanilla/Tags for minecraft:item
 82edd6d1ec8e7fe75b955b3a41a45d38cc77c262 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -12,14 +12,14 @@ d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/item/gold_ores.json
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/item/anvil.json
 bf441ab5887aa8996fea95ba8ba8baf3ef5598c7 data/minecraft/tags/item/foot_armor.json
 04346ff78e5919b94c527de4177239c2e0be5212 data/minecraft/tags/item/llama_food.json
-a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisonous_food.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/item/completes_find_tree_tutorial.json
+a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisonous_food.json
 cefc090b8dcff422ad66b2068860ce1910cbc9b2 data/minecraft/tags/item/boats.json
 7c7d628823aeb153c19b28c52827f0b6a399e5d7 data/minecraft/tags/item/breaks_decorated_pots.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/item/lapis_ores.json
 29bd5ab148d15d405e857a8e2cb900ae069b0655 data/minecraft/tags/item/axes.json
-4945b995a6277b3529e7ea8b445e7562b8f3b096 data/minecraft/tags/item/strider_tempt_items.json
 bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/armor.json
+4945b995a6277b3529e7ea8b445e7562b8f3b096 data/minecraft/tags/item/strider_tempt_items.json
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/item/iron_ores.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
 64cced731059717fbae6969a456ba5a8fe08d5ad data/minecraft/tags/item/bookshelf_books.json
@@ -98,8 +98,8 @@ b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/item/trapdoors.json
 f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/item/decorated_pot_ingredients.json
 02dfdb41688ccea8169a8d046943461f0aa3c361 data/minecraft/tags/item/fox_food.json
-a72c613d8786fc7756573ffec9c22f7ed2973d9e data/minecraft/tags/item/bee_food.json
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/item/noteblock_top_instruments.json
+a72c613d8786fc7756573ffec9c22f7ed2973d9e data/minecraft/tags/item/bee_food.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/item/diamond_ores.json
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/item/spruce_logs.json
 c23b5aceb0db24e7df8b571f876f733a24bde29d data/minecraft/tags/item/turtle_food.json
