@@ -1,6 +1,6 @@
-// 25w09a	2026-07-31T14:50:08.527507429	vanilla/Tags for minecraft:item
-c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
+// 25w09b	2026-07-31T14:50:34.955778919	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
+c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 f8bcce6657c34cb191d37bc195f0cae478d00bed data/minecraft/tags/item/small_flowers.json
 78634c7ac229f0d8a48e462b3aa5e0b3892be46e data/minecraft/tags/item/horse_food.json
@@ -31,8 +31,8 @@ e9d352a7a079a3d6b05caa452924fb03a001cbae data/minecraft/tags/item/wooden_fences.
 5271e7aa01a851b891fdc27fcc241414309798ee data/minecraft/tags/item/chest_armor.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/item/birch_logs.json
 91c876271eaad016f609198a3c95f649ddc3344a data/minecraft/tags/item/hoes.json
-a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/item/doors.json
 0de249645a62e3e99c8930f651e59a7b0919338a data/minecraft/tags/item/villager_plantable_seeds.json
+a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/item/doors.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/enchantable/trident.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/item/emerald_ores.json
 e6756cdd6fb03cf772eba210ae3f93335e83dcd6 data/minecraft/tags/item/enchantable/sword.json
