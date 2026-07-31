@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 1	2026-07-31T14:41:37.498489875	vanilla/Model Definitions
+// 1.21.2 Pre-Release 2	2026-07-31T14:41:54.568817334	vanilla/Model Definitions
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/minecraft/models/item/husk_spawn_egg.json
 032d5086adbdc64098925cfc465a7030434bf9cd assets/minecraft/models/block/stripped_bamboo_block.json
 1992ec8533ec64e4e699df945406934594b00abc assets/minecraft/models/item/stripped_spruce_log.json
@@ -1596,8 +1596,8 @@ aa04516a949fd97fa31477073b39e45ca53c7327 assets/minecraft/blockstates/brick_slab
 2be1cf2bc6d9e512ea25bf7ede11f9f9cf110ea0 assets/minecraft/models/block/jungle_fence_gate_open.json
 e6b305708a61c79e24737f07904a5f06226ba8fd assets/minecraft/models/item/stripped_cherry_wood.json
 1dbfff9b6cf804221a17378d793fb7f2b00fb35c assets/minecraft/models/block/oak_sign.json
-cd6299bb1c7b49d4eb0c52b68688cb5f3b08747c assets/minecraft/blockstates/chain.json
 52f556b684dab539df73031b01a46bb667b667bb assets/minecraft/blockstates/red_nether_brick_stairs.json
+cd6299bb1c7b49d4eb0c52b68688cb5f3b08747c assets/minecraft/blockstates/chain.json
 f2e1b2620da276c83eb1996954f95d353344da9d assets/minecraft/models/item/hay_block.json
 2b25a59d11e5f2af7f6b9882f6b4b5b490e25c3a assets/minecraft/blockstates/horn_coral_block.json
 b4d9186727d4000928b499dde639495cd6f4e553 assets/minecraft/models/item/creaking_heart.json
@@ -4066,8 +4066,8 @@ a93d55d211e917094335ad93437659e986b73165 assets/minecraft/models/item/skull_bann
 671148a6caa46cb4950206a4caf771e16fe3494c assets/minecraft/blockstates/blue_wool.json
 54f61cffb70a48d41c7987afdab6eb9f5af75e5e assets/minecraft/models/item/nether_star.json
 fc0369541315d7c831c2f908c0e399b740858864 assets/minecraft/models/item/soul_sand.json
-5982e12013574cbaf83df96c173c07990d10dd55 assets/minecraft/models/block/lime_candle_four_candles_lit.json
 59bbe7705f1cc4f29fe0c0d54c330b1c89c67a30 assets/minecraft/models/block/stripped_cherry_log_z.json
+5982e12013574cbaf83df96c173c07990d10dd55 assets/minecraft/models/block/lime_candle_four_candles_lit.json
 cbc1a9a937dd027d9c6c14863214aacf1c5e10cb assets/minecraft/blockstates/stone_brick_slab.json
 b2bee6ef80b628d538890a8c8069f05a35afcd7c assets/minecraft/blockstates/gray_carpet.json
 3a36408e3079cf28259f4959cc5915346eba66f2 assets/minecraft/models/block/dark_oak_hanging_sign.json
