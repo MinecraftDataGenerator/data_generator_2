@@ -1,1 +1,1 @@
-# Minecraft Data - 1.19.3-rc3
+# Minecraft Data - 1.19.3

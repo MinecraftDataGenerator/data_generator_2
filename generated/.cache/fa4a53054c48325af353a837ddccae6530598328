@@ -1,4 +1,4 @@
-// 1.19.3 Release Candidate 3	2026-07-31T14:09:59.544474244	vanilla/Tags for minecraft:item
+// 1.19.3	2026-07-31T14:10:22.200750661	vanilla/Tags for minecraft:item
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/items/signs.json
@@ -16,8 +16,8 @@ af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/items/dirt.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
 3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
-71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/items/candles.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/sand.json
+71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/items/candles.json
 6f62a3e03de3843da6fc2f7b46bfdd5d1f4fd02d data/minecraft/tags/items/compasses.json
 2251fe88877ae02fb691c0e7949b1f15ad52837f data/minecraft/tags/items/stairs.json
 fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/items/wool.json
