@@ -1,4 +1,4 @@
-// 24w09a	2026-07-31T14:29:15.104774965	vanilla/Loot Tables
+// 24w10a	2026-07-31T14:29:30.890100552	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -167,8 +167,8 @@ b088d8450f2cd46300059e3e47209dbcc7afe232 data/minecraft/loot_tables/blocks/chise
 fcaf6daf5b917f303452304a157cac497c778926 data/minecraft/loot_tables/blocks/cobblestone_wall.json
 580fb00b6a8ee47609d8a5a0041b2373109b8d7c data/minecraft/loot_tables/blocks/orange_shulker_box.json
 348e64af52fe9a32ccdc85153a3fb5513d36886a data/minecraft/loot_tables/blocks/skeleton_skull.json
-36a0f2256578939a71809b62b016aaaba80eeb68 data/minecraft/loot_tables/blocks/note_block.json
 563c406830cb1ed9262fc2629984a199647ceba0 data/minecraft/loot_tables/blocks/waxed_oxidized_copper_door.json
+36a0f2256578939a71809b62b016aaaba80eeb68 data/minecraft/loot_tables/blocks/note_block.json
 e421535156427bef3c7b03ccb8e54758f70fcffb data/minecraft/loot_tables/blocks/candle.json
 471cbcbe00e9b020eae818719db5201b74c0d1b3 data/minecraft/loot_tables/blocks/pink_candle_cake.json
 a1e5cf52ba8ad115582a4e60aa87485fc5edd802 data/minecraft/loot_tables/blocks/potted_jungle_sapling.json
@@ -291,7 +291,7 @@ df8af80bfdbe03fe405c2c75af5a77153c75309e data/minecraft/loot_tables/blocks/smoot
 cd1b9d9d86c7dde2cf7735d8c01da64321373cb8 data/minecraft/loot_tables/blocks/waxed_weathered_copper_grate.json
 81496119876bd5fdd1dff5262e0846fd1fbfcfdb data/minecraft/loot_tables/entities/spider.json
 4861f5ff4f290f99f746b4c5898bc4f826b05797 data/minecraft/loot_tables/blocks/pointed_dripstone.json
-0ba496fe7de8cea029372813b273fc2c6ca7d9a4 data/minecraft/loot_tables/blocks/player_head.json
+0efc04ecb5dbd1893794ee7712855bd669107775 data/minecraft/loot_tables/blocks/player_head.json
 a98fcc64baaa3e6b04f6fc3f4083c0212f4251c3 data/minecraft/loot_tables/blocks/brown_concrete.json
 07b0a5f91be38da20dfc6667019afb306c323cdf data/minecraft/loot_tables/blocks/dead_horn_coral_fan.json
 f36361899bf16747f9fcaf386b9fcd35bbd1c39a data/minecraft/loot_tables/blocks/suspicious_sand.json
@@ -760,8 +760,8 @@ f8d7761e188645846fc2e01e54ef98cc69252d8d data/minecraft/loot_tables/blocks/mangr
 d7a23fdbbb7a0a40e9fee217a5069908d373680a data/minecraft/loot_tables/entities/sheep/magenta.json
 9f432f09b5b2a35ba0c3ad467cfc7bb454d04b72 data/minecraft/loot_tables/gameplay/hero_of_the_village/butcher_gift.json
 4af3d92304d01e57a8b731bc69d43be6c3185c73 data/minecraft/loot_tables/blocks/attached_melon_stem.json
-bb74e7005489ce6649c64b1f661a265dca9987c1 data/minecraft/loot_tables/blocks/birch_log.json
 9b1c4ddb098235b8b101525b974af454d29951d0 data/minecraft/loot_tables/blocks/damaged_anvil.json
+bb74e7005489ce6649c64b1f661a265dca9987c1 data/minecraft/loot_tables/blocks/birch_log.json
 49763a64eb84c5b86997f0858d582c80b0e717f0 data/minecraft/loot_tables/blocks/granite_wall.json
 a44a1acedfe89308f20b8814aefbdcc16cf9671a data/minecraft/loot_tables/entities/axolotl.json
 8fb2daad82286a10e846b5cee1783da9529ecc9d data/minecraft/loot_tables/blocks/jungle_button.json

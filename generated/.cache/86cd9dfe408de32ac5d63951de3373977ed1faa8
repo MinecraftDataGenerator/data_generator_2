@@ -1,4 +1,4 @@
-// 24w09a	2026-07-31T14:29:15.107266936	vanilla/Tags for minecraft:block
+// 24w10a	2026-07-31T14:29:30.892897933	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -72,7 +72,7 @@ a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/blocks/lush_ground_
 857af144d264bb68eb7d28c87b994b1edf50a685 data/minecraft/tags/blocks/beehives.json
 d795677dfa226e3d5f7f602fd7e9d9e7a55ee61b data/minecraft/tags/blocks/small_flowers.json
 e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/blocks/snow_layer_can_survive_on.json
-c0373adadbd97eced4b1af5cf94d7644a303fc3c data/minecraft/tags/blocks/wolves_spawnable_on.json
+9fa8e169d8e22baeaa4b0c96ba6ab87ab881a4cd data/minecraft/tags/blocks/wolves_spawnable_on.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/blocks/acacia_logs.json
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/blocks/anvil.json
 1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/blocks/coal_ores.json
@@ -115,9 +115,9 @@ afd862ebc333a8df53174530faee5f54c15a71a7 data/minecraft/tags/blocks/nether_carve
 fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/blocks/wool.json
 4b636e8a202b80de17ec8352bba191763ed63d3c data/minecraft/tags/blocks/wooden_doors.json
 d1460748ca1e7a947c8151d5f7b4a6e429241c23 data/minecraft/tags/blocks/overworld_carver_replaceables.json
-9cf89cc089a03f7415393823473c106253d62661 data/minecraft/tags/blocks/wall_corals.json
 274c899ecd90e93185a6b2d7bf84123a67af63db data/minecraft/tags/blocks/enderman_holdable.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/blocks/birch_logs.json
+9cf89cc089a03f7415393823473c106253d62661 data/minecraft/tags/blocks/wall_corals.json
 9eaa40cdc7d24db027be3eac878536ce597e2b3a data/minecraft/tags/blocks/badlands_terracotta.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/blocks/bamboo_blocks.json
 da8b8f8686a75b8cf996f5f2752a61934cf2dfaa data/minecraft/tags/blocks/mineable/shovel.json
