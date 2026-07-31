@@ -1,4 +1,4 @@
-// 1.20.4	2026-07-31T14:26:21.95923258	vanilla/Loot Tables
+// 23w51a	2026-07-31T14:26:36.855577135	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -729,6 +729,7 @@ f4efe3e98498fb52c2fe71d151e0f07b7f1543c7 data/minecraft/loot_tables/blocks/dark_
 274a4e84dbb3ae3a3c5167bcec2566532bb1ea35 data/minecraft/loot_tables/blocks/light_gray_candle_cake.json
 e708e019c727dd774988b05f518239388b352edd data/minecraft/loot_tables/blocks/crimson_fence_gate.json
 745b1de789f5f3c87b06056a2865b9624543f2da data/minecraft/loot_tables/blocks/polished_andesite_stairs.json
+e508c4b1e20690f30ffe84e1927cdabe9bdb77aa data/minecraft/loot_tables/entities/armadillo.json
 e0f872036e2ef96b73eed9421e78fd9c79b1c41c data/minecraft/loot_tables/blocks/stonecutter.json
 bc82e23ae30f01b519003f6705a0f6f4d51a18ea data/minecraft/loot_tables/blocks/end_rod.json
 f9266b321100484cf45af4396348c1e6203116e6 data/minecraft/loot_tables/blocks/lime_bed.json
