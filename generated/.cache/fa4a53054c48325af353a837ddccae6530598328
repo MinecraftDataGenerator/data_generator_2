@@ -1,9 +1,9 @@
-// 26.1-snapshot-7	2026-07-31T15:12:43.671270536	vanilla/Tags for minecraft:item
+// 26.1-snapshot-8	2026-07-31T15:13:10.703383225	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/item/small_flowers.json
-b9d0a0f22210c8764d7f52b92e0ac6983fb1536c data/minecraft/tags/item/horse_food.json
 3bbc6e083a8a39ca0ab068988d6cbd4d91911d31 data/minecraft/tags/item/wooden_shelves.json
+b9d0a0f22210c8764d7f52b92e0ac6983fb1536c data/minecraft/tags/item/horse_food.json
 89987d10d75ba93bb3e67dc42a2a137ea8e87612 data/minecraft/tags/item/saplings.json
 105727dc444ddc319293c250e6c64f197b4ba151 data/minecraft/tags/item/frog_food.json
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/diamond_tool_materials.json
@@ -39,8 +39,8 @@ b965cf1cefd134257c07643683f8547e274e026e data/minecraft/tags/item/mud.json
 c48bbed46970bff31dd0e696398a3e105fa0fa1f data/minecraft/tags/item/stairs.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/item/lectern_books.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
-8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
 da7279518f6f1cdc8c5c7c84fc9f06624a234457 data/minecraft/tags/item/wooden_slabs.json
+8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/enchantable/crossbow.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/item/copper_ores.json
@@ -120,8 +120,8 @@ e9d352a7a079a3d6b05caa452924fb03a001cbae data/minecraft/tags/item/wooden_fences.
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/repairs_diamond_armor.json
 3fdfa9ed4805c94904dacc7fe41accf2f18c5030 data/minecraft/tags/item/chest_armor.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/item/birch_logs.json
-a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/item/doors.json
 0de249645a62e3e99c8930f651e59a7b0919338a data/minecraft/tags/item/villager_plantable_seeds.json
+a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/item/doors.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/enchantable/trident.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/item/emerald_ores.json
 3b84566bb28aa982abda5bf5c27806edbc350c63 data/minecraft/tags/item/hoglin_food.json

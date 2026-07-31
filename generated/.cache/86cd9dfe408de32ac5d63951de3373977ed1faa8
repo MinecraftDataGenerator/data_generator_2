@@ -1,4 +1,4 @@
-// 26.1-snapshot-7	2026-07-31T15:12:43.675195948	vanilla/Tags for minecraft:block
+// 26.1-snapshot-8	2026-07-31T15:13:10.707509577	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -86,8 +86,8 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 dc2e648fb038e928e6f24c27d588b7cd820659ae data/minecraft/tags/block/sword_efficient.json
 2b09272e8b33eaefd3353e728cc5a8d1fcad6e39 data/minecraft/tags/block/logs_that_burn.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
-090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
 c6153504a3a58f5e277461bb264ecfa50bab41e3 data/minecraft/tags/block/mineable/pickaxe.json
+090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
 f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/block/pale_oak_logs.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 cf33535cd44ff4af692d72c1889bef8fd7ee12a2 data/minecraft/tags/block/supports_big_dripleaf.json
@@ -114,8 +114,8 @@ bd6afc9c5b446cf5cb2e265f9e719059f38d9f15 data/minecraft/tags/block/supports_melo
 b4727e6ebe055c567441285ae565462a8b1e4abc data/minecraft/tags/block/enables_bubble_column_push_up.json
 8f756b6bb97bd87b831f683f85e42cabb7f86cd3 data/minecraft/tags/block/ice.json
 f045c2575c82c58d58f4b59d5292d3ec0e53d9a0 data/minecraft/tags/block/nether_carver_replaceables.json
-7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/block/sand.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/block/small_flowers.json
+7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/block/sand.json
 8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/bats_spawnable_on.json
 f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/block/invalid_spawn_inside.json
 39536bd6fae1621415988e6868058425dc09f27d data/minecraft/tags/block/guarded_by_piglins.json
@@ -177,8 +177,8 @@ ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 dd3a77b2229c67cb46f729e311d06ba0f1ed4525 data/minecraft/tags/block/replaceable.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json
-c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/dirt.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/block/crimson_stems.json
+c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/dirt.json
 33f213d4a5d356141bd58401bcd7461bdbfd2a8b data/minecraft/tags/block/supports_stem_fruit.json
 f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/block/diamond_ores.json
 c8409b7c9e49c5f3cb29b632d93a85d8325b3490 data/minecraft/tags/block/happy_ghast_avoids.json

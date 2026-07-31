@@ -1,4 +1,4 @@
-// 26.1-snapshot-7	2026-07-31T15:12:43.671060256	vanilla/Tags for minecraft:damage_type
+// 26.1-snapshot-8	2026-07-31T15:13:10.703176414	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
