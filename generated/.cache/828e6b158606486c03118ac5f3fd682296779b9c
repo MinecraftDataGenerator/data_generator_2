@@ -1,4 +1,4 @@
-// 1.21.11-pre1	2026-07-31T15:07:32.894250086	vanilla/Loot Tables
+// 1.21.11-pre2	2026-07-31T15:07:51.612092475	vanilla/Loot Tables
 415fbbb37d98668ba0c268122a5227bc70bc1d0e data/minecraft/loot_table/gameplay/chicken_lay.json
 0f905afcf3733f9f7ce32d8b48e4a2041b7aefdd data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 c4dbb75007d3c56c0793952d0e1581a79319e798 data/minecraft/loot_table/blocks/birch_wood.json
@@ -139,8 +139,8 @@ d8f08468f02392756b43448917b8047a212c47e0 data/minecraft/loot_table/blocks/water_
 2404fdf9bd5ddc130a7e65d8f8b39d3c0e88197b data/minecraft/loot_table/entities/sheep/magenta.json
 a1e5cf52ba8ad115582a4e60aa87485fc5edd802 data/minecraft/loot_table/blocks/potted_jungle_sapling.json
 febed2f137956c075d2ea0f72e7825a002cbb430 data/minecraft/loot_table/blocks/acacia_fence.json
-2b731176cab38e46693ec32e1ed08c9a9ac5031c data/minecraft/loot_table/blocks/dark_oak_trapdoor.json
 7d59c841a0276d3faaf7e3e039707591e4449251 data/minecraft/loot_table/entities/sheep.json
+2b731176cab38e46693ec32e1ed08c9a9ac5031c data/minecraft/loot_table/blocks/dark_oak_trapdoor.json
 21813e433dcf70828c1ecf18896242570a52b472 data/minecraft/loot_table/blocks/prismarine_stairs.json
 ac9b49bbec4cb872c361fc026589d22faf9d406a data/minecraft/loot_table/blocks/light_blue_wool.json
 5b8c5dbabe215810e756d8d4deb66f3b9ca2ec31 data/minecraft/loot_table/blocks/oxidized_cut_copper_stairs.json
@@ -793,8 +793,8 @@ ae2098af4f1c29cdc6b9aae1a26d418ed3d407d1 data/minecraft/loot_table/blocks/waxed_
 a1907666d67586f32ac3689feaf47500d022ae1c data/minecraft/loot_table/blocks/mangrove_sign.json
 e7c174b1c17f8e3d85c5d7e9282a2faeddeb846d data/minecraft/loot_table/blocks/polished_andesite.json
 a24e188acdf0512a890f2a5997acd8941da6b891 data/minecraft/loot_table/charged_creeper/creeper.json
-1efefb90154043228474eb2584469b5611dc56fb data/minecraft/loot_table/entities/copper_golem.json
 116fa23aeb315112db7799af4f75f8b8c2b201c1 data/minecraft/loot_table/blocks/tuff_stairs.json
+1efefb90154043228474eb2584469b5611dc56fb data/minecraft/loot_table/entities/copper_golem.json
 0af73133c537e29708cd21991b40fddbef0eb8da data/minecraft/loot_table/chests/abandoned_mineshaft.json
 2211237adfcb9deeab58ec8f2d84e6fd7e0892bd data/minecraft/loot_table/blocks/stripped_dark_oak_wood.json
 b4f615968d0b84299e58add0ef88bfffdf4f619b data/minecraft/loot_table/blocks/yellow_terracotta.json
