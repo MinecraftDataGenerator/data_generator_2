@@ -1,4 +1,4 @@
-// 1.19.3 Pre-release 3	2026-07-31T14:08:56.714576312	vanilla/Loot Tables
+// 1.19.3 Release Candidate 1	2026-07-31T14:09:18.635971981	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -519,8 +519,8 @@ ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/fox
 94de6ade4229d46843226d6a1827a558171a71ed data/minecraft/loot_tables/blocks/hanging_roots.json
 30a94189d5ed71136b84dc7daff69e7a7950a23d data/minecraft/loot_tables/blocks/cracked_polished_blackstone_bricks.json
 a71ef1cc192304d790efdff401c3cb95c66094b0 data/minecraft/loot_tables/blocks/cyan_carpet.json
-a72709b60da85519ed5bec325c7ef39fa7df5f2d data/minecraft/loot_tables/blocks/cobbled_deepslate.json
 7c4a4a67f6e3524e42213f63eaaaa8e4685119db data/minecraft/loot_tables/chests/ancient_city.json
+a72709b60da85519ed5bec325c7ef39fa7df5f2d data/minecraft/loot_tables/blocks/cobbled_deepslate.json
 ac3f76e1e682dc10e5dd1fb3e9efc110d9e26282 data/minecraft/loot_tables/blocks/brown_wool.json
 de9c953d9158564e48d94a5fee5099d54903a4af data/minecraft/loot_tables/blocks/blue_orchid.json
 fc32e2768ba5444a5c4a6e0ebc3151cac66ec030 data/minecraft/loot_tables/blocks/light_blue_stained_glass_pane.json
