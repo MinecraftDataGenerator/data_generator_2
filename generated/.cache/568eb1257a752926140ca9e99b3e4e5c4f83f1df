@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 1	2026-07-31T14:55:59.028410357	vanilla/Vanilla Recipes
+// 1.21.6 Pre-Release 2	2026-07-31T14:56:15.472266155	vanilla/Vanilla Recipes
 1dfb3c36e1c906b6c46dc3654b03e3a860c8031b data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 ee52ee40954eaaa0ce5508da0da1c4b070393a47 data/minecraft/recipe/dye_magenta_bed.json
@@ -262,8 +262,8 @@ e66e6cafbdf8ad85bde5b6d0170fb2449bccd164 data/minecraft/recipe/dye_purple_wool.j
 76232c97184b0cf46e0a3b93f04180f332043b00 data/minecraft/recipe/composter.json
 a053c5876955cbf3b3497a29872eed7b12f2b5ac data/minecraft/advancement/recipes/misc/stick.json
 63782cfa7c100f4d43f89f4672fbdb62f2e0e6eb data/minecraft/recipe/soul_lantern.json
-f0a5f9ded5fc14b7c05cc4be1cba2260fdb755f7 data/minecraft/recipe/dark_oak_door.json
 bf44bf97f86797127bf054599a79d48cbf0e58d0 data/minecraft/advancement/recipes/redstone/oak_pressure_plate.json
+f0a5f9ded5fc14b7c05cc4be1cba2260fdb755f7 data/minecraft/recipe/dark_oak_door.json
 91de90071f5f0e79253ae697d6e26063b7f4e26e data/minecraft/advancement/recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb.json
 6bee0045968c47fc1042356f1bceaa3a472b4a56 data/minecraft/advancement/recipes/decorations/red_shulker_box.json
 cebc9117004749e7dd5b613d3b948a7590ba5b5f data/minecraft/advancement/recipes/redstone/mangrove_fence_gate.json
@@ -401,8 +401,8 @@ eec24cbd68e738474333341fbf054ceaca8e1bb4 data/minecraft/recipe/tuff_bricks_from_
 97b1b0d4d20947e8c782b7cc8c16fa49248d9522 data/minecraft/advancement/recipes/tools/light_gray_bundle.json
 b387973c26585c6a5c4948e7ac2b144f278cb777 data/minecraft/recipe/diamond_chestplate.json
 5329532cba58884518e5feb170157d4b4b76fe27 data/minecraft/recipe/white_candle.json
-f803049f198c34fb43ecb9b0093694c469f0ea82 data/minecraft/advancement/recipes/building_blocks/bamboo_stairs.json
 5004509bf3e9d7f46e7ad38d3d9af9abacbe0ee9 data/minecraft/advancement/recipes/combat/dye_white_harness.json
+f803049f198c34fb43ecb9b0093694c469f0ea82 data/minecraft/advancement/recipes/building_blocks/bamboo_stairs.json
 f3912097580d4d0d2298d901174db39c3f63e5ca data/minecraft/advancement/recipes/misc/diamond_from_blasting_diamond_ore.json
 63fe7824193d1356596541ec0e32bffe766c39c7 data/minecraft/advancement/recipes/building_blocks/mud_brick_stairs.json
 b7a5639f0d1bc340b04f72bb40ff785b56f712ff data/minecraft/advancement/recipes/misc/silence_armor_trim_smithing_template.json
