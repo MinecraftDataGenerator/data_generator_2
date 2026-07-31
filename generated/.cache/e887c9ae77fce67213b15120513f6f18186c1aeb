@@ -1,9 +1,9 @@
-// 22w46a	2026-07-31T14:08:02.703022474	update_1_20/Recipes
+// 1.19.3 Pre-release 1	2026-07-31T14:08:24.591112617	update_1_20/Recipes
 f0cce472bf7c39c8a88601aa9dc4cb86e44ef02d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/jungle_hanging_sign.json
 2fb9ebd7d6b70bcc53be3033e9c0f003f3e33d81 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/bamboo_block.json
 7927bbdb56388c6ab566fa93be9ac1201abb83e0 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/chiseled_bookshelf.json
-122d2857b9016d90779933a1616a9c0e07f47b1f data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/transportation/bamboo_chest_raft.json
 08691281bea1ea98d8836290f4325b0d695e7b62 data/minecraft/datapacks/update_1_20/data/minecraft/recipes/dark_oak_hanging_sign.json
+122d2857b9016d90779933a1616a9c0e07f47b1f data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/transportation/bamboo_chest_raft.json
 5fd22b46ba2232354131e990af9a28baa3fd69d0 data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/dark_oak_hanging_sign.json
 d92b6cdaedb06b3903a50c3d34304bc259265b0e data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/decorations/birch_hanging_sign.json
 4b20d6c65db7bef2f6114bfb57d583043dd2449d data/minecraft/datapacks/update_1_20/data/minecraft/advancements/recipes/building_blocks/bamboo_mosaic_stairs.json
