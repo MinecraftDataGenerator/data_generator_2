@@ -1,4 +1,4 @@
-// 1.21.8	2026-07-31T14:59:01.900730064	vanilla/Tags for minecraft:damage_type
+// 25w31a	2026-07-31T14:59:23.175463378	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -13,8 +13,8 @@ bc03d5732e700f055089390e08de0be5d37237f4 data/minecraft/tags/damage_type/always_
 97bc06b51b83e660342256d2f473ef44b30ca235 data/minecraft/tags/damage_type/bypasses_invulnerability.json
 6101124bc5627eaec936e8be0b47f8e60b4f9afe data/minecraft/tags/damage_type/bypasses_effects.json
 d6ce6b37848d6058447a0943865a6d87f1e228eb data/minecraft/tags/damage_type/is_player_attack.json
-bc5340194c7d1616600fe468b01e6014a1508e97 data/minecraft/tags/damage_type/is_lightning.json
 4b0ff25ac9710bba227360b163292796db4500bf data/minecraft/tags/damage_type/bypasses_enchantments.json
+bc5340194c7d1616600fe468b01e6014a1508e97 data/minecraft/tags/damage_type/is_lightning.json
 c92ac0b7f9a0bcc2522fb816a726020416583be8 data/minecraft/tags/damage_type/bypasses_wolf_armor.json
 8f4e29c3111a9e03f3aac7dd400586e6ced82fcc data/minecraft/tags/damage_type/always_kills_armor_stands.json
 2182196461100581d35d21f915c39cc53acaac17 data/minecraft/tags/damage_type/panic_environmental_causes.json
