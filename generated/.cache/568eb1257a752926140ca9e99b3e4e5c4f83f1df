@@ -1,4 +1,4 @@
-// 26.2-rc-2	2026-07-31T15:24:51.531556485	vanilla/Vanilla Recipes
+// 26.2	2026-07-31T15:25:12.004354372	vanilla/Vanilla Recipes
 0a8487ed6b63604bbb482e4ff99b17b0ffcdcc34 data/minecraft/recipe/dye_magenta_bed.json
 fbe42b2bae4f2982e7e37fb05a4b9df5c4e0b052 data/minecraft/advancement/recipes/food/mushroom_stew.json
 e4e355989a7edf29e7ea9879d01288dac470d65b data/minecraft/recipe/warped_hanging_sign.json
@@ -2044,8 +2044,8 @@ c6fe4ac42d5f941c954055bd3fece8300901f982 data/minecraft/advancement/recipes/misc
 3af308b6bc15263754d520fe5fa3464c32ece9ab data/minecraft/advancement/recipes/building_blocks/deepslate_brick_stairs_from_deepslate_stonecutting.json
 d38bce8bc658564a5c35d310967d0d957c4fa0e5 data/minecraft/recipe/blackstone_slab_from_blackstone_stonecutting.json
 de12db6cc9cbfd65e06cbab91b1eda9d8714bc5a data/minecraft/recipe/emerald.json
-faeb1096a7267508f64309a69e2968c3888894e3 data/minecraft/advancement/recipes/building_blocks/oak_planks.json
 c807065b2bb2cfde5b0ad1aa64a2b43758c4c680 data/minecraft/advancement/recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting.json
+faeb1096a7267508f64309a69e2968c3888894e3 data/minecraft/advancement/recipes/building_blocks/oak_planks.json
 6d68c6fc04f9269204c7efd16dd93922cb1086ee data/minecraft/recipe/red_dye_from_rose_bush.json
 55387fcf7ff3d6eb47f5b4ba3d26a9fcb2fffc0f data/minecraft/advancement/recipes/building_blocks/cracked_polished_blackstone_bricks.json
 36e65893757bc6969b7ce06471c6268acee71523 data/minecraft/advancement/recipes/building_blocks/waxed_copper_grate.json

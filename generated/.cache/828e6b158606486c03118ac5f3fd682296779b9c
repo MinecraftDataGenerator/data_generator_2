@@ -1,4 +1,4 @@
-// 26.2-rc-2	2026-07-31T15:24:51.543641331	vanilla/Loot Tables
+// 26.2	2026-07-31T15:25:12.016059597	vanilla/Loot Tables
 2a2bec67472299367f3b6ae2ded4092af6298c45 data/minecraft/loot_table/gameplay/chicken_lay.json
 c287379c18b4c8b9d06c17c55904774320d81fd6 data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 52602799ee445e68e9ba82aff22265228085f654 data/minecraft/loot_table/blocks/birch_wood.json
@@ -121,8 +121,8 @@ c581f0e965378d88b3dc4cad8e872e12079b15d8 data/minecraft/loot_table/harvest/cave_
 f4a19b0e5ba86f99c794bdde5dc0e2557ebc8d37 data/minecraft/loot_table/blocks/white_concrete.json
 f29a835fc5421a3aa372f7078d41ba07cdf46d72 data/minecraft/loot_table/blocks/stone_brick_wall.json
 3e956c88468f69cdf457f8d27a4fce466634a52c data/minecraft/loot_table/blocks/infested_deepslate.json
-e4ddc3551370096f427b420e24046bcb7916fc5a data/minecraft/loot_table/blocks/cracked_deepslate_bricks.json
 5f7511c00b54588e240236219313cb90f8e2b30a data/minecraft/loot_table/blocks/mossy_stone_brick_slab.json
+e4ddc3551370096f427b420e24046bcb7916fc5a data/minecraft/loot_table/blocks/cracked_deepslate_bricks.json
 7f1893d88e4ec6255d4b89331854d5d64eb12849 data/minecraft/loot_table/blocks/powered_rail.json
 da3276b9846c2b0addf93506500c70fb62a9ab67 data/minecraft/loot_table/blocks/pale_oak_door.json
 58ab332efe69b4fa03f3eeb47b32fbb3e8c15230 data/minecraft/loot_table/entities/ghast.json
@@ -529,8 +529,8 @@ f887ab7334913fad6d5e0d81a1395a1c851a1487 data/minecraft/loot_table/blocks/cobble
 81ff01dbb55500bd42c334b09d81aa7672857678 data/minecraft/loot_table/blocks/light_blue_stained_glass_pane.json
 3ec7456a66f92ea6a69452213db9d008003d102d data/minecraft/loot_table/blocks/soul_soil.json
 a2120b52f1d969bf11cb7301bc971b71a705a219 data/minecraft/loot_table/blocks/sculk_shrieker.json
-7daec085f98f9f9980e05838d2d2f8344db91419 data/minecraft/loot_table/blocks/waxed_exposed_cut_copper.json
 12114680b21da266f1972a7dc4d2a8f809f2bfda data/minecraft/loot_table/blocks/fire_coral.json
+7daec085f98f9f9980e05838d2d2f8344db91419 data/minecraft/loot_table/blocks/waxed_exposed_cut_copper.json
 5f972a6e2fcce380724a6a2faa381265a8ded864 data/minecraft/loot_table/blocks/potted_wither_rose.json
 b3e885ac16f639d9d3c2b3ef9dfbe8616af40383 data/minecraft/loot_table/blocks/purple_glazed_terracotta.json
 2cb76b2b108a71f5ef9b7859e6653bfcc28bba31 data/minecraft/loot_table/blocks/crimson_hyphae.json
