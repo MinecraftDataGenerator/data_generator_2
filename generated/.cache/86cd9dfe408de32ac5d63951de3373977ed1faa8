@@ -1,4 +1,4 @@
-// 26.1.2-rc-1	2026-07-31T15:18:51.07720939	vanilla/Tags for minecraft:block
+// 26.1.2	2026-07-31T15:19:11.208265983	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -113,12 +113,12 @@ a67dfa87931257015394b3270b56ca3c4d46a7d0 data/minecraft/tags/block/enderman_hold
 f0f92c5f0b5c5412980a4ca8436b4cb180919deb data/minecraft/tags/block/cannot_support_kelp.json
 bd6afc9c5b446cf5cb2e265f9e719059f38d9f15 data/minecraft/tags/block/supports_melon_stem.json
 b4727e6ebe055c567441285ae565462a8b1e4abc data/minecraft/tags/block/enables_bubble_column_push_up.json
-f045c2575c82c58d58f4b59d5292d3ec0e53d9a0 data/minecraft/tags/block/nether_carver_replaceables.json
 8f756b6bb97bd87b831f683f85e42cabb7f86cd3 data/minecraft/tags/block/ice.json
-3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/block/small_flowers.json
+f045c2575c82c58d58f4b59d5292d3ec0e53d9a0 data/minecraft/tags/block/nether_carver_replaceables.json
 7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/block/sand.json
-8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/bats_spawnable_on.json
+3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/block/small_flowers.json
 f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/block/invalid_spawn_inside.json
+8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/bats_spawnable_on.json
 39536bd6fae1621415988e6868058425dc09f27d data/minecraft/tags/block/guarded_by_piglins.json
 2e39009883eda5b51c79d998168c46eee59d92c1 data/minecraft/tags/block/signs.json
 d772e288e7520c6974ec3238c6aa3ecd2b8e686b data/minecraft/tags/block/trail_ruins_replaceable.json
@@ -202,8 +202,8 @@ db6195d77bd598771b111d12750ba39f41fe35c7 data/minecraft/tags/block/strider_warm_
 c1b2a217bb3fcb7e1d67f5bc45409796720bd171 data/minecraft/tags/block/camels_spawnable_on.json
 3bbc6e083a8a39ca0ab068988d6cbd4d91911d31 data/minecraft/tags/block/wooden_shelves.json
 dcb7917ecc410e826c8d81e1b1a707ede8401c33 data/minecraft/tags/block/huge_red_mushroom_can_place_on.json
-f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/block/fall_damage_resetting.json
 4ffaa49e8fe60af1f5992d2fdb73e4b1bc5fcf98 data/minecraft/tags/block/crops.json
+f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/block/fall_damage_resetting.json
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/block/trapdoors.json
 da8b8f8686a75b8cf996f5f2752a61934cf2dfaa data/minecraft/tags/block/mineable/shovel.json
 c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/convertable_to_mud.json

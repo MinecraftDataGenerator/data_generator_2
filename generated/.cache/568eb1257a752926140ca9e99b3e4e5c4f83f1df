@@ -1,4 +1,4 @@
-// 26.1.2-rc-1	2026-07-31T15:18:51.066079057	vanilla/Vanilla Recipes
+// 26.1.2	2026-07-31T15:19:11.195451393	vanilla/Vanilla Recipes
 2ae39d0fdc9fdb6d74d03f2d83f55ea313f92c40 data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 7d9e3b5529d3837159f88c75f4731d4216fff21f data/minecraft/recipe/dye_magenta_bed.json
@@ -65,8 +65,8 @@ edd38c4c5190801c80c7ae8bc0aa567ada5e8883 data/minecraft/recipe/waxed_oxidized_co
 28c59384cf0a531cd2810df0b78fddc0da8b5a3a data/minecraft/recipe/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting.json
 2f810df79c580a9ca82e17e99b215eb8021cb7ee data/minecraft/recipe/spruce_wood.json
 1ec70f2e09b8443d77b628aafaad60d44bc7cbc3 data/minecraft/recipe/light_gray_harness.json
-d517b3e934881ce0b67fc0646ea2373d6bf334a4 data/minecraft/recipe/stripped_spruce_wood.json
 3772528163a19af6ec88fd6703ea975b80a64418 data/minecraft/advancement/recipes/decorations/acacia_fence.json
+d517b3e934881ce0b67fc0646ea2373d6bf334a4 data/minecraft/recipe/stripped_spruce_wood.json
 fdb63d1bcc707a818767d7f620a56f0cf6ede428 data/minecraft/advancement/recipes/building_blocks/smooth_stone.json
 cd371fa3dcee5b41520bf4c8a0718e4d3ee4841d data/minecraft/advancement/recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting.json
 8d7e8e210fac41af947e88b8b92b73c751cd26c0 data/minecraft/recipe/crimson_button.json

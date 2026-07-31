@@ -1,4 +1,4 @@
-// 26.1.2-rc-1	2026-07-31T15:18:51.062915641	vanilla/Default Components
+// 26.1.2	2026-07-31T15:19:11.191699096	vanilla/Default Components
 36d2289e2c51a4a07b49d784f609f16b950f3c90 reports/minecraft/components/item/dead_brain_coral_fan.json
 11939540e907f9960265fb479a09aebaa2e62d65 reports/minecraft/components/item/infested_stone_bricks.json
 bb15e89633ba13f3393a39033dfa1f7195f79f47 reports/minecraft/components/item/beetroot.json
@@ -141,8 +141,8 @@ eade8c7116a46bf4a06c291f47e82c087335241d reports/minecraft/components/item/weath
 527635b94143a65a9aa37f4c8a4c473131753428 reports/minecraft/components/item/iron_boots.json
 b47b3a639e29aca04d6b130dd6f18c5b1c58df6e reports/minecraft/components/item/prismarine.json
 a5b35423c96c7b524a1e9683a42b882b239ddf3a reports/minecraft/components/item/acacia_trapdoor.json
-589f31ef8bb59beb2d1ee482962557ea7b189d3a reports/minecraft/components/item/bush.json
 53988041e28002cf68a39f135cbfae4fa6a692c9 reports/minecraft/components/item/cobblestone_slab.json
+589f31ef8bb59beb2d1ee482962557ea7b189d3a reports/minecraft/components/item/bush.json
 af2f14a3718d1afde11c6efec90dba45ca97404f reports/minecraft/components/item/fox_spawn_egg.json
 072761b41098bed81eb9993384bd42df37f63f9b reports/minecraft/components/item/hanging_roots.json
 5099463b15aa342e08f5e204c9f4ef199cf4840d reports/minecraft/components/item/sand.json
@@ -211,8 +211,8 @@ ad9ec4403105fdfcf0433d256b6ef809b70546ea reports/minecraft/components/item/crims
 2650c0094d3b0032a6580ce1e253c42fa8343d0f reports/minecraft/components/item/chorus_flower.json
 d6b97b99624941c726216d7eaf23a81d69efa039 reports/minecraft/components/item/smoker.json
 05285bab741b351c6844b6e5a20fcddf89ff914a reports/minecraft/components/item/blue_harness.json
-ea229059d7916afa8cbee2042b8016118f061511 reports/minecraft/components/item/iron_ingot.json
 8b642c7af6af1725449f8f19a4ff92b2b62420c3 reports/minecraft/components/item/dried_ghast.json
+ea229059d7916afa8cbee2042b8016118f061511 reports/minecraft/components/item/iron_ingot.json
 f959fd722fa0fb900b1829b68da505aa50c5c3a4 reports/minecraft/components/item/stone_pressure_plate.json
 00c9c89705c7a423fee71bce6e6ad2a68acd260f reports/minecraft/components/item/yellow_terracotta.json
 d5174a2530fa05207bd60ee9c2e352e651205bcf reports/minecraft/components/item/crafting_table.json
