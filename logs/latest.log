@@ -1,74 +1,74 @@
-[14:12:15] [ServerMain/INFO]: Starting provider: vanilla/SNBT -> NBT
-[14:12:15] [ServerMain/INFO]: vanilla/SNBT -> NBT finished after 1 ms
-[14:12:15] [ServerMain/INFO]: Starting provider: vanilla/Model Definitions
-[14:12:16] [ServerMain/INFO]: vanilla/Model Definitions finished after 277 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Registries
-[14:12:16] [ServerMain/INFO]: vanilla/Registries finished after 171 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Advancements
-[14:12:16] [ServerMain/INFO]: vanilla/Advancements finished after 133 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Loot Tables
-[14:12:16] [ServerMain/INFO]: vanilla/Loot Tables finished after 113 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Recipes
-[14:12:16] [ServerMain/INFO]: vanilla/Recipes finished after 58 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:block
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:block finished after 16 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:item
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:item finished after 3 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:banner_pattern
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:banner_pattern finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/biome
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/biome finished after 75 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:cat_variant
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:cat_variant finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:damage_type
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:damage_type finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:entity_type
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:entity_type finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:fluid
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:fluid finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:game_event
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:game_event finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:instrument
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:instrument finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:painting_variant
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:painting_variant finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:point_of_interest_type
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:point_of_interest_type finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/structure
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/structure finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/world_preset
-[14:12:16] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/world_preset finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/NBT -> SNBT
-[14:12:16] [ServerMain/INFO]: vanilla/NBT -> SNBT finished after 0 ms
-[14:12:16] [ServerMain/INFO]: Starting provider: vanilla/Biome Parameters
-[14:12:17] [ServerMain/INFO]: vanilla/Biome Parameters finished after 344 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: vanilla/Block List
-[14:12:17] [ServerMain/INFO]: vanilla/Block List finished after 138 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: vanilla/Command Syntax
-[14:12:17] [ServerMain/INFO]: vanilla/Command Syntax finished after 166 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: vanilla/Registry Dump
-[14:12:17] [ServerMain/INFO]: vanilla/Registry Dump finished after 13 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: bundle/Recipes
-[14:12:17] [ServerMain/INFO]: bundle/Recipes finished after 0 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: bundle/Pack Metadata
-[14:12:17] [ServerMain/INFO]: bundle/Pack Metadata finished after 4 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Recipes
-[14:12:17] [ServerMain/INFO]: update_1_20/Recipes finished after 4 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:block
-[14:12:17] [ServerMain/INFO]: update_1_20/Tags for minecraft:block finished after 1 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:item
-[14:12:17] [ServerMain/INFO]: update_1_20/Tags for minecraft:item finished after 1 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:worldgen/biome
-[14:12:17] [ServerMain/INFO]: update_1_20/Tags for minecraft:worldgen/biome finished after 0 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Loot Tables
-[14:12:17] [ServerMain/INFO]: update_1_20/Loot Tables finished after 7 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Advancements
-[14:12:17] [ServerMain/INFO]: update_1_20/Advancements finished after 61 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Registries
-[14:12:17] [ServerMain/INFO]: update_1_20/Registries finished after 2 ms
-[14:12:17] [ServerMain/INFO]: Starting provider: update_1_20/Pack Metadata
-[14:12:17] [ServerMain/INFO]: update_1_20/Pack Metadata finished after 0 ms
-[14:12:17] [ServerMain/INFO]: All providers took: 1618 ms
-[14:12:17] [ServerMain/INFO]: Caching: total files: 9190, old count: 0, new count: 9191, removed stale: 0, written: 9190
+[14:12:30] [ServerMain/INFO]: Starting provider: vanilla/SNBT -> NBT
+[14:12:30] [ServerMain/INFO]: vanilla/SNBT -> NBT finished after 1 ms
+[14:12:30] [ServerMain/INFO]: Starting provider: vanilla/Model Definitions
+[14:12:31] [ServerMain/INFO]: vanilla/Model Definitions finished after 274 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Registries
+[14:12:31] [ServerMain/INFO]: vanilla/Registries finished after 163 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Advancements
+[14:12:31] [ServerMain/INFO]: vanilla/Advancements finished after 124 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Loot Tables
+[14:12:31] [ServerMain/INFO]: vanilla/Loot Tables finished after 104 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Recipes
+[14:12:31] [ServerMain/INFO]: vanilla/Recipes finished after 61 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:block
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:block finished after 15 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:item
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:item finished after 4 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:banner_pattern
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:banner_pattern finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/biome
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/biome finished after 77 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:cat_variant
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:cat_variant finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:damage_type
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:damage_type finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:entity_type
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:entity_type finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:fluid
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:fluid finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:game_event
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:game_event finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:instrument
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:instrument finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:painting_variant
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:painting_variant finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:point_of_interest_type
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:point_of_interest_type finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/structure
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/structure finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/world_preset
+[14:12:31] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/world_preset finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/NBT -> SNBT
+[14:12:31] [ServerMain/INFO]: vanilla/NBT -> SNBT finished after 0 ms
+[14:12:31] [ServerMain/INFO]: Starting provider: vanilla/Biome Parameters
+[14:12:32] [ServerMain/INFO]: vanilla/Biome Parameters finished after 348 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: vanilla/Block List
+[14:12:32] [ServerMain/INFO]: vanilla/Block List finished after 141 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: vanilla/Command Syntax
+[14:12:32] [ServerMain/INFO]: vanilla/Command Syntax finished after 169 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: vanilla/Registry Dump
+[14:12:32] [ServerMain/INFO]: vanilla/Registry Dump finished after 18 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: bundle/Recipes
+[14:12:32] [ServerMain/INFO]: bundle/Recipes finished after 0 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: bundle/Pack Metadata
+[14:12:32] [ServerMain/INFO]: bundle/Pack Metadata finished after 1 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Recipes
+[14:12:32] [ServerMain/INFO]: update_1_20/Recipes finished after 6 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:block
+[14:12:32] [ServerMain/INFO]: update_1_20/Tags for minecraft:block finished after 0 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:item
+[14:12:32] [ServerMain/INFO]: update_1_20/Tags for minecraft:item finished after 1 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:worldgen/biome
+[14:12:32] [ServerMain/INFO]: update_1_20/Tags for minecraft:worldgen/biome finished after 0 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Loot Tables
+[14:12:32] [ServerMain/INFO]: update_1_20/Loot Tables finished after 10 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Advancements
+[14:12:32] [ServerMain/INFO]: update_1_20/Advancements finished after 102 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Registries
+[14:12:32] [ServerMain/INFO]: update_1_20/Registries finished after 2 ms
+[14:12:32] [ServerMain/INFO]: Starting provider: update_1_20/Pack Metadata
+[14:12:32] [ServerMain/INFO]: update_1_20/Pack Metadata finished after 0 ms
+[14:12:32] [ServerMain/INFO]: All providers took: 1661 ms
+[14:12:32] [ServerMain/INFO]: Caching: total files: 9190, old count: 0, new count: 9191, removed stale: 0, written: 9190
