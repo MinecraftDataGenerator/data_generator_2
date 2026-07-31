@@ -1,4 +1,4 @@
-// 26.1-snapshot-6	2026-07-31T15:12:21.490232501	vanilla/Tags for minecraft:block
+// 26.1-snapshot-7	2026-07-31T15:12:43.675195948	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -148,8 +148,8 @@ c80b1d012971f56913dc513b63585a6ff72cd3ce data/minecraft/tags/block/supports_suga
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/block/iron_ores.json
 65111dce44b1fa957a52d1cce0ae3f4eebfe803f data/minecraft/tags/block/frog_prefer_jump_to.json
 4b3a4c310cf37ae02e8a2814af654638cdaecaa5 data/minecraft/tags/block/base_stone_overworld.json
-ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/block/overrides_mushroom_light_requirement.json
 9994f212884e8264af96eaba34aa7e89696d8994 data/minecraft/tags/block/supports_chorus_plant.json
+ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/block/overrides_mushroom_light_requirement.json
 486861a8a01410d404ee129446a439a712b98156 data/minecraft/tags/block/fire.json
 1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/block/coal_ores.json
 91298092263229c22ed59f780495f30405f23e44 data/minecraft/tags/block/grows_crops.json
@@ -223,8 +223,8 @@ a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/block/doors.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/block/cherry_logs.json
 62b3c476ebacc9707c4f2ddcc513e14294fd1988 data/minecraft/tags/block/needs_iron_tool.json
 f8df96f451977abc092fb76c1e56ca36243c61d7 data/minecraft/tags/block/cannot_replace_below_tree_trunk.json
-dbff00a0f73fd34ad6f4fd87c32067b0a80828ad data/minecraft/tags/block/sculk_replaceable.json
 9eaa40cdc7d24db027be3eac878536ce597e2b3a data/minecraft/tags/block/badlands_terracotta.json
+dbff00a0f73fd34ad6f4fd87c32067b0a80828ad data/minecraft/tags/block/sculk_replaceable.json
 1d06a2ee122e3edcd98600fe98e131c26392d4bf data/minecraft/tags/block/coral_blocks.json
 5dd31802db86a7a667ea7c511e002fe34f572850 data/minecraft/tags/block/edible_for_sheep.json
 9994f212884e8264af96eaba34aa7e89696d8994 data/minecraft/tags/block/supports_chorus_flower.json
@@ -239,10 +239,10 @@ d325dafefb521ba257286a3f3c66d9d6cd3bd320 data/minecraft/tags/block/cave_vines.js
 ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_copper_tool.json
 f8b33bdbdce4a74f9b09d6755c47411a750a0d4e data/minecraft/tags/block/lanterns.json
 61457dea01cddadbf6e92ae401e0d7c9c804c96a data/minecraft/tags/block/supports_cocoa.json
-5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/block/dampens_vibrations.json
-8f81701d3d8af27885661ded1822c8dc147b9577 data/minecraft/tags/block/copper_chests.json
-6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/block/campfires.json
 dcb7917ecc410e826c8d81e1b1a707ede8401c33 data/minecraft/tags/block/huge_brown_mushroom_can_place_on.json
+6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/block/campfires.json
+8f81701d3d8af27885661ded1822c8dc147b9577 data/minecraft/tags/block/copper_chests.json
+5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/block/dampens_vibrations.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/supports_frogspawn.json
 bd29d87fc419f7c781893cecdda4e18e36fc0c8d data/minecraft/tags/block/dragon_immune.json
 c95c455fe4e6a7c8c1a280e27f6957acdeb9e2f3 data/minecraft/tags/block/occludes_vibration_signals.json

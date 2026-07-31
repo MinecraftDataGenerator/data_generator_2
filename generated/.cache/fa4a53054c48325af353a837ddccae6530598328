@@ -1,9 +1,9 @@
-// 26.1-snapshot-6	2026-07-31T15:12:21.485952139	vanilla/Tags for minecraft:item
+// 26.1-snapshot-7	2026-07-31T15:12:43.671270536	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/item/small_flowers.json
-3bbc6e083a8a39ca0ab068988d6cbd4d91911d31 data/minecraft/tags/item/wooden_shelves.json
 b9d0a0f22210c8764d7f52b92e0ac6983fb1536c data/minecraft/tags/item/horse_food.json
+3bbc6e083a8a39ca0ab068988d6cbd4d91911d31 data/minecraft/tags/item/wooden_shelves.json
 89987d10d75ba93bb3e67dc42a2a137ea8e87612 data/minecraft/tags/item/saplings.json
 105727dc444ddc319293c250e6c64f197b4ba151 data/minecraft/tags/item/frog_food.json
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/diamond_tool_materials.json
