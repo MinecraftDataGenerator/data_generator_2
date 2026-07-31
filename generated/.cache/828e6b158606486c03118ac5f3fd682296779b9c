@@ -1,4 +1,4 @@
-// 26.2-pre-3	2026-07-31T15:23:00.379824114	vanilla/Loot Tables
+// 26.2-pre-4	2026-07-31T15:23:25.755837623	vanilla/Loot Tables
 2a2bec67472299367f3b6ae2ded4092af6298c45 data/minecraft/loot_table/gameplay/chicken_lay.json
 c287379c18b4c8b9d06c17c55904774320d81fd6 data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 52602799ee445e68e9ba82aff22265228085f654 data/minecraft/loot_table/blocks/birch_wood.json
@@ -409,8 +409,8 @@ a6bb94c8e704c40d3a260b246b7a7906ff559d73 data/minecraft/loot_table/blocks/flower
 58970c7e9094f1d31cd15fd4ee2ad5b1903c008e data/minecraft/loot_table/blocks/iron_chain.json
 c3a96598489b08d3c189e7d97bb9c0fd208a419f data/minecraft/loot_table/blocks/vault.json
 8d89a875b66d30aea0e58ce1798329eef95c6268 data/minecraft/loot_table/blocks/acacia_leaves.json
-c65c36e78e6a166474590ecb5fed3bea7d95a22c data/minecraft/loot_table/blocks/black_concrete_powder.json
 9c1aeb3a11b1c435f962eb37d881bea2bbdab984 data/minecraft/loot_table/blocks/cyan_terracotta.json
+c65c36e78e6a166474590ecb5fed3bea7d95a22c data/minecraft/loot_table/blocks/black_concrete_powder.json
 68ec73d9b38b2927efbc79f4a863abe3b52a1084 data/minecraft/loot_table/blocks/stone_pressure_plate.json
 c3c9d1c6357c74760c7fc99dae838ab5c71c9403 data/minecraft/loot_table/blocks/acacia_door.json
 fcdf63bff6409741fa0081b875cdb9f978ae1de9 data/minecraft/loot_table/blocks/bamboo_pressure_plate.json
@@ -728,8 +728,8 @@ c7fb4d57a6c6d8f1ade49d3d50fbf21757e98aba data/minecraft/loot_table/blocks/pink_t
 a806067589c0dc4e3cc121eaec28139b30a4bf26 data/minecraft/loot_table/chests/village/village_tannery.json
 6ded17ab7741bc5daa3845905088725ee45716da data/minecraft/loot_table/blocks/oxidized_copper_chain.json
 955d803d19aac7194c9910fceb9adea8df88476f data/minecraft/loot_table/blocks/warped_shelf.json
-e4009c401cd2f9512d2759625a6c40280b264948 data/minecraft/loot_table/entities/sniffer.json
 c31173891f314ccd6cbe414bebf96111afe148d4 data/minecraft/loot_table/blocks/cobbled_deepslate.json
+e4009c401cd2f9512d2759625a6c40280b264948 data/minecraft/loot_table/entities/sniffer.json
 b745bc68a4d612d9a5e26bf295cd482ef59d52b2 data/minecraft/loot_table/blocks/iron_trapdoor.json
 cb925990bab10b79d773e168d0054d649eec230f data/minecraft/loot_table/blocks/small_amethyst_bud.json
 a0762dc85c6e71f380c88587d61d5592f08eb528 data/minecraft/loot_table/blocks/iron_bars.json
@@ -1208,8 +1208,8 @@ b915141d6e3fcdf6f50bcf6f43eeb455717f2866 data/minecraft/loot_table/blocks/bamboo
 25cf36dfe3c2c7272aeeb0e0e27205bb6784137f data/minecraft/loot_table/blocks/spruce_log.json
 450b99b7aa628c4bed21ebea3412e62bb87ea030 data/minecraft/loot_table/entities/player.json
 6e7721c03721f3c1956ff1a7116d1e67f37f8937 data/minecraft/loot_table/blocks/deepslate_lapis_ore.json
-506e934ad59d0e2dec939fee1de52683ddb4abf4 data/minecraft/loot_table/blocks/prismarine_bricks.json
 fc3f26090b7f65e4dc30e932e4d371f063011af0 data/minecraft/loot_table/chests/end_city_treasure.json
+506e934ad59d0e2dec939fee1de52683ddb4abf4 data/minecraft/loot_table/blocks/prismarine_bricks.json
 11055c9f53febc033b6402105aa5cb96b9d42aaa data/minecraft/loot_table/blocks/wildflowers.json
 b15df8e60a701e812c9c12bbfd5bc25569b6e284 data/minecraft/loot_table/blocks/chiseled_sulfur.json
 6b7593dbb18f421eda3e556977179210e03281be data/minecraft/loot_table/blocks/twisting_vines.json
@@ -1280,8 +1280,8 @@ c0ea0bd4cd6ee83cc04090a08861b80c4456e837 data/minecraft/loot_table/blocks/bush.j
 fc6c31bcec2b5a29f91006c431a690699dee4015 data/minecraft/loot_table/blocks/deepslate_tile_slab.json
 9983d8b3fa1bcbcfe630ad7093d59d849dfffd67 data/minecraft/loot_table/blocks/infested_chiseled_stone_bricks.json
 aaf4efc59e6e8d03cf25ddd75e7c0d83573b188a data/minecraft/loot_table/blocks/detector_rail.json
-3ae39999b86226534356e36926d6feb5c66d0ea4 data/minecraft/loot_table/blocks/packed_ice.json
 8186d4fdab340567c93e5832012a397068911240 data/minecraft/loot_table/blocks/mossy_stone_brick_wall.json
+3ae39999b86226534356e36926d6feb5c66d0ea4 data/minecraft/loot_table/blocks/packed_ice.json
 7e249ec1c0132d9a3a0e036f88c89e971e23fc09 data/minecraft/loot_table/blocks/stripped_acacia_wood.json
 cfe1e5ff1e763604a15aff92d068b747c24d8e39 data/minecraft/loot_table/blocks/birch_sign.json
 cd4811127b1af6326d4d5a3b048c7b3877a13791 data/minecraft/loot_table/blocks/yellow_candle.json
