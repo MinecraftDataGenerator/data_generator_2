@@ -1,4 +1,4 @@
-// 1.20 Pre-release 5	2026-07-31T14:17:11.922095998	vanilla/Tags for minecraft:block
+// 1.20 Pre-release 6	2026-07-31T14:17:26.168931252	vanilla/Tags for minecraft:block
 51d8bf3885db56e8d2baea74147e7db3db031d51 data/minecraft/tags/blocks/maintains_farmland.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -137,8 +137,8 @@ d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/blocks/gold_ores.js
 c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/blocks/snaps_goat_horn.json
 6d490afecf539c9dd8b01e455d3db4eebb2dcdfa data/minecraft/tags/blocks/campfires.json
 619667c1b7332d180fa0737d335fc257a9549000 data/minecraft/tags/blocks/polar_bears_spawnable_on_alternate.json
-864b82c0176addd3a0a560b4bfb7cfd232de8a9e data/minecraft/tags/blocks/hoglin_repellents.json
 76ac0bd2e48021aef9ecffd104321ebc03c694eb data/minecraft/tags/blocks/standing_signs.json
+864b82c0176addd3a0a560b4bfb7cfd232de8a9e data/minecraft/tags/blocks/hoglin_repellents.json
 2251fe88877ae02fb691c0e7949b1f15ad52837f data/minecraft/tags/blocks/stairs.json
 e395b02c1ea8040c23269be0d37b137cbe42f27d data/minecraft/tags/blocks/dead_bush_may_place_on.json
 0391d6623da88df5b912ebe942c6cd19d1b7dad8 data/minecraft/tags/blocks/wooden_trapdoors.json
@@ -162,8 +162,8 @@ f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/blocks/invalid_spaw
 b39b9a730fa6d6ce0d57bcbb88a249b6617d6822 data/minecraft/tags/blocks/infiniburn_nether.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/blocks/emerald_ores.json
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/blocks/valid_spawn.json
-7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/blocks/portals.json
 35fe618c61441f3d81e2e483e2ab88847ac90a63 data/minecraft/tags/blocks/ceiling_hanging_signs.json
+7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/blocks/portals.json
 6042716e42e327e1da387c316cf69b6b1f108bce data/minecraft/tags/blocks/replaceable_by_trees.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/blocks/wool_carpets.json
 4476daf1680a6b8450abbcceca6f3c418c0a54c9 data/minecraft/tags/blocks/needs_stone_tool.json
