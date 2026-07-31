@@ -1,4 +1,4 @@
-// 25w32a	2026-07-31T14:59:51.462257204	vanilla/Tags for minecraft:item
+// 25w33a	2026-07-31T15:00:08.146828131	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -61,8 +61,8 @@ e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/item/shulker_boxes.
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 5d407768566931624382de0b64078a58503568c0 data/minecraft/tags/item/pickaxes.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/item/bamboo_blocks.json
-8f9d98e8e906913bd9389fccb47fef34320f78cc data/minecraft/tags/item/cluster_max_harvestables.json
 40fc28555ba86485c2fdf3bc327bb05602bd7cb5 data/minecraft/tags/item/camel_food.json
+1ee1f51eb410f708b409641cc525762de366b405 data/minecraft/tags/item/cluster_max_harvestables.json
 39ee780e381eee7c3421edac518a33e84cec6fcf data/minecraft/tags/item/enchantable/mining_loot.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/item/redstone_ores.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/item/dark_oak_logs.json
@@ -139,8 +139,8 @@ c23b5aceb0db24e7df8b571f876f733a24bde29d data/minecraft/tags/item/turtle_food.js
 e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/item/creeper_drop_music_discs.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/item/llama_tempt_items.json
 1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
-17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
 ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
+17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
 578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/gaze_disguise_equipment.json
 445ffbabd7c2f65b4778c62104d7ecffde797cbc data/minecraft/tags/item/fence_gates.json
 b73e2e921b30b8fdd8e7ef278ca3cb68410ec6f3 data/minecraft/tags/item/slabs.json
@@ -182,6 +182,7 @@ f7a8c659163fbac23438e07049cc42e0aa39eb9a data/minecraft/tags/item/repairs_nether
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/item/soul_fire_base_blocks.json
 19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/item/mangrove_logs.json
 8f81701d3d8af27885661ded1822c8dc147b9577 data/minecraft/tags/item/copper_chests.json
+b24eda5f3a7b62df0c451d4de620ebf87ba5ffb8 data/minecraft/tags/item/shearable_from_copper_golem.json
 04f7aade1edcb69408b1861c72ede4c545c3a679 data/minecraft/tags/item/rabbit_food.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/pillager_preferred_weapons.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/coals.json
