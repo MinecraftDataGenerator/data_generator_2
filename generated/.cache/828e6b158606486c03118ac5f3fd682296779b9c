@@ -1,4 +1,4 @@
-// 1.21 Release Candidate 1	2026-07-31T14:37:45.52543293	vanilla/Loot Tables
+// 1.21	2026-07-31T14:38:01.729251392	vanilla/Loot Tables
 0f905afcf3733f9f7ce32d8b48e4a2041b7aefdd data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 c4dbb75007d3c56c0793952d0e1581a79319e798 data/minecraft/loot_table/blocks/birch_wood.json
 bf2ee99f956011096a90610e6c8abc0f8ff658d7 data/minecraft/loot_table/blocks/birch_stairs.json
@@ -911,8 +911,8 @@ d2d593bd0fca5207f39bba82aaed1b8b98f73c7c data/minecraft/loot_table/blocks/blue_b
 b6d75f48c896aa11316f56a95557b330b186145a data/minecraft/loot_table/blocks/enchanting_table.json
 788420afc5e53a6489fd488ccb051137b13b759e data/minecraft/loot_table/blocks/green_concrete.json
 dec8e381c17bff3648ebb9b1b367a2cfb2e033de data/minecraft/loot_table/blocks/sea_lantern.json
-8a3c1bf1b0cfc66edca7f17d8ee92e0650fd4438 data/minecraft/loot_table/blocks/big_dripleaf_stem.json
 3c144daf6cce090ffde0357433d2ae81326621f0 data/minecraft/loot_table/blocks/wither_skeleton_skull.json
+8a3c1bf1b0cfc66edca7f17d8ee92e0650fd4438 data/minecraft/loot_table/blocks/big_dripleaf_stem.json
 acdfebf76acc741c4fe19beb83f94361f630d7bb data/minecraft/loot_table/blocks/emerald_block.json
 bd9d8dcdf55b8006b1158dca874091b8857dcee7 data/minecraft/loot_table/entities/pig.json
 68484a29b7fbbaa0a6b7da1c05f13283366be4d7 data/minecraft/loot_table/blocks/mangrove_wood.json
