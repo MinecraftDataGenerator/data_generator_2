@@ -1,4 +1,4 @@
-// 1.21.10	2026-07-31T15:05:15.697547102	vanilla/Tags for minecraft:block
+// 25w41a	2026-07-31T15:05:33.58361803	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -134,6 +134,7 @@ cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_s
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/block/nylium.json
 142370368e43b7d4da321528401df987a6ce35d4 data/minecraft/tags/block/crystal_sound_blocks.json
 b11fa6e29929f2e7106b38b86b6fa23fffae3894 data/minecraft/tags/block/goats_spawnable_on.json
+d8be327f9b703169a5d398707d379e76d5890674 data/minecraft/tags/block/can_glide_through.json
 da7279518f6f1cdc8c5c7c84fc9f06624a234457 data/minecraft/tags/block/wooden_slabs.json
 9d786349359c04ae72a7f261654b6b4fa33d425e data/minecraft/tags/block/snow_layer_cannot_survive_on.json
 af12451a6897e7ada9cfb050679665ae3017838e data/minecraft/tags/block/corals.json
@@ -142,8 +143,8 @@ dcfcde0b3716705215c339c3ed7bb1fe6da2cdb2 data/minecraft/tags/block/vibration_res
 2ead4126c04b62333f1e9b48091bcb2ac8b278b2 data/minecraft/tags/block/ceiling_hanging_signs.json
 1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/block/valid_spawn.json
-ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
+ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 dd3a77b2229c67cb46f729e311d06ba0f1ed4525 data/minecraft/tags/block/replaceable.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json
