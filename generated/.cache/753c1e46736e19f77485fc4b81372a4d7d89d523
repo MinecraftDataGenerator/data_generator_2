@@ -1,4 +1,4 @@
-// 26.2-rc-1	2026-07-31T15:24:28.859731218	vanilla/Default Components
+// 26.2-rc-2	2026-07-31T15:24:51.527399872	vanilla/Default Components
 11939540e907f9960265fb479a09aebaa2e62d65 reports/minecraft/components/item/infested_stone_bricks.json
 36d2289e2c51a4a07b49d784f609f16b950f3c90 reports/minecraft/components/item/dead_brain_coral_fan.json
 404f399e61e0f983a5c51d93534e68c7f95280f1 reports/minecraft/components/item/cyan_shulker_box.json
@@ -716,8 +716,8 @@ a1ea1ff58eb0801207e6e46afb28bd82942652e3 reports/minecraft/components/item/ender
 86876d6dcc2e76170500e6947c61115911248bf7 reports/minecraft/components/item/dragon_breath.json
 875d1f2c752b87c2572417899cd9718cd340a762 reports/minecraft/components/item/gray_dye.json
 620b3f2b4bfd3ca5cac07064d2caf55583f52f2a reports/minecraft/components/item/sculk_catalyst.json
-ce4ca94bc87d4fdd92b246c593de5be90c7cda38 reports/minecraft/components/item/cyan_terracotta.json
 5b529ef1623a991745f8b757051790f789f7f52e reports/minecraft/components/item/end_rod.json
+ce4ca94bc87d4fdd92b246c593de5be90c7cda38 reports/minecraft/components/item/cyan_terracotta.json
 de97b26fe8cec0aab55ebcd51e99ad8988cfaf0a reports/minecraft/components/item/mangrove_slab.json
 47690c3991adb3eec977d985129bcc4dfdfacd14 reports/minecraft/components/item/smooth_quartz.json
 4b755b1a27b9449f06303a8b06d644d7b00159de reports/minecraft/components/item/dolphin_spawn_egg.json

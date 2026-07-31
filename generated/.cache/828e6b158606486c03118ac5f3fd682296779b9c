@@ -1,4 +1,4 @@
-// 26.2-rc-1	2026-07-31T15:24:28.872477147	vanilla/Loot Tables
+// 26.2-rc-2	2026-07-31T15:24:51.543641331	vanilla/Loot Tables
 2a2bec67472299367f3b6ae2ded4092af6298c45 data/minecraft/loot_table/gameplay/chicken_lay.json
 c287379c18b4c8b9d06c17c55904774320d81fd6 data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 52602799ee445e68e9ba82aff22265228085f654 data/minecraft/loot_table/blocks/birch_wood.json
@@ -755,8 +755,8 @@ fbdfd53044c04143a1d537e9e3aa0b33d5fd9c66 data/minecraft/loot_table/blocks/azure_
 b1e5b157eb2f5e20a3cb5f233f2b9c332d8b982b data/minecraft/loot_table/blocks/glass_pane.json
 6c9a5e02c4cac171647625cfd11cc9913a3b1732 data/minecraft/loot_table/blocks/brown_banner.json
 d6bd5b3a6a0ce70c38515a93a7b866865e1a2600 data/minecraft/loot_table/blocks/cobweb.json
-72c3753da7b59f73c736c84a78fad63950fc73a5 data/minecraft/loot_table/blocks/potted_cactus.json
 be4ac81a5a341b07e7eedf17aac7e869e1141f57 data/minecraft/loot_table/blocks/copper_lantern.json
+72c3753da7b59f73c736c84a78fad63950fc73a5 data/minecraft/loot_table/blocks/potted_cactus.json
 4a355869113167c805efd98f68cfe786541e15a9 data/minecraft/loot_table/blocks/waxed_copper_golem_statue.json
 fe3cc03ef4a7732fb49c1ca4f6064b97b163ebcd data/minecraft/loot_table/gameplay/hero_of_the_village/leatherworker_gift.json
 7297a861801d45a66bd6c1bc68980ad97d4a06fa data/minecraft/loot_table/shearing/sheep/gray.json
@@ -839,8 +839,8 @@ ce4a5a1c1dab407806d4da5053c6c597ced1c347 data/minecraft/loot_table/equipment/tri
 52cb4a1243fcd29330a2987e36c035c7b7294aab data/minecraft/loot_table/blocks/yellow_stained_glass.json
 992df07f6348b30c322557f2e3a408be86ba19c0 data/minecraft/loot_table/blocks/warped_planks.json
 98b27567b0a9f4bb1edf7049f2cd204a5f439076 data/minecraft/loot_table/blocks/chiseled_red_sandstone.json
-828c760f1986ac6b3d6d63681bfd9f78274839b3 data/minecraft/loot_table/blocks/light_weighted_pressure_plate.json
 733958e2ef6a716df0a8267a405afb55ec468b95 data/minecraft/loot_table/blocks/trial_spawner.json
+828c760f1986ac6b3d6d63681bfd9f78274839b3 data/minecraft/loot_table/blocks/light_weighted_pressure_plate.json
 1ccfc046c09787167bedc234ab8342a35013602d data/minecraft/loot_table/blocks/stripped_warped_stem.json
 7522ef7841303034e65c2d1ad787e061338604ad data/minecraft/loot_table/blocks/waxed_weathered_lightning_rod.json
 7d7d6ac15976cb776cf983d28cedea44f84b378d data/minecraft/loot_table/blocks/mossy_cobblestone.json
@@ -1225,9 +1225,9 @@ c96da2f5ed099cf9a7dec80d91fea84f8902626d data/minecraft/loot_table/blocks/pink_w
 b8acc2f2722cb2393a401af719f28873a86e28a3 data/minecraft/loot_table/blocks/stripped_oak_log.json
 7f7c61f5e7eaa8a613dcfd34616bce617478bd91 data/minecraft/loot_table/blocks/bamboo.json
 f4fe0294c80cb7dd3f652bf4d0cb6bf98dd4f104 data/minecraft/loot_table/blocks/copper_bars.json
+367207bf8a6e608c520f5253dea5626ba7ddfa8a data/minecraft/loot_table/blocks/waxed_exposed_copper_chest.json
 d9391688e0f9d724eaf81542926e51d9075c0995 data/minecraft/loot_table/shearing/sheep/blue.json
 1173f6ab8f9582e4912236253c13a296ce6827c0 data/minecraft/loot_table/chests/trial_chambers/reward_ominous_common.json
-367207bf8a6e608c520f5253dea5626ba7ddfa8a data/minecraft/loot_table/blocks/waxed_exposed_copper_chest.json
 c951da8ed2b7ead40de56e67b21fea1cc7014354 data/minecraft/loot_table/blocks/copper_bulb.json
 89ed912970dc470fab94ade246879c6c64ae5c49 data/minecraft/loot_table/blocks/jungle_leaves.json
 7fe81df7b25d9c9802e5192e101607dbc840650c data/minecraft/loot_table/blocks/waxed_copper_chest.json
