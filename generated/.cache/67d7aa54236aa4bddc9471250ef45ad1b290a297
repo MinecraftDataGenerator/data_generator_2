@@ -1,4 +1,4 @@
-// 26.1.2	2026-07-31T15:19:11.20320868	vanilla/Tags for minecraft:damage_type
+// 26.2-snapshot-2	2026-07-31T15:19:36.001493157	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -21,6 +21,7 @@ c92ac0b7f9a0bcc2522fb816a726020416583be8 data/minecraft/tags/damage_type/bypasse
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/wither_immune_to.json
 ed55ab9d4f19e20aebacbdb89ee5e7c2984921d4 data/minecraft/tags/damage_type/avoids_guardian_thorns.json
 30fe47513222085b4b02b7acf6efb697bba32e59 data/minecraft/tags/damage_type/no_anger.json
+75ac39f532a7d8a66a5214b2cb3a12dc59b0687b data/minecraft/tags/damage_type/sulfur_cube_with_block_immune_to.json
 eb21f6254358f8c9a1c7f12e527baabc4b8af426 data/minecraft/tags/damage_type/is_fall.json
 5b4bea9cf71bdea9db4f9ed2fc3221bdc2137bfa data/minecraft/tags/damage_type/always_hurts_ender_dragons.json
 624159080da2a0c36e3ffe8b5fa8308e4b3dae06 data/minecraft/tags/damage_type/is_projectile.json
