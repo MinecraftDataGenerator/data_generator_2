@@ -1,4 +1,4 @@
-// 1.21.5 Pre-Release 3	2026-07-31T14:52:08.233335729	vanilla/Loot Tables
+// 1.21.5 Release Candidate 1	2026-07-31T14:52:24.377711459	vanilla/Loot Tables
 415fbbb37d98668ba0c268122a5227bc70bc1d0e data/minecraft/loot_table/gameplay/chicken_lay.json
 0f905afcf3733f9f7ce32d8b48e4a2041b7aefdd data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 c4dbb75007d3c56c0793952d0e1581a79319e798 data/minecraft/loot_table/blocks/birch_wood.json
@@ -159,8 +159,8 @@ e18d45ad6c5b438b6a311d542634fe6162235c65 data/minecraft/loot_table/blocks/blue_c
 097a4f5a4df50e3e2aff94f0e2abb1deaf8e01b6 data/minecraft/loot_table/blocks/potted_pink_tulip.json
 78b97b9a88d5188479aeb6db9d4e8e20ee8f5ef0 data/minecraft/loot_table/entities/fox.json
 6bea04db491a7369e4b522b7b74503800c739e59 data/minecraft/loot_table/chests/village/village_armorer.json
-5424699fa8666e7e5a5a68edad8f0e736f256c3d data/minecraft/loot_table/blocks/acacia_button.json
 ffc903d195ef7862cacc1f96b57d4cbdd0a81988 data/minecraft/loot_table/entities/sheep/yellow.json
+5424699fa8666e7e5a5a68edad8f0e736f256c3d data/minecraft/loot_table/blocks/acacia_button.json
 0b2a16dcb4691619750f0d495843229dd7b8dd2b data/minecraft/loot_table/blocks/pink_terracotta.json
 fd30aef614e5bdcc9ab0b5bdb2384475e753f3b8 data/minecraft/loot_table/blocks/potted_fern.json
 f72ef8d1752f46ef907822a522e0e5adbe624606 data/minecraft/loot_table/blocks/cracked_nether_bricks.json
@@ -265,8 +265,8 @@ d2951ef4cbcda0989a77698eceb55f3766e196d1 data/minecraft/loot_table/blocks/purple
 b098b9976aeb32e2ea3ec4578ced02a677c415f3 data/minecraft/loot_table/gameplay/piglin_bartering.json
 ea677d0a2798844a319089fce850c21e06733a34 data/minecraft/loot_table/blocks/waxed_cut_copper_stairs.json
 3992fff41649095049399ec8434d9fbc129004da data/minecraft/loot_table/entities/polar_bear.json
-cf58b1071457b0e6989817f0e528ee2ac444e240 data/minecraft/loot_table/entities/salmon.json
 f36361899bf16747f9fcaf386b9fcd35bbd1c39a data/minecraft/loot_table/blocks/suspicious_sand.json
+cf58b1071457b0e6989817f0e528ee2ac444e240 data/minecraft/loot_table/entities/salmon.json
 5d597202868eb7cadba89da04f4a36d386518297 data/minecraft/loot_table/blocks/sponge.json
 534fc434677c57d2ae0eb164e55f431a2cabbf3f data/minecraft/loot_table/blocks/jungle_sign.json
 ba4f9b2c90f307b6aa27de5bb75832df4916adea data/minecraft/loot_table/blocks/acacia_sign.json
@@ -445,8 +445,8 @@ ea23b50509dcf1d1089c26abd6d15aff15d386b0 data/minecraft/loot_table/chests/trial_
 c468500655cf9a53c0058884f361daae279f324f data/minecraft/loot_table/blocks/bell.json
 686dc0d02eb090ade89102535cef71fe01650586 data/minecraft/loot_table/blocks/lapis_block.json
 06a005196c3de5d795cffb702e5928e7955a4124 data/minecraft/loot_table/blocks/sniffer_egg.json
-95c88b457c4d3250e9b531317e46e5269a69ebcc data/minecraft/loot_table/blocks/cherry_fence.json
 36a0f2256578939a71809b62b016aaaba80eeb68 data/minecraft/loot_table/blocks/note_block.json
+95c88b457c4d3250e9b531317e46e5269a69ebcc data/minecraft/loot_table/blocks/cherry_fence.json
 97b6466c94220899ed1c8ef2e0e775b84b9b7dd9 data/minecraft/loot_table/blocks/polished_deepslate_slab.json
 d0359e217b3f9f6ec14451d75a1ee53d8e6c8950 data/minecraft/loot_table/blocks/resin_brick_stairs.json
 5c2c4f4cfe99075db9258e19690daee2f902fe39 data/minecraft/loot_table/blocks/orange_bed.json
