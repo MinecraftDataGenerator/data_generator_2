@@ -1,1 +1,1 @@
-# Minecraft Data - 26.2-snapshot-6
+# Minecraft Data - 26.2-snapshot-7
