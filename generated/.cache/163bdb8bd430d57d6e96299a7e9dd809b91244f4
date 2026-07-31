@@ -1,4 +1,4 @@
-// 26.1-snapshot-1	2026-07-31T15:10:32.129121693	vanilla/Tags for minecraft:entity_type
+// 26.1-snapshot-2	2026-07-31T15:10:51.238713952	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -18,8 +18,8 @@ d68679e83c83770b9f1ffb2e523af6765f7fbbdd data/minecraft/tags/entity_type/fall_da
 e1f5049789bea1f0a8097f1e43c87fded291f85d data/minecraft/tags/entity_type/impact_projectiles.json
 56d54516808d04961d3ab7b99cdf89920c7a1be0 data/minecraft/tags/entity_type/no_anger_from_wind_charge.json
 9aa54cd5ec37fff24dfc4f679df3862f04ce6340 data/minecraft/tags/entity_type/axolotl_hunt_targets.json
-e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverted_healing_and_harm.json
 ff98c5721d534eacbdfa5b98287eaf472e641e2a data/minecraft/tags/entity_type/can_breathe_under_water.json
+e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverted_healing_and_harm.json
 0bbeb07059ee1e779eb6e762c565e34ac6915032 data/minecraft/tags/entity_type/arrows.json
 d9f581f9300c295abe6532cdb207b07a005b6f23 data/minecraft/tags/entity_type/dismounts_underwater.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/frog_food.json
