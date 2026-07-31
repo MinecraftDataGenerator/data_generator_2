@@ -1,4 +1,4 @@
-// 1.21 Pre-Release 4	2026-07-31T14:37:28.501761742	vanilla/Recipes
+// 1.21 Release Candidate 1	2026-07-31T14:37:45.529601371	vanilla/Recipes
 6bfca1504a486901fc06d6d1e38a64458c36a3d8 data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 ee8b6458601fff7f67b745741b57b390a2320cc3 data/minecraft/recipe/spruce_planks.json
 d394d82650eafc27d893ab038ee7b419b920c597 data/minecraft/recipe/dye_magenta_bed.json
@@ -1749,8 +1749,8 @@ b3884e71a4208d0f9803da6e07920c94884dc373 data/minecraft/advancement/recipes/deco
 87eb8d709acf6a3e4ab78d0c2541d0f81a91f119 data/minecraft/recipe/polished_blackstone_brick_slab.json
 d5ddc756357c59b5d16fe12627c3cd8420754ec4 data/minecraft/recipe/copper_ingot_from_blasting_copper_ore.json
 86e8aeff26ba14005b3b7afdd065e8cb9f68ead4 data/minecraft/advancement/recipes/decorations/birch_hanging_sign.json
-cd62e6cacb63e104481f6fbb6b5e04cbc17d6172 data/minecraft/recipe/stripped_crimson_hyphae.json
 f5b36911d948052c747432e05eb410ddc63547ff data/minecraft/advancement/recipes/building_blocks/waxed_exposed_copper_from_honeycomb.json
+cd62e6cacb63e104481f6fbb6b5e04cbc17d6172 data/minecraft/recipe/stripped_crimson_hyphae.json
 cbb51bb42e41b8974b98ccea57a195780d06b9d9 data/minecraft/recipe/smooth_sandstone_stairs.json
 f873396f29ad5c82ffcd9fe3f98fbbfeb4ce8b82 data/minecraft/recipe/cobbled_deepslate_wall.json
 9469923e9f27a1cb4f1518e3f56b4f332b21a2f4 data/minecraft/advancement/recipes/building_blocks/sandstone.json
