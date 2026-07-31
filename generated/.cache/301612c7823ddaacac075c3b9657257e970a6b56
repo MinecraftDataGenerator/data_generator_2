@@ -1,4 +1,4 @@
-// 1.20.3 Release Candidate 1	2026-07-31T14:25:35.807317906	vanilla/Model Definitions
+// 1.20.3	2026-07-31T14:25:50.352125123	vanilla/Model Definitions
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/minecraft/models/item/husk_spawn_egg.json
 032d5086adbdc64098925cfc465a7030434bf9cd assets/minecraft/models/block/stripped_bamboo_block.json
 1992ec8533ec64e4e699df945406934594b00abc assets/minecraft/models/item/stripped_spruce_log.json
@@ -1199,8 +1199,8 @@ c811ee8c85d2c86f1fad070a20a47b1df523f5d5 assets/minecraft/blockstates/dead_tube_
 4431bd79094dfe85a79ea324db801c91524a6daa assets/minecraft/models/item/diamond_ore.json
 4e81c9f9fc628b8be74f63ef29e6e49cc673fdc1 assets/minecraft/models/block/cherry_door_top_right_open.json
 fe69acec68faf7072994bbc033d675014dc78d70 assets/minecraft/models/item/nether_brick_wall.json
-615ec1b4ac2f67434891c9abef6d06b877380dff assets/minecraft/models/block/deepslate_tile_wall_inventory.json
 cbad9831263ea06ddd9bf265d8de944930115a74 assets/minecraft/models/item/netherite_shovel.json
+615ec1b4ac2f67434891c9abef6d06b877380dff assets/minecraft/models/block/deepslate_tile_wall_inventory.json
 2d669b2c9f60206877d82f2f6a495483a2ecd0a0 assets/minecraft/models/item/bedrock.json
 7681bdb067eb6c2093e744805425cf87a619bffa assets/minecraft/blockstates/nether_bricks.json
 5f02987a2e56dd105983acf64f88afcf0861dabc assets/minecraft/blockstates/stripped_warped_hyphae.json
@@ -2952,7 +2952,7 @@ b3c7ac87f735c9813d09ee46f1d26c844c06353c assets/minecraft/models/item/gold_block
 cbfd9211e8750ab7a4723fd1c6d46968739d345f assets/minecraft/models/block/exposed_copper_trapdoor_bottom.json
 0021ec0a6a012353fc3294979a59e61e7c5c8f27 assets/minecraft/models/block/white_wool.json
 8514d990936663eeb49948a99d70d713e0283799 assets/minecraft/models/item/cherry_sign.json
-ef14f3f00931a48c042a9d8cfcc49ede55b7ab7b assets/minecraft/blockstates/chiseled_bookshelf.json
+f3ccb136af9f8a8f4f0834e57a60620fcfd5c4e9 assets/minecraft/blockstates/chiseled_bookshelf.json
 c714bea04808c2dfcb83a643e7198feb8fb61f8c assets/minecraft/models/item/purple_terracotta.json
 3be4489859dda9e69a8ea8f5b8ce2f0fe5451289 assets/minecraft/models/item/oxidized_cut_copper.json
 75d9a9da311d1483bd5d71cac42989754f7dce5e assets/minecraft/models/item/mossy_cobblestone_wall.json
@@ -3948,8 +3948,8 @@ d5b3ddd6d3823a859ac303b752a1a9f16643e57b assets/minecraft/models/item/stone_hoe.
 1f713e079416c2c9d8f053350bb2a517b95fef5a assets/minecraft/models/block/acacia_planks.json
 c51de7675aa47e24624c3cc96a3479e18c7a5bc7 assets/minecraft/blockstates/acacia_hanging_sign.json
 cf54ce411833eef1fd3b4b9ae197eda63c52548b assets/minecraft/blockstates/pumpkin_stem.json
-9979c44283aaf09e3a0ac2ff7d5bbbb51f9ea4b9 assets/minecraft/models/block/twisting_vines_plant.json
 92d001980bc588d141850c4092065ce4028cad34 assets/minecraft/models/block/stone_brick_wall_post.json
+9979c44283aaf09e3a0ac2ff7d5bbbb51f9ea4b9 assets/minecraft/models/block/twisting_vines_plant.json
 6b3209a1a7ceca56d14fe42126565e470170bf96 assets/minecraft/models/block/stone_stairs.json
 23c81583565c56eee6a6e93b9477c9ec8633d72f assets/minecraft/blockstates/polished_diorite_stairs.json
 4d80a36692e959060e8afb6883368486f243837f assets/minecraft/models/block/copper_door_top_left_open.json
