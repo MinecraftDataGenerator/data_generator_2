@@ -1,4 +1,4 @@
-// 25w46a	2026-07-31T15:07:16.615234183	vanilla/Tags for minecraft:entity_type
+// 1.21.11-pre1	2026-07-31T15:07:32.898883208	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -26,7 +26,7 @@ c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/frog_fo
 f91cbde94cdeade285561d65ea83bbcd815c7e82 data/minecraft/tags/entity_type/raiders.json
 9eecfbba6b4ef0184b1dd7345f88872f294b8bd3 data/minecraft/tags/entity_type/redirectable_projectile.json
 efb8543801555f1eaabd69b80205ea45d64cb29d data/minecraft/tags/entity_type/boat.json
-c22a9956b669f0fcf86856ed9936f4a93f60c050 data/minecraft/tags/entity_type/can_float_while_ridden.json
+08c88f550f4172f028c9c75c75c61a61be813ce4 data/minecraft/tags/entity_type/can_float_while_ridden.json
 e3f8666e63317db05149215672d1dbfdc0002d09 data/minecraft/tags/entity_type/skeletons.json
 40cd71f7c2dc39d03a8aa7ed669bfe8856ff344b data/minecraft/tags/entity_type/followable_friendly_mobs.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/ignores_poison_and_regen.json

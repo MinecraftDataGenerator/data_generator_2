@@ -1,4 +1,4 @@
-// 25w46a	2026-07-31T15:07:16.600681188	vanilla/Advancements
+// 1.21.11-pre1	2026-07-31T15:07:32.885683162	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 5dac44cd2822b1cd2c9508d9d89ca2f0f6deb065 data/minecraft/advancement/end/root.json
@@ -116,7 +116,7 @@ d7c8f44675f75874d8917949bd861ed0a60d6e97 data/minecraft/advancement/husbandry/le
 e7749bff1fb78f813b06761b1744ffedc7d4ed3e data/minecraft/advancement/adventure/salvage_sherd.json
 cd1581a02fa2ec6598de8bb3232ce48af5d13028 data/minecraft/advancement/adventure/read_power_of_chiseled_bookshelf.json
 87c023ed4a6d33fe844679aafa6b139a7fde3763 data/minecraft/advancement/nether/return_to_sender.json
-ef2b0f3abb75bca25a33ed6f4afe5baf7156ff54 data/minecraft/advancement/adventure/spear_many_mobs.json
+a7e3f155122f3ddbc1b05e361832bc6667777dfb data/minecraft/advancement/adventure/spear_many_mobs.json
 2e69c559e9eb94cec1fd4aa405ea96492a14945c data/minecraft/advancement/husbandry/wax_on.json
 882f43cbbe0404d68c7ea0d1e26b94adee003a81 data/minecraft/advancement/adventure/walk_on_powder_snow_with_leather_boots.json
 903f044bfafe10105bf67fea5801bc571ab78428 data/minecraft/advancement/nether/obtain_blaze_rod.json
