@@ -1,1 +1,1 @@
-# Minecraft Data - 1.21.11
+# Minecraft Data - 26.1-snapshot-1
