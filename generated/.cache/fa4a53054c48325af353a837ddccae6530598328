@@ -1,4 +1,4 @@
-// 1.20.6 Release Candidate 1	2026-07-31T14:33:59.107680516	vanilla/Tags for minecraft:item
+// 1.20.6	2026-07-31T14:34:14.637294032	vanilla/Tags for minecraft:item
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/items/noteblock_top_instruments.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/items/dyeable.json
@@ -73,8 +73,8 @@ c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/items/horse_tempt_i
 d65ccc0a76745b7ae2fa8d612eaee0cab59052e9 data/minecraft/tags/items/fishes.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/items/completes_find_tree_tutorial.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/items/llama_tempt_items.json
-bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/items/enchantable/armor.json
 1414de47b2bc0b959544ff1a82317739d339fe79 data/minecraft/tags/items/slabs.json
+bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/items/enchantable/armor.json
 76ac0bd2e48021aef9ecffd104321ebc03c694eb data/minecraft/tags/items/signs.json
 88dcd99364a64f164a26461c5d5b9da0cb960b10 data/minecraft/tags/items/trapdoors.json
 ddddcd9ef8cd706876a4c5b9fb1bb011516a430c data/minecraft/tags/items/enchantable/sharp_weapon.json
@@ -116,9 +116,9 @@ f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/items/piglin_loved.
 02dfdb41688ccea8169a8d046943461f0aa3c361 data/minecraft/tags/items/fox_food.json
 64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/items/ignored_by_piglin_babies.json
 5a1da22b7562d3101cd95b2874ef21e709215ca8 data/minecraft/tags/items/beds.json
-b197c522c5d1bf863432ab04a9c9b18fa9e8ced7 data/minecraft/tags/items/axolotl_food.json
-17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/items/meat.json
 78634c7ac229f0d8a48e462b3aa5e0b3892be46e data/minecraft/tags/items/horse_food.json
+17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/items/meat.json
+b197c522c5d1bf863432ab04a9c9b18fa9e8ced7 data/minecraft/tags/items/axolotl_food.json
 052ec512148521bd4450ec7d1115d15483c6d8e8 data/minecraft/tags/items/decorated_pot_sherds.json
 7e52d9f1e5b59cae0cac0f1095fd3cbe94be375f data/minecraft/tags/items/enchantable/foot_armor.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/items/lectern_books.json
