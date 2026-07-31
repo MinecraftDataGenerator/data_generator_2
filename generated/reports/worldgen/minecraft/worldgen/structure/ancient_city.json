@@ -6,11 +6,7 @@
   "max_distance_from_center": 100,
   "biomes": "#minecraft:has_structure/ancient_city",
   "spawn_overrides": {
-    "ambient": {
-      "bounding_box": "full",
-      "spawns": []
-    },
-    "underground_water_creature": {
+    "creature": {
       "bounding_box": "full",
       "spawns": []
     },
@@ -18,15 +14,15 @@
       "bounding_box": "full",
       "spawns": []
     },
-    "water_creature": {
-      "bounding_box": "full",
-      "spawns": []
-    },
-    "misc": {
-      "bounding_box": "full",
-      "spawns": []
-    },
     "water_ambient": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "ambient": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "water_creature": {
       "bounding_box": "full",
       "spawns": []
     },
@@ -34,7 +30,11 @@
       "bounding_box": "full",
       "spawns": []
     },
-    "creature": {
+    "misc": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "underground_water_creature": {
       "bounding_box": "full",
       "spawns": []
     }

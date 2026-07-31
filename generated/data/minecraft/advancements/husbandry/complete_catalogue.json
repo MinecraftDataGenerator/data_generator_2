@@ -19,7 +19,7 @@
     "experience": 50
   },
   "criteria": {
-    "minecraft:calico": {
+    "minecraft:siamese": {
       "trigger": "minecraft:tame_animal",
       "conditions": {
         "entity": [
@@ -27,7 +27,7 @@
             "condition": "minecraft:entity_properties",
             "predicate": {
               "type_specific": {
-                "variant": "minecraft:calico",
+                "variant": "minecraft:siamese",
                 "type": "cat"
               }
             },
@@ -36,7 +36,7 @@
         ]
       }
     },
-    "minecraft:ragdoll": {
+    "minecraft:red": {
       "trigger": "minecraft:tame_animal",
       "conditions": {
         "entity": [
@@ -44,24 +44,7 @@
             "condition": "minecraft:entity_properties",
             "predicate": {
               "type_specific": {
-                "variant": "minecraft:ragdoll",
-                "type": "cat"
-              }
-            },
-            "entity": "this"
-          }
-        ]
-      }
-    },
-    "minecraft:persian": {
-      "trigger": "minecraft:tame_animal",
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "predicate": {
-              "type_specific": {
-                "variant": "minecraft:persian",
+                "variant": "minecraft:red",
                 "type": "cat"
               }
             },
@@ -87,7 +70,7 @@
         ]
       }
     },
-    "minecraft:jellie": {
+    "minecraft:calico": {
       "trigger": "minecraft:tame_animal",
       "conditions": {
         "entity": [
@@ -95,7 +78,7 @@
             "condition": "minecraft:entity_properties",
             "predicate": {
               "type_specific": {
-                "variant": "minecraft:jellie",
+                "variant": "minecraft:calico",
                 "type": "cat"
               }
             },
@@ -113,23 +96,6 @@
             "predicate": {
               "type_specific": {
                 "variant": "minecraft:all_black",
-                "type": "cat"
-              }
-            },
-            "entity": "this"
-          }
-        ]
-      }
-    },
-    "minecraft:red": {
-      "trigger": "minecraft:tame_animal",
-      "conditions": {
-        "entity": [
-          {
-            "condition": "minecraft:entity_properties",
-            "predicate": {
-              "type_specific": {
-                "variant": "minecraft:red",
                 "type": "cat"
               }
             },
@@ -172,6 +138,40 @@
         ]
       }
     },
+    "minecraft:persian": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type_specific": {
+                "variant": "minecraft:persian",
+                "type": "cat"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
+    "minecraft:ragdoll": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type_specific": {
+                "variant": "minecraft:ragdoll",
+                "type": "cat"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
     "minecraft:british": {
       "trigger": "minecraft:tame_animal",
       "conditions": {
@@ -189,7 +189,7 @@
         ]
       }
     },
-    "minecraft:siamese": {
+    "minecraft:jellie": {
       "trigger": "minecraft:tame_animal",
       "conditions": {
         "entity": [
@@ -197,7 +197,7 @@
             "condition": "minecraft:entity_properties",
             "predicate": {
               "type_specific": {
-                "variant": "minecraft:siamese",
+                "variant": "minecraft:jellie",
                 "type": "cat"
               }
             },
@@ -209,25 +209,19 @@
   },
   "requirements": [
     [
-      "minecraft:calico"
+      "minecraft:siamese"
     ],
     [
-      "minecraft:ragdoll"
-    ],
-    [
-      "minecraft:persian"
+      "minecraft:red"
     ],
     [
       "minecraft:tabby"
     ],
     [
-      "minecraft:jellie"
+      "minecraft:calico"
     ],
     [
       "minecraft:all_black"
-    ],
-    [
-      "minecraft:red"
     ],
     [
       "minecraft:black"
@@ -236,10 +230,16 @@
       "minecraft:white"
     ],
     [
+      "minecraft:persian"
+    ],
+    [
+      "minecraft:ragdoll"
+    ],
+    [
       "minecraft:british"
     ],
     [
-      "minecraft:siamese"
+      "minecraft:jellie"
     ]
   ]
 }
