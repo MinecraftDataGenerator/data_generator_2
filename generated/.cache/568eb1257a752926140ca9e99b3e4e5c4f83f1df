@@ -1,4 +1,4 @@
-// 1.21.6 Pre-Release 2	2026-07-31T14:56:15.472266155	vanilla/Vanilla Recipes
+// 1.21.6 Pre-Release 3	2026-07-31T14:56:31.859253991	vanilla/Vanilla Recipes
 1dfb3c36e1c906b6c46dc3654b03e3a860c8031b data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 ee52ee40954eaaa0ce5508da0da1c4b070393a47 data/minecraft/recipe/dye_magenta_bed.json
@@ -262,8 +262,8 @@ e66e6cafbdf8ad85bde5b6d0170fb2449bccd164 data/minecraft/recipe/dye_purple_wool.j
 76232c97184b0cf46e0a3b93f04180f332043b00 data/minecraft/recipe/composter.json
 a053c5876955cbf3b3497a29872eed7b12f2b5ac data/minecraft/advancement/recipes/misc/stick.json
 63782cfa7c100f4d43f89f4672fbdb62f2e0e6eb data/minecraft/recipe/soul_lantern.json
-bf44bf97f86797127bf054599a79d48cbf0e58d0 data/minecraft/advancement/recipes/redstone/oak_pressure_plate.json
 f0a5f9ded5fc14b7c05cc4be1cba2260fdb755f7 data/minecraft/recipe/dark_oak_door.json
+bf44bf97f86797127bf054599a79d48cbf0e58d0 data/minecraft/advancement/recipes/redstone/oak_pressure_plate.json
 91de90071f5f0e79253ae697d6e26063b7f4e26e data/minecraft/advancement/recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb.json
 6bee0045968c47fc1042356f1bceaa3a472b4a56 data/minecraft/advancement/recipes/decorations/red_shulker_box.json
 cebc9117004749e7dd5b613d3b948a7590ba5b5f data/minecraft/advancement/recipes/redstone/mangrove_fence_gate.json
