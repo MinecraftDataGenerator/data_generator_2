@@ -1,4 +1,4 @@
-// 1.20.3	2026-07-31T14:25:50.352125123	vanilla/Model Definitions
+// 1.20.4 Release Candidate 1	2026-07-31T14:26:07.581200099	vanilla/Model Definitions
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/minecraft/models/item/husk_spawn_egg.json
 032d5086adbdc64098925cfc465a7030434bf9cd assets/minecraft/models/block/stripped_bamboo_block.json
 1992ec8533ec64e4e699df945406934594b00abc assets/minecraft/models/item/stripped_spruce_log.json
@@ -1945,8 +1945,8 @@ cfd1f437114410277445d79b0a2ea1bcb1a851b4 assets/minecraft/models/block/three_sli
 203ae2fd8471874b1d12cc07bd4fec4de6004a11 assets/minecraft/models/block/stripped_acacia_log_horizontal.json
 0c4bc6b59632d79be7550650d3b9a44f542e5f88 assets/minecraft/blockstates/birch_wood.json
 83ca45a09c2a30fb19d1fa34eadd940b6ff8acbb assets/minecraft/models/item/chainmail_leggings.json
-84060f45d7a61fe7f21338cf332257c02b211030 assets/minecraft/blockstates/lectern.json
 58d540b705bebe6eeac65cbbb9a1bc2df7fa1bc6 assets/minecraft/blockstates/cartography_table.json
+84060f45d7a61fe7f21338cf332257c02b211030 assets/minecraft/blockstates/lectern.json
 ace04e9942dc361a25ce5fa6ec04efcbe1053338 assets/minecraft/blockstates/lime_terracotta.json
 27871c4afe6a030916daa1854272d4f28c900538 assets/minecraft/models/item/iron_chestplate.json
 a0ef86d87b7ab46e9d705d26819b68e84ee50aad assets/minecraft/models/item/honey_block.json
@@ -2952,7 +2952,7 @@ b3c7ac87f735c9813d09ee46f1d26c844c06353c assets/minecraft/models/item/gold_block
 cbfd9211e8750ab7a4723fd1c6d46968739d345f assets/minecraft/models/block/exposed_copper_trapdoor_bottom.json
 0021ec0a6a012353fc3294979a59e61e7c5c8f27 assets/minecraft/models/block/white_wool.json
 8514d990936663eeb49948a99d70d713e0283799 assets/minecraft/models/item/cherry_sign.json
-f3ccb136af9f8a8f4f0834e57a60620fcfd5c4e9 assets/minecraft/blockstates/chiseled_bookshelf.json
+7fbea5939e2bed4b13ac2ebdf902f44b114f80d0 assets/minecraft/blockstates/chiseled_bookshelf.json
 c714bea04808c2dfcb83a643e7198feb8fb61f8c assets/minecraft/models/item/purple_terracotta.json
 3be4489859dda9e69a8ea8f5b8ce2f0fe5451289 assets/minecraft/models/item/oxidized_cut_copper.json
 75d9a9da311d1483bd5d71cac42989754f7dce5e assets/minecraft/models/item/mossy_cobblestone_wall.json
