@@ -1,4 +1,4 @@
-// 26.1.1-rc-1	2026-07-31T15:17:09.291119825	vanilla/Tags for minecraft:item
+// 26.1.1	2026-07-31T15:17:28.525013004	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/item/small_flowers.json
@@ -110,8 +110,8 @@ d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/item/gold_ores.json
 f6d2baa21576277e20daeb8665d3985c31b70579 data/minecraft/tags/item/leaves.json
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/item/anvil.json
 a6489f4d86c3a6bef6bfb8f58dd8cb1d3fb724da data/minecraft/tags/item/foot_armor.json
-04346ff78e5919b94c527de4177239c2e0be5212 data/minecraft/tags/item/llama_food.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/item/completes_find_tree_tutorial.json
+04346ff78e5919b94c527de4177239c2e0be5212 data/minecraft/tags/item/llama_food.json
 f298238b6f363dfabc82665227a8d385be62cbeb data/minecraft/tags/item/zombie_horse_food.json
 bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/armor.json
 4945b995a6277b3529e7ea8b445e7562b8f3b096 data/minecraft/tags/item/strider_tempt_items.json
@@ -127,8 +127,8 @@ a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/item/doors.json
 3b84566bb28aa982abda5bf5c27806edbc350c63 data/minecraft/tags/item/hoglin_food.json
 085238f24aca214ce9eb3f57ab02370467990f33 data/minecraft/tags/item/copper.json
 f7a8c659163fbac23438e07049cc42e0aa39eb9a data/minecraft/tags/item/netherite_tool_materials.json
-4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/item/warped_stems.json
 29c3c032c543c313785b4a38ef26be8c177d2c10 data/minecraft/tags/item/chains.json
+4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/item/warped_stems.json
 7bdc4e8a848d74506654066162a98604bc481d64 data/minecraft/tags/item/swords.json
 4ce44c6fc029a87b377f0223f8309a779826ad87 data/minecraft/tags/item/dyes.json
 75df44deafb1f627b674575d499833e104a43f2b data/minecraft/tags/item/piglin_food.json

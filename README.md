@@ -1,1 +1,1 @@
-# Minecraft Data - 26.1.1-rc-1
+# Minecraft Data - 26.1.1
