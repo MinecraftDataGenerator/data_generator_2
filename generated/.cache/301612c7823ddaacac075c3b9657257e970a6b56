@@ -1,4 +1,4 @@
-// 1.20.2 Release Candidate 2	2026-07-31T14:21:31.672608256	vanilla/Model Definitions
+// 1.20.2	2026-07-31T14:21:47.594342056	vanilla/Model Definitions
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets/minecraft/models/item/husk_spawn_egg.json
 032d5086adbdc64098925cfc465a7030434bf9cd assets/minecraft/models/block/stripped_bamboo_block.json
 1992ec8533ec64e4e699df945406934594b00abc assets/minecraft/models/item/stripped_spruce_log.json
@@ -1637,8 +1637,8 @@ ca1bcd4871a70d76474f8e871ea4b4ef16c6ffd5 assets/minecraft/models/item/purpur_sla
 eeb8902113ed70e7881f713ef7fe4573524a32d7 assets/minecraft/models/item/enchanting_table.json
 f8a9d95fda56db03583e6c0700eb9c8a49771ac6 assets/minecraft/models/item/iron_helmet_netherite_trim.json
 2a6a1f0913ffbd667f4de50b0a95b31ba6249b87 assets/minecraft/models/item/jungle_slab.json
-ba39b29649513e358f4f68a16a893ca8b7558c87 assets/minecraft/models/item/iron_block.json
 7b2fe868466c3fe2c43e1371d05cb25d9bdcde2d assets/minecraft/models/block/spruce_pressure_plate_down.json
+ba39b29649513e358f4f68a16a893ca8b7558c87 assets/minecraft/models/item/iron_block.json
 5dbae274328ec9d8ecf99571ef91e4996b619376 assets/minecraft/models/block/bricks.json
 9c37da6421d12d11d2a4647f12b8c34732ef58f4 assets/minecraft/models/item/pink_carpet.json
 b7d088a87563a601cba614c32b907ae9c8358eaa assets/minecraft/models/item/brown_bed.json
@@ -2805,7 +2805,7 @@ ceedca53dd47e43c8cdcab3d9315d565d4c1e295 assets/minecraft/models/block/grass_blo
 b3c7ac87f735c9813d09ee46f1d26c844c06353c assets/minecraft/models/item/gold_block.json
 0021ec0a6a012353fc3294979a59e61e7c5c8f27 assets/minecraft/models/block/white_wool.json
 8514d990936663eeb49948a99d70d713e0283799 assets/minecraft/models/item/cherry_sign.json
-7c97cfd32010c6e67872c3375adb86c4be1e25fe assets/minecraft/blockstates/chiseled_bookshelf.json
+fda21977be22ffb4a914679b475a32deec60297a assets/minecraft/blockstates/chiseled_bookshelf.json
 c714bea04808c2dfcb83a643e7198feb8fb61f8c assets/minecraft/models/item/purple_terracotta.json
 3be4489859dda9e69a8ea8f5b8ce2f0fe5451289 assets/minecraft/models/item/oxidized_cut_copper.json
 75d9a9da311d1483bd5d71cac42989754f7dce5e assets/minecraft/models/item/mossy_cobblestone_wall.json
@@ -3230,8 +3230,8 @@ d914311237fc22ffd159c536ebffa650708bb7f5 assets/minecraft/blockstates/polished_g
 ba48052b8955494e8ee4369f071e1be8a9746b23 assets/minecraft/models/item/iron_chestplate_amethyst_trim.json
 31463d66a5c4915954d0990be0f81cc25663b0d0 assets/minecraft/models/block/chiseled_bookshelf_empty_slot_bottom_mid.json
 3632c90315e0909ba93e06ad332d44b5e9330fe3 assets/minecraft/models/item/clock_27.json
-c913b80a5e6d60bebb2342aae317f58ce40ec91d assets/minecraft/models/item/diamond_chestplate_emerald_trim.json
 28322e851106a7c2e60164ad8bed4faaf958b9be assets/minecraft/models/item/wooden_shovel.json
+c913b80a5e6d60bebb2342aae317f58ce40ec91d assets/minecraft/models/item/diamond_chestplate_emerald_trim.json
 ff50d4b007c476869de65971097e8a27f7bf3fc6 assets/minecraft/models/item/gray_wool.json
 621156840090ae3bf150c22d1f3b529f4dab948b assets/minecraft/models/block/warped_door_top_right_open.json
 410ff9549834ae8e62f5b17df898c3b14d1c5f6b assets/minecraft/models/block/diorite_slab_top.json
