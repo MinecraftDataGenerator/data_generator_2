@@ -1,4 +1,4 @@
-// 1.21.9-pre2	2026-07-31T15:03:18.935812667	vanilla/Vanilla Recipes
+// 1.21.9-pre3	2026-07-31T15:03:40.89008661	vanilla/Vanilla Recipes
 1dfb3c36e1c906b6c46dc3654b03e3a860c8031b data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 ee52ee40954eaaa0ce5508da0da1c4b070393a47 data/minecraft/recipe/dye_magenta_bed.json
@@ -1632,9 +1632,9 @@ b3c195bbb2a966781e9d7b624a951b073d4a057c data/minecraft/advancement/recipes/food
 17e0fe6384d5ce3473644fe22c142752bda86ea5 data/minecraft/advancement/recipes/misc/writable_book.json
 4cfa73e3cf15ce6c1638110e230c512ba1314a57 data/minecraft/recipe/waxed_exposed_cut_copper_slab.json
 312211e46bb41f4363b14db5c56a2d541d94729a data/minecraft/advancement/recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting.json
+6a2e8196b1826f648d5b67f9d96894087f02e2d6 data/minecraft/advancement/recipes/combat/dye_cyan_harness.json
 e5f11790e78939928228a1351cc46b8fddefa858 data/minecraft/recipe/acacia_boat.json
 e6cc6749b3e8319ddcd6269afa85e20cf5fbfe0c data/minecraft/advancement/recipes/building_blocks/weathered_chiseled_copper.json
-6a2e8196b1826f648d5b67f9d96894087f02e2d6 data/minecraft/advancement/recipes/combat/dye_cyan_harness.json
 70f6faba4ae8e2b53ba41639e0f9d2383b4c0568 data/minecraft/advancement/recipes/decorations/magenta_candle.json
 18464d2d631c650dbe64edf51628f88273a8388d data/minecraft/recipe/dye_light_gray_harness.json
 53cfe6dd3fb2743870a7929eb52145b581098ab2 data/minecraft/recipe/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting.json
