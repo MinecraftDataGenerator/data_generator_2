@@ -6,7 +6,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 7907327,
+    "sky_color": 8233727,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
@@ -14,16 +14,16 @@
   "surface_builder": {
     "config": {
       "top_material": {
-        "Name": "minecraft:sand"
+        "Name": "minecraft:stone"
       },
       "under_material": {
-        "Name": "minecraft:sand"
+        "Name": "minecraft:stone"
       },
       "underwater_material": {
         "Name": "minecraft:gravel"
       }
     },
-    "type": "minecraft:default"
+    "type": "minecraft:stone_shore"
   },
   "carvers": {
     "air": [
@@ -3026,14 +3026,7 @@
         "maxCount": 1
       }
     ],
-    "creature": [
-      {
-        "type": "minecraft:turtle",
-        "weight": 5,
-        "minCount": 2,
-        "maxCount": 5
-      }
-    ],
+    "creature": [],
     "ambient": [
       {
         "type": "minecraft:bat",
@@ -3058,7 +3051,7 @@
   "spawn_costs": {},
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "temperature": 0.8,
-  "downfall": 0.4,
+  "temperature": 0.2,
+  "downfall": 0.3,
   "category": "beach"
 }
