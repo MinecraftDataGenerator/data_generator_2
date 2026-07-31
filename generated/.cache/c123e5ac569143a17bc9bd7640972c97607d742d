@@ -1,15 +1,15 @@
-// 1.21.2 Pre-Release 2	2026-07-31T14:41:54.578693077	winter_drop/Tags for minecraft:item
+// 1.21.2 Pre-Release 3	2026-07-31T14:42:11.937441905	winter_drop/Tags for minecraft:item
 72bdaa3ad16eaf8ae5bf45c6d60b4882342d9db2 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/leaves.json
-30930a712e53731126a1c8bf5363ef2587c0f8ae data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/saplings.json
 049902a929705bb5d76db9f70cf0ed8b371b8129 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_stairs.json
+30930a712e53731126a1c8bf5363ef2587c0f8ae data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/saplings.json
 c15ffea74d321bea9ef958ba6efda98d1b37d7bf data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/logs_that_burn.json
 2883184ed7a0cdcdc79f402e53609d0bc600b144 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/chest_boats.json
 6c6c43c608d278726783c89d1eac02f8abf6a027 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_buttons.json
 dcb6581728d4869d9aa64e5da726d498e9581c69 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_doors.json
 3ebcf2a87ce9f9e66989cb3303e57f107ea950b8 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_trapdoors.json
 6d5db99349c4eb81a493477068919df085f9c181 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/boats.json
-d4df969f1ed533102974b86b0510cbfadb946bea data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_pressure_plates.json
 a87317def0b679ba2ab6d2e6697a652794dcc8f9 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/planks.json
+d4df969f1ed533102974b86b0510cbfadb946bea data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_pressure_plates.json
 c7d3df133859a350e98cf23cd3a4fd543e52d89d data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/wooden_slabs.json
 02c0f4714cd74219a025937cdb943567e8209207 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/signs.json
 f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/datapacks/winter_drop/data/minecraft/tags/item/pale_oak_logs.json

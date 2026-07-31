@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 2	2026-07-31T14:41:54.568599434	winter_drop/Tags for minecraft:block
+// 1.21.2 Pre-Release 3	2026-07-31T14:42:11.92348487	winter_drop/Tags for minecraft:block
 6c6c43c608d278726783c89d1eac02f8abf6a027 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/wooden_buttons.json
 41e95593e7b44195f30d4ef37e6c8f76ee7ea50d data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/combination_step_sound_blocks.json
 30930a712e53731126a1c8bf5363ef2587c0f8ae data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/saplings.json
@@ -21,5 +21,5 @@ f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/datapacks/winter_drop/da
 c6dee40f618f0d1cda2682b4ab0d567579cee9cd data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/fence_gates.json
 02c0f4714cd74219a025937cdb943567e8209207 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/standing_signs.json
 fdeafdbb02ab927d0c156451f32914f610ad4451 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/flower_pots.json
-1692ad6d9d1c0b23509a8d4d39fc9b71185c0a27 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/mineable/hoe.json
 72bdaa3ad16eaf8ae5bf45c6d60b4882342d9db2 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/leaves.json
+1692ad6d9d1c0b23509a8d4d39fc9b71185c0a27 data/minecraft/datapacks/winter_drop/data/minecraft/tags/block/mineable/hoe.json
