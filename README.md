@@ -1,1 +1,1 @@
-# Minecraft Data - 1.21.6-pre4
+# Minecraft Data - 1.21.6-rc1
