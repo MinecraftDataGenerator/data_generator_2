@@ -1,4 +1,4 @@
-// 26.2-snapshot-5	2026-07-31T15:20:53.242091461	vanilla/Advancements
+// 26.2-snapshot-6	2026-07-31T15:21:14.302013538	vanilla/Advancements
 722f45171920e40a359658d6f1a358d280dafbf9 data/minecraft/advancement/story/upgrade_tools.json
 30cf01fc718cbe954eb77ead9d393814cad61b0e data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 fb1623e5bb386f83c03abfdf53264d6b6dfc5b06 data/minecraft/advancement/end/root.json
@@ -107,6 +107,7 @@ d253c3e9ee561e7541fed3d3a9886e1832662797 data/minecraft/advancement/nether/summo
 5df00288c3413fd65968582abf3b8470feaefe24 data/minecraft/advancement/husbandry/repair_wolf_armor.json
 a92f7a5471a5b1727a2025257fc9c112aee9cb62 data/minecraft/advancement/story/shiny_gear.json
 d37a717f28d7785f311ba917fd5a3b4721e7c5cf data/minecraft/advancement/nether/get_wither_skull.json
+a43826bb4c75ee0b6961cffe6cf4618233e68e7f data/minecraft/advancement/husbandry/uh_oh.json
 cb77584506f40de0ef62fb7aa33f3f75c8cce516 data/minecraft/advancement/story/smelt_iron.json
 5163053b7f400a25ce4bbcd147593fee492a15fb data/minecraft/advancement/end/dragon_egg.json
 c48497c2af172bcaf7550f3fccebae88ad834cc8 data/minecraft/advancement/husbandry/root.json

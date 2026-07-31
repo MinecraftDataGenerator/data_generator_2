@@ -1,4 +1,4 @@
-// 26.2-snapshot-5	2026-07-31T15:20:53.245665314	vanilla/Vanilla Recipes
+// 26.2-snapshot-6	2026-07-31T15:21:14.307026837	vanilla/Vanilla Recipes
 0a8487ed6b63604bbb482e4ff99b17b0ffcdcc34 data/minecraft/recipe/dye_magenta_bed.json
 fbe42b2bae4f2982e7e37fb05a4b9df5c4e0b052 data/minecraft/advancement/recipes/food/mushroom_stew.json
 a2a126ee031d4cc5f6922896ada256c994a18d2e data/minecraft/recipe/warped_hanging_sign.json
@@ -1390,8 +1390,8 @@ e0a424d470141d35605e4add2caebd63afe60321 data/minecraft/recipe/gold_ingot_from_b
 2b537fee786b34b30cde45c7a60bea4a50aa5165 data/minecraft/advancement/recipes/building_blocks/blue_ice.json
 e78e931f24ac1601655df6f09fd7de6843ad2613 data/minecraft/advancement/recipes/combat/dye_lime_harness.json
 33e6be45c960be48661e52e43e9610c1a9957e7a data/minecraft/recipe/stripped_cherry_wood.json
-0d7bbb1a1b397292b14421dea67be53c16a4c3f6 data/minecraft/advancement/recipes/decorations/polished_cinnabar_wall_from_cinnabar_stonecutting.json
 a2e00e558f862f2c534ca35dd567524314ce0806 data/minecraft/advancement/recipes/building_blocks/cinnabar_brick_slab_from_cinnabar_stonecutting.json
+0d7bbb1a1b397292b14421dea67be53c16a4c3f6 data/minecraft/advancement/recipes/decorations/polished_cinnabar_wall_from_cinnabar_stonecutting.json
 8d8ad3d4adb21fa53fd44e3ec6c302c1dd7ad117 data/minecraft/advancement/recipes/redstone/dropper.json
 ed8d94c511410c0052a2a4d217e2fdc48d084d49 data/minecraft/recipe/oak_stairs.json
 20f8093a5df892b795b80911a145de74d93280d4 data/minecraft/advancement/recipes/decorations/gray_shulker_box.json
