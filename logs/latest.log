@@ -1,86 +1,74 @@
-[14:11:38] [ServerMain/INFO]: Building unoptimized datafixer
-[14:11:39] [ServerMain/INFO]: Starting provider: vanilla/SNBT -> NBT
-[14:11:39] [ServerMain/INFO]: vanilla/SNBT -> NBT finished after 1 ms
-[14:11:39] [ServerMain/INFO]: Starting provider: vanilla/Model Definitions
-[14:11:40] [ServerMain/INFO]: vanilla/Model Definitions finished after 315 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Registries
-[14:11:40] [ServerMain/INFO]: vanilla/Registries finished after 189 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Advancements
-[14:11:40] [ServerMain/INFO]: vanilla/Advancements finished after 156 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Loot Tables
-[14:11:40] [ServerMain/INFO]: vanilla/Loot Tables finished after 110 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Recipes
-[14:11:40] [ServerMain/INFO]: vanilla/Recipes finished after 53 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:block
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:block finished after 18 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:item
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:item finished after 3 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:banner_pattern
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:banner_pattern finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/biome
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/biome finished after 88 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:cat_variant
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:cat_variant finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:damage_type
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:damage_type finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:entity_type
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:entity_type finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:fluid
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:fluid finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:game_event
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:game_event finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:instrument
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:instrument finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:painting_variant
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:painting_variant finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:point_of_interest_type
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:point_of_interest_type finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/structure
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/structure finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/world_preset
-[14:11:40] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/world_preset finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/NBT -> SNBT
-[14:11:40] [ServerMain/INFO]: vanilla/NBT -> SNBT finished after 0 ms
-[14:11:40] [ServerMain/INFO]: Starting provider: vanilla/Biome Parameters
-[14:11:40] [ServerMain/INFO]: [STDERR]: java.util.concurrent.CompletionException: java.lang.IllegalStateException: Missing element ResourceKey[minecraft:worldgen/biome / minecraft:cherry_grove]
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:359)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1215)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2368)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at jv.a(SourceFile:37)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at jg.a(SourceFile:190)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at je.a(SourceFile:52)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at je.a(SourceFile:45)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at net.minecraft.data.Main.main(SourceFile:92)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1474)
-[14:11:40] [ServerMain/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: Missing element ResourceKey[minecraft:worldgen/biome / minecraft:cherry_grove]
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at hc.c(SourceFile:15)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at hc.b(SourceFile:15)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cnr$a.a(SourceFile:147)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at com.mojang.datafixers.util.Pair.mapSecond(Pair.java:68)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cnr$a.a(SourceFile:142)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cns.a(SourceFile:599)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cns.c(SourceFile:393)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cns.d(SourceFile:272)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cns.a(SourceFile:197)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cnr$a.a(SourceFile:142)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cnr$a$3.apply(SourceFile:122)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cnr$a.a(SourceFile:147)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at cnr$a.a(SourceFile:152)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at jv.a(SourceFile:42)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:214)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:214)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1859)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:635)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:291)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:652)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at jv.a(SourceFile:45)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1208)
-[14:11:40] [ServerMain/INFO]: [STDERR]: 	... 9 more
+[14:11:58] [ServerMain/INFO]: Starting provider: vanilla/SNBT -> NBT
+[14:11:58] [ServerMain/INFO]: vanilla/SNBT -> NBT finished after 1 ms
+[14:11:58] [ServerMain/INFO]: Starting provider: vanilla/Model Definitions
+[14:11:58] [ServerMain/INFO]: vanilla/Model Definitions finished after 256 ms
+[14:11:58] [ServerMain/INFO]: Starting provider: vanilla/Registries
+[14:11:58] [ServerMain/INFO]: vanilla/Registries finished after 183 ms
+[14:11:58] [ServerMain/INFO]: Starting provider: vanilla/Advancements
+[14:11:58] [ServerMain/INFO]: vanilla/Advancements finished after 123 ms
+[14:11:58] [ServerMain/INFO]: Starting provider: vanilla/Loot Tables
+[14:11:59] [ServerMain/INFO]: vanilla/Loot Tables finished after 120 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Recipes
+[14:11:59] [ServerMain/INFO]: vanilla/Recipes finished after 54 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:block
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:block finished after 11 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:item
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:item finished after 3 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:banner_pattern
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:banner_pattern finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/biome
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/biome finished after 2 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:cat_variant
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:cat_variant finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:damage_type
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:damage_type finished after 1 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:entity_type
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:entity_type finished after 1 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/flat_level_generator_preset finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:fluid
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:fluid finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:game_event
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:game_event finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:instrument
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:instrument finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:painting_variant
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:painting_variant finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:point_of_interest_type
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:point_of_interest_type finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/structure
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/structure finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Tags for minecraft:worldgen/world_preset
+[14:11:59] [ServerMain/INFO]: vanilla/Tags for minecraft:worldgen/world_preset finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/NBT -> SNBT
+[14:11:59] [ServerMain/INFO]: vanilla/NBT -> SNBT finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Biome Parameters
+[14:11:59] [ServerMain/INFO]: vanilla/Biome Parameters finished after 341 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Block List
+[14:11:59] [ServerMain/INFO]: vanilla/Block List finished after 147 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Command Syntax
+[14:11:59] [ServerMain/INFO]: vanilla/Command Syntax finished after 169 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: vanilla/Registry Dump
+[14:11:59] [ServerMain/INFO]: vanilla/Registry Dump finished after 11 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: bundle/Recipes
+[14:11:59] [ServerMain/INFO]: bundle/Recipes finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: bundle/Pack Metadata
+[14:11:59] [ServerMain/INFO]: bundle/Pack Metadata finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Recipes
+[14:11:59] [ServerMain/INFO]: update_1_20/Recipes finished after 4 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:block
+[14:11:59] [ServerMain/INFO]: update_1_20/Tags for minecraft:block finished after 1 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:item
+[14:11:59] [ServerMain/INFO]: update_1_20/Tags for minecraft:item finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Tags for minecraft:worldgen/biome
+[14:11:59] [ServerMain/INFO]: update_1_20/Tags for minecraft:worldgen/biome finished after 0 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Loot Tables
+[14:11:59] [ServerMain/INFO]: update_1_20/Loot Tables finished after 7 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Advancements
+[14:11:59] [ServerMain/INFO]: update_1_20/Advancements finished after 66 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Registries
+[14:11:59] [ServerMain/INFO]: update_1_20/Registries finished after 2 ms
+[14:11:59] [ServerMain/INFO]: Starting provider: update_1_20/Pack Metadata
+[14:11:59] [ServerMain/INFO]: update_1_20/Pack Metadata finished after 0 ms
+[14:11:59] [ServerMain/INFO]: All providers took: 1532 ms
+[14:11:59] [ServerMain/INFO]: Caching: total files: 9189, old count: 0, new count: 9190, removed stale: 0, written: 9189

@@ -1,4 +1,4 @@
-// 23w06a	2026-07-31T14:11:24.712022014	vanilla/Advancements
+// 1.19.4 Pre-release 1	2026-07-31T14:11:59.883281777	vanilla/Advancements
 61e094f20c0a1ffded1d2afd56ed73b91f208acb data/minecraft/advancements/story/form_obsidian.json
 58a7425ba29da8fa13dac1ffa9ce97ea9f520f6a data/minecraft/advancements/nether/fast_travel.json
 05f92e856a7e927bef6cd6df4c6bc274dfb3b592 data/minecraft/advancements/story/enter_the_nether.json
@@ -34,13 +34,13 @@ f0a5154c3d432a23a2ba357327a754332df640da data/minecraft/advancements/adventure/s
 34242da696e226511f6df53c176ac3abc819a7d3 data/minecraft/advancements/adventure/root.json
 163879c8d9eb4d5d420930f82d40c9269f99b5bb data/minecraft/advancements/husbandry/complete_catalogue.json
 8f08b04bb7e3ca7b10fae0a2df09958fa1237e0b data/minecraft/advancements/adventure/kill_all_mobs.json
-b3f990f993a908c6adde77d65403b80f2857c904 data/minecraft/advancements/husbandry/plant_seed.json
+5f33614d15590cd396cbfff9273fa72f602d5add data/minecraft/advancements/husbandry/plant_seed.json
 b5948aa225bd4ef1b4e4b7a12de3c33f200823a3 data/minecraft/advancements/adventure/fall_from_world_height.json
 1e0a3daf05faf4f906b47c6e432ef449edc1cb66 data/minecraft/advancements/adventure/spyglass_at_parrot.json
 9077927f3b3b43b295dbc5cdfa6e26845c4ed255 data/minecraft/advancements/story/smelt_iron.json
 fa6ad64b799db6dd010f6320b4a0ab293860962f data/minecraft/advancements/nether/create_beacon.json
 51aba596ce477bea19daa937235e2433ec69a84f data/minecraft/advancements/story/obtain_armor.json
-b6262aeebac3846caec3d725ff37f9987b8f6d01 data/minecraft/advancements/nether/explore_nether.json
+49f69f63824ae56731c4737e0d4da160f0149e0f data/minecraft/advancements/nether/explore_nether.json
 bdd926ebbfb64a47a50fbd573d3a0aec945571dd data/minecraft/advancements/adventure/two_birds_one_arrow.json
 49e15e13378294cfff410935214c41ecae460d01 data/minecraft/advancements/end/root.json
 20fda3b437699b25c6c629d17b0dfbd7cf34c20b data/minecraft/advancements/adventure/adventuring_time.json
