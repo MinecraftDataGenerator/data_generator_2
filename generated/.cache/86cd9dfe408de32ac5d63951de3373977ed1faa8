@@ -1,4 +1,5 @@
-// 26.2-snapshot-4	2026-07-31T15:20:22.146047485	vanilla/Tags for minecraft:block
+// 26.2-snapshot-5	2026-07-31T15:20:53.258126515	vanilla/Tags for minecraft:block
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 0015c8ac2a73e2714e6a626d421ae0c88dc06a32 data/minecraft/tags/block/shears_minor_breaking_speed.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
@@ -44,6 +45,7 @@ e84bb54e4d1062cbb9f7742f90d2bf82083f0401 data/minecraft/tags/block/overworld_car
 6685174532a27724f89c1480727a4ad880f6c586 data/minecraft/tags/block/stone_buttons.json
 cd8129f9b36ba889bfb44ded631588b0d1ff8c46 data/minecraft/tags/block/supports_pumpkin_stem_fruit.json
 d781196b0827aeafb4cec04c2353f926ce42798b data/minecraft/tags/block/beneath_tree_podzol_replaceable.json
+199f846e50e5c4bbc441db88bfe1214be3fe1683 data/minecraft/tags/block/wither_immune_to.json
 1fa725459f51aa8496c329cc2ac5530c0dc5bb7d data/minecraft/tags/block/bee_growables.json
 d11104fa740f8cba15f2b53b2528bec1cfc67db1 data/minecraft/tags/block/wooden_pressure_plates.json
 db27381b88d5d5f6202262fe27fc953ee9dbbbf6 data/minecraft/tags/block/all_hanging_signs.json
@@ -51,11 +53,12 @@ a7909c7163d85f8e0b928c566fc0f89cc89e9b04 data/minecraft/tags/block/prevent_mob_s
 0b23673eb8a737774894657816f7c63d548a34a0 data/minecraft/tags/block/foxes_spawnable_on.json
 84ec8be9cdb0097dbc6e35113fbd00d2157a310c data/minecraft/tags/block/mangrove_logs_can_grow_through.json
 8764a27533bd7e677a24f1061965a780b6b3e274 data/minecraft/tags/block/lava_pool_stone_cannot_replace.json
+bc8701774f57ab000a8f0f1d390702175a6cdbb8 data/minecraft/tags/block/polar_bear_immune_to.json
 f0f92c5f0b5c5412980a4ca8436b4cb180919deb data/minecraft/tags/block/cannot_support_seagrass.json
 b965cf1cefd134257c07643683f8547e274e026e data/minecraft/tags/block/mud.json
 65bff720ec9fa0ed537b2bf6462fc181a94ad90c data/minecraft/tags/block/supports_nether_sprouts.json
-bb5968e9752253a1de8aed7529e1d9e29ddee6a5 data/minecraft/tags/block/ice_spike_replaceable.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_wooden_tool.json
+bb5968e9752253a1de8aed7529e1d9e29ddee6a5 data/minecraft/tags/block/ice_spike_replaceable.json
 08bfcdfa8e2a7f2275fbd3005e836a63b5c24dfc data/minecraft/tags/block/slabs.json
 e096b0c31004c577be60ad20cf513bd59bbaed94 data/minecraft/tags/block/wall_signs.json
 67b6ac293119b51c49d06c2ebc69a49e94065320 data/minecraft/tags/block/support_override_cactus_flower.json
@@ -65,6 +68,7 @@ e096b0c31004c577be60ad20cf513bd59bbaed94 data/minecraft/tags/block/wall_signs.js
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/block/beacon_base_blocks.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/block/completes_find_tree_tutorial.json
 e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/block/support_override_snow_layer.json
+0b98089d9e5e0278007f19881ffff2e4bdd990b0 data/minecraft/tags/block/fox_immune_to.json
 c1b2a217bb3fcb7e1d67f5bc45409796720bd171 data/minecraft/tags/block/supports_cactus.json
 96c9cbfdf01e0868f405b9ffb5aac3fa6e8b2b38 data/minecraft/tags/block/unstable_bottom_center.json
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_replaceable.json
@@ -72,9 +76,11 @@ a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_r
 e0857c0286da03c64261e49bed84b0916d69b6f7 data/minecraft/tags/block/maintains_farmland.json
 f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/block/infiniburn_end.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/block/frogs_spawnable_on.json
+bc8701774f57ab000a8f0f1d390702175a6cdbb8 data/minecraft/tags/block/snow_golem_immune_to.json
 e20a9087558b4404a6e500f050a7d0e926667902 data/minecraft/tags/block/wall_post_override.json
 65bff720ec9fa0ed537b2bf6462fc181a94ad90c data/minecraft/tags/block/supports_warped_roots.json
 694728b1aa5cfb38e0e4afd386494b2d4ce9b085 data/minecraft/tags/block/overworld_natural_logs.json
+199f846e50e5c4bbc441db88bfe1214be3fe1683 data/minecraft/tags/block/wither_skeleton_immune_to.json
 3782c28ed558699d6993e67ad026112a2f2901b3 data/minecraft/tags/block/chains.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/triggers_ambient_desert_sand_block_sounds.json
 7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/block/portals.json
@@ -89,8 +95,8 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 dc2e648fb038e928e6f24c27d588b7cd820659ae data/minecraft/tags/block/sword_efficient.json
 2b09272e8b33eaefd3353e728cc5a8d1fcad6e39 data/minecraft/tags/block/logs_that_burn.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
-3bbb90c828745aac6dee0abdcbc893e64b7c5a59 data/minecraft/tags/block/mineable/pickaxe.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
+3bbb90c828745aac6dee0abdcbc893e64b7c5a59 data/minecraft/tags/block/mineable/pickaxe.json
 f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/block/pale_oak_logs.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
 cf33535cd44ff4af692d72c1889bef8fd7ee12a2 data/minecraft/tags/block/supports_big_dripleaf.json
@@ -110,6 +116,7 @@ a4e8097fff07f9a74259d6b5dd583f3437ff28a2 data/minecraft/tags/block/shears_extrem
 19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/block/mangrove_logs.json
 0030e20c55e0444f232786959ff33b0eecad6c12 data/minecraft/tags/block/supports_crimson_fungus.json
 a67dfa87931257015394b3270b56ca3c4d46a7d0 data/minecraft/tags/block/enderman_holdable.json
+bc8701774f57ab000a8f0f1d390702175a6cdbb8 data/minecraft/tags/block/stray_immune_to.json
 5b64c6e3c9cd3170bab9758491e742e0307d6617 data/minecraft/tags/block/deepslate_ore_replaceables.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/block/birch_logs.json
 17ba01ef695bf5921b47243b56fd226dca024488 data/minecraft/tags/block/lightning_rods.json
@@ -118,8 +125,8 @@ bd6afc9c5b446cf5cb2e265f9e719059f38d9f15 data/minecraft/tags/block/supports_melo
 b4727e6ebe055c567441285ae565462a8b1e4abc data/minecraft/tags/block/enables_bubble_column_push_up.json
 8f756b6bb97bd87b831f683f85e42cabb7f86cd3 data/minecraft/tags/block/ice.json
 f045c2575c82c58d58f4b59d5292d3ec0e53d9a0 data/minecraft/tags/block/nether_carver_replaceables.json
-3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/block/small_flowers.json
 7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/block/sand.json
+3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/block/small_flowers.json
 8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/bats_spawnable_on.json
 f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/block/invalid_spawn_inside.json
 39536bd6fae1621415988e6868058425dc09f27d data/minecraft/tags/block/guarded_by_piglins.json
@@ -177,8 +184,8 @@ dcfcde0b3716705215c339c3ed7bb1fe6da2cdb2 data/minecraft/tags/block/vibration_res
 4c530addbf753cfb7836edbf503bcdaa33c68df3 data/minecraft/tags/block/supports_small_dripleaf.json
 d360d5c5c3d215bc124823b456d4dcfda62f4430 data/minecraft/tags/block/moss_blocks.json
 2ead4126c04b62333f1e9b48091bcb2ac8b278b2 data/minecraft/tags/block/ceiling_hanging_signs.json
-1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/block/valid_spawn.json
+1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
 ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
