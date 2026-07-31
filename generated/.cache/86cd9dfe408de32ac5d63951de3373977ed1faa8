@@ -1,12 +1,12 @@
-// 26.3-snapshot-3	2026-07-31T15:26:25.658887139	vanilla/Tags for minecraft:block
+// 26.3-snapshot-4	2026-07-31T15:26:46.584653252	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 0015c8ac2a73e2714e6a626d421ae0c88dc06a32 data/minecraft/tags/block/shears_minor_breaking_speed.json
 21a69dd01837fb1e87ce2a089ee7c2d814a004b8 data/minecraft/tags/block/blocks_motion_in_heightmap_no_leaves.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
-84ca487e773b4a6e5d2dfb9c9a4e6a7d99f6f480 data/minecraft/tags/block/glazed_terracotta.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_glass.json
+84ca487e773b4a6e5d2dfb9c9a4e6a7d99f6f480 data/minecraft/tags/block/glazed_terracotta.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_gold_tool.json
 002618d0a2234b3b3d20a70a6c530ec63bab9783 data/minecraft/tags/block/flowers.json
 28a395dbbea7d606bdda14cc8bcab6399d173b6b data/minecraft/tags/block/supports_sugar_cane_adjacently.json
@@ -30,7 +30,7 @@ c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/convertible_t
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/block/bamboo_blocks.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/block/dark_oak_logs.json
 d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/block/redstone_ores.json
-da3d13cd39a23b6a7fc346df8caa6710e8e60f6e data/minecraft/tags/block/blocks_motion_no_leaves.json
+f259c54f695fb83a077eff833eefde71d1b8359b data/minecraft/tags/block/blocks_motion_no_leaves.json
 d781196b0827aeafb4cec04c2353f926ce42798b data/minecraft/tags/block/beneath_bamboo_podzol_replaceable.json
 341e1abd8fa3db8d9a6d5fb78ae050e99caae365 data/minecraft/tags/block/beds.json
 c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/block/snaps_goat_horn.json
@@ -207,6 +207,7 @@ d360d5c5c3d215bc124823b456d4dcfda62f4430 data/minecraft/tags/block/moss_blocks.j
 1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 da2f2099b67874757261a241b2b6e9b12e182749 data/minecraft/tags/block/cannot_place_basalt_pillar_on.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
+6bfdb8f02c5c5d180b5747096f4c3c755768ee0f data/minecraft/tags/block/cushion_uses_collision_shape.json
 ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 0063083a1ab9e3bce7dd8dbc7136e7021459f0d8 data/minecraft/tags/block/replaceable.json
@@ -276,7 +277,7 @@ a9d9ea4becab53f2ae18b53a28175f1dae5fcaf4 data/minecraft/tags/block/height_specif
 b81bed56007d0d0c2eca5e18f9d271f944c345fc data/minecraft/tags/block/sniffer_diggable_block.json
 d325dafefb521ba257286a3f3c66d9d6cd3bd320 data/minecraft/tags/block/cave_vines.json
 ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_copper_tool.json
-991b4b13f517a78c2fdff9d9a6e631ecaf58a920 data/minecraft/tags/block/blocks_fluid_flow.json
+1ee36be715899d4330f5ee4ac912eca3803599f6 data/minecraft/tags/block/blocks_fluid_flow.json
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/block/concrete_powders.json
 cbd9fd30c8de79f33bf91c6cf5d399e0d09f65c9 data/minecraft/tags/block/turns_into_dirt_path.json
 08686fbe81389dddc4df471b0c7b219b6579b8ee data/minecraft/tags/block/lanterns.json

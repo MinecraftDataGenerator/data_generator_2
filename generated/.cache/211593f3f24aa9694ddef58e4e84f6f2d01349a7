@@ -1,4 +1,4 @@
-// 26.3-snapshot-3	2026-07-31T15:26:25.658564488	vanilla/Tags for minecraft:worldgen/biome
+// 26.3-snapshot-4	2026-07-31T15:26:46.584365811	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -30,8 +30,8 @@ f9c1e0a4e9110960f437188d04c291cd2ff37cf0 data/minecraft/tags/worldgen/biome/has_
 92d2cbd84ddef8c77972b539dd8c7cffaa131aed data/minecraft/tags/worldgen/biome/more_frequent_drowned_spawns.json
 1d08d3b15c59b4c742161ec69693b66fc2ef75d6 data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_cold.json
 f85bfa0d4b462706e486bac541e720ebc630330c data/minecraft/tags/worldgen/biome/is_jungle.json
-45707864d688ef531d52bd0287366ea1e7736874 data/minecraft/tags/worldgen/biome/has_structure/mineshaft_mesa.json
 4515b902a2803d77400aa33b8a3a7751bcaf389a data/minecraft/tags/worldgen/biome/has_structure/jungle_temple.json
+45707864d688ef531d52bd0287366ea1e7736874 data/minecraft/tags/worldgen/biome/has_structure/mineshaft_mesa.json
 9f1a7b9d7c1f633c2245e7066a7bdc93fafb7ffd data/minecraft/tags/worldgen/biome/is_deep_ocean.json
 f9a867df65eed6c7fbe6df17bf367c9c3bc26dea data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_birch_forest.json
 3a8d281584c0df02db2de45b5148feea3cc913a8 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_forest.json
@@ -77,8 +77,8 @@ a2c17e9189d16e11b26ac0a0c170a0bc41bf1093 data/minecraft/tags/worldgen/biome/has_
 be4a1f061b9d167a07a785d3d7fd97b5993bc33a data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json
 45e2314b6fbf2e847bd70c163e678e0e756a1640 data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json
 a18b42d48e473c1416af02fa30d2722fbc057e77 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_cherry_grove.json
-becbb3e6d736ab8feb41683bc5afacce936c4825 data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
 8e189bced568dd8e10f6bf15c22adf4f772b6c87 data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json
+becbb3e6d736ab8feb41683bc5afacce936c4825 data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
 db559b630eb1e15fc94e0ed089c5e4a2b1247670 data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json
 34221cf2084477b59843b281cf1b1519bbf50e89 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_old_growth_pine_taiga.json
 cf692980e7b8c83321d8489ae0d76db7effbaa4a data/minecraft/tags/worldgen/biome/has_structure/bastion_remnant.json
