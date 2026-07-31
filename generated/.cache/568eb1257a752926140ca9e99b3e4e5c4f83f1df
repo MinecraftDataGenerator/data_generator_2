@@ -1,4 +1,4 @@
-// 1.21.7	2026-07-31T14:58:28.036422145	vanilla/Vanilla Recipes
+// 1.21.8 Release Candidate 1	2026-07-31T14:58:45.194746957	vanilla/Vanilla Recipes
 1dfb3c36e1c906b6c46dc3654b03e3a860c8031b data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 ee52ee40954eaaa0ce5508da0da1c4b070393a47 data/minecraft/recipe/dye_magenta_bed.json
@@ -890,8 +890,8 @@ f810b15263037bf53f20a4cc99fb49628c6e9650 data/minecraft/advancement/recipes/deco
 c97579efa3ae433b471c3f325d283a946893f174 data/minecraft/recipe/firework_rocket.json
 5a464a0baf226d7b54989f645dfe6c5fda8f7c9a data/minecraft/recipe/jungle_boat.json
 0f8a85b99c0695ca6ac39a981622d3be6e7b26fb data/minecraft/recipe/blue_dye_from_cornflower.json
-833ad4e4807e4e3daf1847801741476a391cd5c4 data/minecraft/advancement/recipes/tools/gray_bundle.json
 31c19db1faa0875baf49fe1ba7794f11b7ec05f2 data/minecraft/recipe/waxed_exposed_copper_grate.json
+833ad4e4807e4e3daf1847801741476a391cd5c4 data/minecraft/advancement/recipes/tools/gray_bundle.json
 7b5559a1012e2dba35869d6460e0f544d4d432f5 data/minecraft/advancement/recipes/redstone/polished_blackstone_pressure_plate.json
 e6a9cbb2c09096a80a7a835781ab57e8c8b8df20 data/minecraft/advancement/recipes/decorations/armor_stand.json
 5ddfeadee61469c79ce26484cd3ab1df1664a7c5 data/minecraft/advancement/recipes/tools/magenta_bundle.json
