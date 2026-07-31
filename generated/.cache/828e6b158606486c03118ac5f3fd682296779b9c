@@ -1,4 +1,4 @@
-// 1.19.4 Release Candidate 3	2026-07-31T14:13:29.541196711	vanilla/Loot Tables
+// 1.19.4	2026-07-31T14:13:43.96177159	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -885,8 +885,8 @@ f5e30f2698b1960698cb9e4737c22e8e4c17df23 data/minecraft/loot_tables/blocks/chest
 14b2cf47a06cad8d7ab881c28b68e1f1dbdc2a0e data/minecraft/loot_tables/blocks/carved_pumpkin.json
 d1f55307cf18124e0e650fc824d6acb6b4dda49c data/minecraft/loot_tables/blocks/orange_stained_glass_pane.json
 70b8909c0603771fb4cade9da0d71d6cc292eb68 data/minecraft/loot_tables/entities/cod.json
-6ed0f2cd04e879cea6f1667ddc3277e5b34863ee data/minecraft/loot_tables/blocks/comparator.json
 24deb68a9dfc578da494027c36c5127fbb35dd55 data/minecraft/loot_tables/blocks/deepslate_brick_wall.json
+6ed0f2cd04e879cea6f1667ddc3277e5b34863ee data/minecraft/loot_tables/blocks/comparator.json
 b4f1c3d257b75454eec0b978b540d7f287bc6e6b data/minecraft/loot_tables/blocks/potted_warped_fungus.json
 5efc9403b4ac2bb3e900123e282c0a83c668f2f6 data/minecraft/loot_tables/blocks/lily_pad.json
 e2090688abc0c3ca883775e295f9853d0e53cd48 data/minecraft/loot_tables/blocks/pink_concrete_powder.json
