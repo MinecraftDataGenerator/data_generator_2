@@ -1,4 +1,4 @@
-// 26.1-pre-2	2026-07-31T15:14:58.470991927	trade_rebalance/Tags for minecraft:villager_trade
+// 26.1-pre-3	2026-07-31T15:15:16.819442446	trade_rebalance/Tags for minecraft:villager_trade
 d4274bb7f1851175d9d5f9bd656abef1d0c6e956 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/armorer/level_2.json
 841930b7b97438e3eb6f0bc8ed59cdecc866e167 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/armorer/level_5.json
 82368546cefd833082b411d561bd5e547eb63611 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/librarian/level_5.json
@@ -8,4 +8,4 @@ c4c6ddeb5566a827996a92ef66408a7dceb1b4e3 data/minecraft/datapacks/trade_rebalanc
 9791984bb5823f56245e13d0cb0335ee44519c12 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/armorer/level_3.json
 5a83365450b5100516c0a02fbf82dc5e57b3cc81 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/librarian/level_1.json
 8041a26e3d214cdd549e497cb3eae4ef79696d5c data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/librarian/level_3.json
-913b7eb5eb57bd32d57e969a23dccee934220f08 data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/librarian/level_4.json
+d79119472afba33d107cfe12fc5f3013116fcb2e data/minecraft/datapacks/trade_rebalance/data/minecraft/tags/villager_trade/librarian/level_4.json

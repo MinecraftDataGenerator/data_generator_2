@@ -1,4 +1,4 @@
-// 26.1-pre-2	2026-07-31T15:14:58.471586561	vanilla/Default Components
+// 26.1-pre-3	2026-07-31T15:15:16.820029579	vanilla/Default Components
 11939540e907f9960265fb479a09aebaa2e62d65 reports/minecraft/components/item/infested_stone_bricks.json
 36d2289e2c51a4a07b49d784f609f16b950f3c90 reports/minecraft/components/item/dead_brain_coral_fan.json
 404f399e61e0f983a5c51d93534e68c7f95280f1 reports/minecraft/components/item/cyan_shulker_box.json
@@ -1265,8 +1265,8 @@ a28349f03726d1901de65eca97857a0ee97b3671 reports/minecraft/components/item/strip
 8eca3d04d3a333be5545458643e4cdd9101aa05c reports/minecraft/components/item/spruce_slab.json
 d701e6b5d0a41045ff4a5bba6d0d0da1ea211cca reports/minecraft/components/item/diamond_leggings.json
 d9c7d66bd9da13a5a0afb9788d97a5aa70ae1ca0 reports/minecraft/components/item/raw_gold.json
-4d4461afc02272cd4e0145dde36c697b10c42b8a reports/minecraft/components/item/polished_blackstone_stairs.json
 22c15617ed32011b24d5140f8a2b65bbfdec0fdf reports/minecraft/components/item/gray_wool.json
+4d4461afc02272cd4e0145dde36c697b10c42b8a reports/minecraft/components/item/polished_blackstone_stairs.json
 a290cbc9c95aed4eb4b1b080924e4258e36c9879 reports/minecraft/components/item/deepslate_tile_stairs.json
 e995de656d9da536871b71d5097562f6243c4856 reports/minecraft/components/item/oak_log.json
 443d5634da6be39fdae9d3b1c43b6815d44957d9 reports/minecraft/components/item/polished_tuff_slab.json
@@ -1482,8 +1482,8 @@ ee52e797facded6defaef3beacf0f57834dbd3d7 reports/minecraft/components/item/orang
 724d7cbead1153dac249641b58255e627b5ae8a5 reports/minecraft/components/item/oxidized_copper_door.json
 b319d83ee198cfca778374a79bfd669347926fc9 reports/minecraft/components/item/chainmail_boots.json
 4f2179a581ec54558f799e60cc16438716b3dbc3 reports/minecraft/components/item/purple_terracotta.json
-ecbcb470f3ca9d3a7ec3ccd5cbc580c794b9acda reports/minecraft/components/item/red_mushroom.json
 db5c5ac02c708914133ba11b46da541761ccddb1 reports/minecraft/components/item/blackstone_stairs.json
+ecbcb470f3ca9d3a7ec3ccd5cbc580c794b9acda reports/minecraft/components/item/red_mushroom.json
 3c941978b87e6570640b141c86c13993e1b22f04 reports/minecraft/components/item/brown_carpet.json
 228d5cd5ccb493e1b6532fa3a87ebef3b1b4653f reports/minecraft/components/item/vault.json
 2e4b4b111efe44038e182ae7f807d2363ac3c6bf reports/minecraft/components/item/compass.json
