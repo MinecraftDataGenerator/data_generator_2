@@ -1,4 +1,4 @@
-// 26.1-rc-3	2026-07-31T15:16:30.691726156	vanilla/Default Components
+// 26.1	2026-07-31T15:16:50.13445638	vanilla/Default Components
 36d2289e2c51a4a07b49d784f609f16b950f3c90 reports/minecraft/components/item/dead_brain_coral_fan.json
 11939540e907f9960265fb479a09aebaa2e62d65 reports/minecraft/components/item/infested_stone_bricks.json
 bb15e89633ba13f3393a39033dfa1f7195f79f47 reports/minecraft/components/item/beetroot.json
@@ -659,8 +659,8 @@ f4ab64b5a2f9d6fd970ed092f5970f3a99da42ff reports/minecraft/components/item/tropi
 784b57f19dfefa73a38285e686638c04abd1cc2f reports/minecraft/components/item/zombie_nautilus_spawn_egg.json
 12d64f87a20370464d3902f609df04a19aa2d915 reports/minecraft/components/item/light_gray_harness.json
 cdc4a656acf4542b13cd5992d509d816edeba064 reports/minecraft/components/item/brown_bundle.json
-c4ab3eea25b63e45db3b9622e5166616b34829b2 reports/minecraft/components/item/iron_hoe.json
 8ef76817372c94b87194e15f15b13cadf2c6e114 reports/minecraft/components/item/netherite_ingot.json
+c4ab3eea25b63e45db3b9622e5166616b34829b2 reports/minecraft/components/item/iron_hoe.json
 8bb4c51d31dca61b9b3b3c94fd023767dee187d8 reports/minecraft/components/item/crimson_stem.json
 56d733296b92fc4b22b0ef364b54c7a0b2a58f6b reports/minecraft/components/item/stripped_crimson_hyphae.json
 d865612f097e0bb9c7a8c86ab1cc0f90ca1fd01f reports/minecraft/components/item/redstone.json

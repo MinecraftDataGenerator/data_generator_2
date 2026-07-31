@@ -1,4 +1,4 @@
-// 26.1-rc-3	2026-07-31T15:16:30.704776912	vanilla/Loot Tables
+// 26.1	2026-07-31T15:16:50.144957948	vanilla/Loot Tables
 415fbbb37d98668ba0c268122a5227bc70bc1d0e data/minecraft/loot_table/gameplay/chicken_lay.json
 0f905afcf3733f9f7ce32d8b48e4a2041b7aefdd data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 c4dbb75007d3c56c0793952d0e1581a79319e798 data/minecraft/loot_table/blocks/birch_wood.json

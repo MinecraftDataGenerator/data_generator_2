@@ -1,4 +1,4 @@
-// 26.1-rc-3	2026-07-31T15:16:30.695603249	vanilla/Vanilla Recipes
+// 26.1	2026-07-31T15:16:50.137841978	vanilla/Vanilla Recipes
 2ae39d0fdc9fdb6d74d03f2d83f55ea313f92c40 data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 7d9e3b5529d3837159f88c75f4731d4216fff21f data/minecraft/recipe/dye_magenta_bed.json
@@ -1096,8 +1096,8 @@ d0289909ab257e9182e61dafd52e7835564e1b1d data/minecraft/advancement/recipes/misc
 a0027d97631feae758f109422929a4ae3455bfa9 data/minecraft/recipe/gray_dye_from_closed_eyeblossom.json
 4fb70f3161c4494760a6904ad99e452b1a9a3de3 data/minecraft/recipe/mud_brick_slab.json
 3c823a2ccefe8d8d55cfefac749b7d1cc44b6b89 data/minecraft/recipe/deepslate_bricks_from_deepslate_stonecutting.json
-5442d354c9aa398f906aff07a5a780eb87a8db9d data/minecraft/recipe/green_bundle.json
 9b6e2cb4aa652faa48df12de4346d9f93f9d8c27 data/minecraft/recipe/mace.json
+5442d354c9aa398f906aff07a5a780eb87a8db9d data/minecraft/recipe/green_bundle.json
 474708aab33d46eb14f43d27f3b75ec518759c42 data/minecraft/advancement/recipes/decorations/dye_black_carpet.json
 ec7f047c0bdbcee0d112fbda6ccd3015124ec99e data/minecraft/recipe/mossy_cobblestone_stairs.json
 fab81d5c3964ebd3e2e384a57475bf8fe0e491fb data/minecraft/advancement/recipes/building_blocks/mangrove_planks.json
