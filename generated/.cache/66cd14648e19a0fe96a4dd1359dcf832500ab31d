@@ -1,4 +1,4 @@
-// 26.3-snapshot-2	2026-07-31T15:26:01.345596171	vanilla/Tags for minecraft:worldgen/structure
+// 26.3-snapshot-3	2026-07-31T15:26:25.665401449	vanilla/Tags for minecraft:worldgen/structure
 6e9b88a9d7545d083cd0118cff815131cf329080 data/minecraft/tags/worldgen/structure/on_savanna_village_maps.json
 a124e2034270a8639a98494959c2524661377ecc data/minecraft/tags/worldgen/structure/shipwreck.json
 f2401a25b1b014422c676d22732df78913b05497 data/minecraft/tags/worldgen/structure/on_woodland_explorer_maps.json
@@ -11,6 +11,7 @@ ffb1ae5133cbbafa849ea42c6110ebadcda39dbe data/minecraft/tags/worldgen/structure/
 c0f4e5bd52b666e1cbd106441f23f0eb83f8b77f data/minecraft/tags/worldgen/structure/on_taiga_village_maps.json
 f601732bcb221c84402a118279c904ef0f01d3a9 data/minecraft/tags/worldgen/structure/village.json
 bdbef1e5398bebdc50384225edce07692966829c data/minecraft/tags/worldgen/structure/eye_of_ender_located.json
+a2a6903ad23c491c2cfaff776a80e0662ee4c890 data/minecraft/tags/worldgen/structure/abandoned_camp.json
 4d92943fafdfded03126ec0627466acbb025902d data/minecraft/tags/worldgen/structure/cats_spawn_as_black.json
 6204d123f0f9c70cee00dce5624de584c60199c7 data/minecraft/tags/worldgen/structure/on_snowy_village_maps.json
 db7acc9f9e931ed7a41f2b2c96466edd7e528acc data/minecraft/tags/worldgen/structure/on_treasure_maps.json
