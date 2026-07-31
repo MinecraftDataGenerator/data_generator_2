@@ -1,4 +1,4 @@
-// 26.1-pre-1	2026-07-31T15:14:40.118372649	vanilla/Tags for minecraft:entity_type
+// 26.1-pre-2	2026-07-31T15:14:58.489372459	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
@@ -30,8 +30,8 @@ efb8543801555f1eaabd69b80205ea45d64cb29d data/minecraft/tags/entity_type/boat.js
 e3f8666e63317db05149215672d1dbfdc0002d09 data/minecraft/tags/entity_type/skeletons.json
 40cd71f7c2dc39d03a8aa7ed669bfe8856ff344b data/minecraft/tags/entity_type/followable_friendly_mobs.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/ignores_poison_and_regen.json
-938693c0d925c28b546fc000571541b1f61e42c1 data/minecraft/tags/entity_type/immune_to_infested.json
 62d25e3645554bc9ac0db396fc73c0b9e33ec48e data/minecraft/tags/entity_type/candidate_for_iron_golem_gift.json
+938693c0d925c28b546fc000571541b1f61e42c1 data/minecraft/tags/entity_type/immune_to_infested.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflects_projectiles.json
 3380f800be25da3a693166b447d67fcc6a75326e data/minecraft/tags/entity_type/can_equip_saddle.json
 4c073b476785113705dfd3c6b286a337ddbd56b0 data/minecraft/tags/entity_type/beehive_inhabitors.json
