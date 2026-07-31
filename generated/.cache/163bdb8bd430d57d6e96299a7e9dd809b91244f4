@@ -1,4 +1,4 @@
-// 24w05b	2026-07-31T14:28:24.787534979	vanilla/Tags for minecraft:entity_type
+// 24w06a	2026-07-31T14:28:45.425861526	vanilla/Tags for minecraft:entity_type
 4c073b476785113705dfd3c6b286a337ddbd56b0 data/minecraft/tags/entity_types/beehive_inhabitors.json
 18a237bfea730e47a6de90c60b98f17623e0f1a0 data/minecraft/tags/entity_types/dismounts_underwater.json
 33c59d9d681e158b1ccb6ea656e59ddc600e3f4c data/minecraft/tags/entity_types/freeze_hurts_extra_types.json
@@ -17,8 +17,8 @@ e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_types/ignore
 f91cbde94cdeade285561d65ea83bbcd815c7e82 data/minecraft/tags/entity_types/raiders.json
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_types/axolotl_always_hostiles.json
 e977cfe5879b4afb1071dbc6604ba55cb32da943 data/minecraft/tags/entity_types/skeletons.json
-5decf1729450d88915af4860ad75ac73b3e07f06 data/minecraft/tags/entity_types/freeze_immune_entity_types.json
 7682a23a9a2c2cf40a063a7d8e005275500409ea data/minecraft/tags/entity_types/powder_snow_walkable_mobs.json
+5decf1729450d88915af4860ad75ac73b3e07f06 data/minecraft/tags/entity_types/freeze_immune_entity_types.json
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_types/non_controlling_rider.json
 d5eb51bb33d8dbba4adaf89c83c8c9cb849f95aa data/minecraft/tags/entity_types/fall_damage_immune.json
 9c3d2fb8d7167bc7452a377ebc0633ec33324d85 data/minecraft/tags/entity_types/impact_projectiles.json
