@@ -1,1 +1,1 @@
-# Minecraft Data - 1.20.2
+# Minecraft Data - 23w40a
