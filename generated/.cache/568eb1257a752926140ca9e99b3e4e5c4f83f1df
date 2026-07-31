@@ -1,4 +1,4 @@
-// 1.21.2 Pre-Release 5	2026-07-31T14:42:58.550470404	vanilla/Vanilla Recipes
+// 1.21.2 Release Candidate 1	2026-07-31T14:43:21.427435153	vanilla/Vanilla Recipes
 1dfb3c36e1c906b6c46dc3654b03e3a860c8031b data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 55fdd06a2d3d7b3ebb1853e2881148daa78101d8 data/minecraft/recipe/spruce_planks.json
 ab191fdde225331704efc69ad0cde47b421cff84 data/minecraft/recipe/dye_magenta_bed.json
@@ -1433,8 +1433,8 @@ dd86e877893b75a49596f0ba20d1bad41a56d43b data/minecraft/advancement/recipes/reds
 d223bbf0ee8fb66f0434082ebc5cbc3a7a40ff76 data/minecraft/advancement/recipes/building_blocks/purpur_block.json
 08f907b1b0cb20498afb9beafdbdafcc05333060 data/minecraft/advancement/recipes/decorations/polished_blackstone_wall.json
 ce73a4dea092780dcf07ad57fd1b569a9bd1da66 data/minecraft/recipe/leather_horse_armor.json
-299dcbe9879df48f3076a4b129c48ae10adda7c3 data/minecraft/advancement/recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting.json
 5353fa216f217b2c22c4e07f4f2e9c376377cc5b data/minecraft/advancement/recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting.json
+299dcbe9879df48f3076a4b129c48ae10adda7c3 data/minecraft/advancement/recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting.json
 47e1fdac6cf00f6663ba2ea50a26391464e1c8e1 data/minecraft/advancement/recipes/redstone/waxed_exposed_copper_bulb.json
 ee1d9e24b880b4827a46b8543a0318f8f6d62a81 data/minecraft/recipe/diorite_slab_from_diorite_stonecutting.json
 5f460e6d1ce467b7da9db26f274eb2499b222368 data/minecraft/advancement/recipes/misc/emerald.json
