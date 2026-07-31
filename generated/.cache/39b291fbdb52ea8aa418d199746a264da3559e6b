@@ -1,4 +1,4 @@
-// 26.3-snapshot-4	2026-07-31T15:26:46.585330714	vanilla/Tags for minecraft:game_event
+// 26.3-snapshot-5	2026-07-31T15:27:07.613835388	vanilla/Tags for minecraft:game_event
 63d89aa5d8bf516444e2f3bbf763f637c72839b4 data/minecraft/tags/game_event/allay_can_listen.json
 641d5946c42493fe7a161d4a3971814600234ffd data/minecraft/tags/game_event/shrieker_can_listen.json
 f8b7e947fb5cdd89ad8ed69713a57430aeabe907 data/minecraft/tags/game_event/warden_can_listen.json

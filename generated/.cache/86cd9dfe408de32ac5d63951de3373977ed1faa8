@@ -1,4 +1,4 @@
-// 26.3-snapshot-4	2026-07-31T15:26:46.584653252	vanilla/Tags for minecraft:block
+// 26.3-snapshot-5	2026-07-31T15:27:07.613209476	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 0015c8ac2a73e2714e6a626d421ae0c88dc06a32 data/minecraft/tags/block/shears_minor_breaking_speed.json
@@ -207,8 +207,8 @@ d360d5c5c3d215bc124823b456d4dcfda62f4430 data/minecraft/tags/block/moss_blocks.j
 1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 da2f2099b67874757261a241b2b6e9b12e182749 data/minecraft/tags/block/cannot_place_basalt_pillar_on.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
-6bfdb8f02c5c5d180b5747096f4c3c755768ee0f data/minecraft/tags/block/cushion_uses_collision_shape.json
 ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
+6bfdb8f02c5c5d180b5747096f4c3c755768ee0f data/minecraft/tags/block/cushion_uses_collision_shape.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 0063083a1ab9e3bce7dd8dbc7136e7021459f0d8 data/minecraft/tags/block/replaceable.json
 53c57757f5ee96d1a6d3e90d92e8914db0ad1d8c data/minecraft/tags/block/cauldrons.json

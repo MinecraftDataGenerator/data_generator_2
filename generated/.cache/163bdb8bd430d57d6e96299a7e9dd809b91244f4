@@ -1,4 +1,4 @@
-// 26.3-snapshot-4	2026-07-31T15:26:46.590887468	vanilla/Tags for minecraft:entity_type
+// 26.3-snapshot-5	2026-07-31T15:27:07.61794629	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json
@@ -41,10 +41,10 @@ ff98c5721d534eacbdfa5b98287eaf472e641e2a data/minecraft/tags/entity_type/can_bre
 d9f581f9300c295abe6532cdb207b07a005b6f23 data/minecraft/tags/entity_type/dismounts_underwater.json
 9eecfbba6b4ef0184b1dd7345f88872f294b8bd3 data/minecraft/tags/entity_type/redirectable_projectile.json
 08c88f550f4172f028c9c75c75c61a61be813ce4 data/minecraft/tags/entity_type/can_float_while_ridden.json
-40cd71f7c2dc39d03a8aa7ed669bfe8856ff344b data/minecraft/tags/entity_type/followable_friendly_mobs.json
 e3f8666e63317db05149215672d1dbfdc0002d09 data/minecraft/tags/entity_type/skeletons.json
-62d25e3645554bc9ac0db396fc73c0b9e33ec48e data/minecraft/tags/entity_type/candidate_for_iron_golem_gift.json
+40cd71f7c2dc39d03a8aa7ed669bfe8856ff344b data/minecraft/tags/entity_type/followable_friendly_mobs.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/ignores_poison_and_regen.json
+62d25e3645554bc9ac0db396fc73c0b9e33ec48e data/minecraft/tags/entity_type/candidate_for_iron_golem_gift.json
 de28c1b8f1dbe44fbb27df3cbf75932195e4bd6c data/minecraft/tags/entity_type/illager_friends.json
 3f1dd0c5c67aa8c83e77cc78c3de66b29c81d5ab data/minecraft/tags/entity_type/accepts_iron_golem_gift.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/sensitive_to_smite.json
