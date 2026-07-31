@@ -1,4 +1,4 @@
-// 1.19.3 Release Candidate 2	2026-07-31T14:09:38.607537154	vanilla/Tags for minecraft:item
+// 1.19.3 Release Candidate 3	2026-07-31T14:09:59.544474244	vanilla/Tags for minecraft:item
 302a7306008322c71a33f283b0796380e354dc07 data/minecraft/tags/items/slabs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/items/jungle_logs.json
 1427990c03c12740923148023ff91c8dc180e080 data/minecraft/tags/items/signs.json
@@ -16,8 +16,8 @@ af26b6f8afbcb74c6e990850cb8baf45137075f4 data/minecraft/tags/items/dirt.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/items/acacia_logs.json
 3c647a6853d5b268c6fdda9851a909e7258858ae data/minecraft/tags/items/freeze_immune_wearables.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/items/copper_ores.json
-e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/sand.json
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/items/candles.json
+e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/items/sand.json
 6f62a3e03de3843da6fc2f7b46bfdd5d1f4fd02d data/minecraft/tags/items/compasses.json
 2251fe88877ae02fb691c0e7949b1f15ad52837f data/minecraft/tags/items/stairs.json
 fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/items/wool.json
@@ -38,9 +38,9 @@ e81f8b8dbba774b8eb3ff4252140a7cce46870f8 data/minecraft/tags/items/small_flowers
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/items/fences.json
 7f07892c2d48d32709c36a0538e4bbf9adf96123 data/minecraft/tags/items/tall_flowers.json
 4f49148d36d536b952bb03d660de61d68f361e1b data/minecraft/tags/items/music_discs.json
+c1235d5380d995b7bb3c585c393315c616b96cc4 data/minecraft/tags/items/wooden_slabs.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/items/stone_bricks.json
 33e8ec7190dcb72c437ead7d37ebc6cc7e986f1d data/minecraft/tags/items/saplings.json
-c1235d5380d995b7bb3c585c393315c616b96cc4 data/minecraft/tags/items/wooden_slabs.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/items/gold_ores.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/items/birch_logs.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/items/piglin_loved.json
