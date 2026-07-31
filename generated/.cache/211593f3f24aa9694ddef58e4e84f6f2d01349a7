@@ -1,4 +1,4 @@
-// 1.21.11-rc1	2026-07-31T15:09:11.903014176	vanilla/Tags for minecraft:worldgen/biome
+// 1.21.11-rc2	2026-07-31T15:09:29.466297714	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -32,8 +32,8 @@ f85bfa0d4b462706e486bac541e720ebc630330c data/minecraft/tags/worldgen/biome/is_j
 f435c629c4e64303cb04329925903bda3d917ba9 data/minecraft/tags/worldgen/biome/is_hill.json
 f3dc9f00fb98a763e374de9b2aa55e6707d3a6f3 data/minecraft/tags/worldgen/biome/is_taiga.json
 3d220c49d07585dca965d162e0f6e1e6b51d2ee2 data/minecraft/tags/worldgen/biome/spawns_cold_variant_frogs.json
-c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json
 325e601b9c75d59207dfffc1a0149d9e965bd45e data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_mountain.json
+c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json
 f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_structure/village_desert.json
 b020f6cdcd2d955793278b2f89a178a1d31e599a data/minecraft/tags/worldgen/biome/has_structure/stronghold.json
 0394cc29b21ea80f88b2f36ea3f7dfb6c99192ff data/minecraft/tags/worldgen/biome/is_beach.json

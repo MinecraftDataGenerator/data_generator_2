@@ -1,4 +1,4 @@
-// 1.21.11-rc1	2026-07-31T15:09:11.897668523	vanilla/Tags for minecraft:item
+// 1.21.11-rc2	2026-07-31T15:09:29.461626492	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 f8bcce6657c34cb191d37bc195f0cae478d00bed data/minecraft/tags/item/small_flowers.json
@@ -16,8 +16,8 @@ eaa103df61588e3f3fc65f53de2a329861423539 data/minecraft/tags/item/boats.json
 6222fd0d7d2ce08ee1f70be68a61f4e167dda650 data/minecraft/tags/item/repairs_copper_armor.json
 3ad428f6ef09f35106d0abcbe3e90085c35448e4 data/minecraft/tags/item/axes.json
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/item/iron_ores.json
-64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/item/repairs_leather_armor.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
+64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/item/repairs_leather_armor.json
 7069d2e27614b3e0e2a077d52610d0e37af4d48c data/minecraft/tags/item/spears.json
 eff812a2e0be0d68409f3e3efe9dbe1c72dc2080 data/minecraft/tags/item/piglin_loved.json
 002618d0a2234b3b3d20a70a6c530ec63bab9783 data/minecraft/tags/item/flowers.json
@@ -41,8 +41,8 @@ da7279518f6f1cdc8c5c7c84fc9f06624a234457 data/minecraft/tags/item/wooden_slabs.j
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/dyeable.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/enchantable/crossbow.json
-b31954eafe148ab4891ecc27ae84815687e0e9fa data/minecraft/tags/item/repairs_turtle_helmet.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/item/copper_ores.json
+b31954eafe148ab4891ecc27ae84815687e0e9fa data/minecraft/tags/item/repairs_turtle_helmet.json
 ec2899376b25012fc2e4564e53e9079392925e8f data/minecraft/tags/item/enchantable/equippable.json
 d8a8fe4018317922c6d197d313209eabe908ea8b data/minecraft/tags/item/strider_food.json
 87375b0000b51380cd54674d6dd0862602509ea3 data/minecraft/tags/item/non_flammable_wood.json
@@ -104,8 +104,8 @@ d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/item/gold_ores.json
 f6d2baa21576277e20daeb8665d3985c31b70579 data/minecraft/tags/item/leaves.json
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/item/anvil.json
 a6489f4d86c3a6bef6bfb8f58dd8cb1d3fb724da data/minecraft/tags/item/foot_armor.json
-4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/item/completes_find_tree_tutorial.json
 04346ff78e5919b94c527de4177239c2e0be5212 data/minecraft/tags/item/llama_food.json
+4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/item/completes_find_tree_tutorial.json
 f298238b6f363dfabc82665227a8d385be62cbeb data/minecraft/tags/item/zombie_horse_food.json
 bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/armor.json
 4945b995a6277b3529e7ea8b445e7562b8f3b096 data/minecraft/tags/item/strider_tempt_items.json

@@ -1,4 +1,4 @@
-// 1.21.11-rc1	2026-07-31T15:09:11.898309174	vanilla/Tags for minecraft:enchantment
+// 1.21.11-rc2	2026-07-31T15:09:29.462217792	vanilla/Tags for minecraft:enchantment
 c70bc791512fff340e5ae4a1177588b0964a0b75 data/minecraft/tags/enchantment/in_enchanting_table.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_infested_spawns.json
 7c893bf28447111c4e2765774fbef7830f83ee9e data/minecraft/tags/enchantment/tooltip_order.json
