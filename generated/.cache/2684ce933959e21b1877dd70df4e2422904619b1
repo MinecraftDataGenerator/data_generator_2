@@ -1,4 +1,4 @@
-// 1.21 Pre-Release 1	2026-07-31T14:36:28.784404269	vanilla/Recipes
+// 1.21 Pre-Release 2	2026-07-31T14:36:44.67765797	vanilla/Recipes
 6bfca1504a486901fc06d6d1e38a64458c36a3d8 data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 ee8b6458601fff7f67b745741b57b390a2320cc3 data/minecraft/recipe/spruce_planks.json
 d394d82650eafc27d893ab038ee7b419b920c597 data/minecraft/recipe/dye_magenta_bed.json
@@ -231,8 +231,8 @@ c10857363fa6ca79532f7d943cdc9bfd7ed43819 data/minecraft/recipe/mangrove_slab.jso
 16b7db9688b8d6c49448dd8b95cbe09293a29803 data/minecraft/recipe/dye_purple_wool.json
 ff7213100c326f73901ae39a14b87455a0828667 data/minecraft/recipe/jungle_slab.json
 1719add10aa719995051c3760b33a3e5dff11983 data/minecraft/advancement/recipes/building_blocks/bamboo_block.json
-09740e164f4e5f6d8bc66a3f37e8cb08553f318f data/minecraft/recipe/blue_dye.json
 2507c469df0db16aa8e64bb982525bdbe42a5636 data/minecraft/advancement/recipes/brewing/blaze_powder.json
+09740e164f4e5f6d8bc66a3f37e8cb08553f318f data/minecraft/recipe/blue_dye.json
 466c39656f50ee4ed2c1ec7bf75d325c3b5e9468 data/minecraft/recipe/packed_ice.json
 a62290bfc90600b05d280ee36cca24544fb54007 data/minecraft/recipe/lapis_block.json
 33986e79db39c61e97663c1508c119dd61250747 data/minecraft/advancement/recipes/building_blocks/exposed_copper_grate.json
@@ -2250,8 +2250,8 @@ dab092c2f4015b415ef34d7229d571b593f500bb data/minecraft/advancement/recipes/tool
 8c1bb79522fca3a72ce1ab92444b1a21801d0163 data/minecraft/advancement/recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting.json
 fc938ba3a5759a1efb691c5a38a2c2f0b6dbce87 data/minecraft/advancement/recipes/building_blocks/mossy_stone_bricks_from_moss_block.json
 25ef4e7c3ecd91d5db844cef52df4f61511ca245 data/minecraft/advancement/recipes/food/cooked_chicken_from_smoking.json
-ff97e6d2f24abd340739e4b346f962543c965fd0 data/minecraft/recipe/warped_fence.json
 9d8c3c9ff452dc40f92d2e61703df91ef818d049 data/minecraft/advancement/recipes/redstone/spruce_trapdoor.json
+ff97e6d2f24abd340739e4b346f962543c965fd0 data/minecraft/recipe/warped_fence.json
 59efea6f003f25d010f18fbc5e286f75a769dda6 data/minecraft/recipe/oxidized_cut_copper_from_oxidized_copper_stonecutting.json
 dbd94547a7d85cacd7ba434b2ebd69d133329c6e data/minecraft/recipe/smooth_red_sandstone_slab.json
 d3f6154e2e5ba17a448f7daa57879f9f975f1435 data/minecraft/advancement/recipes/building_blocks/dye_green_wool.json

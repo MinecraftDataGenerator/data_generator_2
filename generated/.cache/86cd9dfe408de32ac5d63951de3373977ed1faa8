@@ -1,9 +1,10 @@
-// 1.21 Pre-Release 1	2026-07-31T14:36:28.782815069	vanilla/Tags for minecraft:block
+// 1.21 Pre-Release 2	2026-07-31T14:36:44.675910679	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 1dfe6273688ebbb262b42c16e2c05f6c27e6d54b data/minecraft/tags/block/flower_pots.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/block/rails.json
 b39b9a730fa6d6ce0d57bcbb88a249b6617d6822 data/minecraft/tags/block/infiniburn_nether.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
+c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_glass.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_gold_tool.json
 3e070569b31d1100ac334efd44a58e52df25df1a data/minecraft/tags/block/flowers.json
@@ -38,7 +39,7 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/block/redstone_ores
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/block/iron_ores.json
 65111dce44b1fa957a52d1cce0ae3f4eebfe803f data/minecraft/tags/block/frog_prefer_jump_to.json
 c2be2e0fe32ef15e0f55b691a324afc166447e17 data/minecraft/tags/block/snaps_goat_horn.json
-f3c100849b1d6689faf68c8e058b3889b1ad6737 data/minecraft/tags/block/wooden_doors.json
+4b636e8a202b80de17ec8352bba191763ed63d3c data/minecraft/tags/block/wooden_doors.json
 4b3a4c310cf37ae02e8a2814af654638cdaecaa5 data/minecraft/tags/block/base_stone_overworld.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/block/jungle_logs.json
 e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/block/shulker_boxes.json
@@ -133,7 +134,7 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 4161727d1e5d26faf957fabebe6b6c8cc6e884f2 data/minecraft/tags/block/leaves.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
-5cc29d0b3485d239269ca7a4513854336f461b35 data/minecraft/tags/block/needs_stone_tool.json
+c9aa61b07ecba39e82b67d0fa0ebbcf0f82b45f5 data/minecraft/tags/block/needs_stone_tool.json
 b5b3e2fe97bef01741a9b3e3b0aeb5aaac962f4b data/minecraft/tags/block/mineable/pickaxe.json
 031ce19c9707a4d8e85bc799d69543917c962fad data/minecraft/tags/block/pressure_plates.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
@@ -146,7 +147,7 @@ c2b28c0ec59c7268d451b0fb6e852b3d8db182a6 data/minecraft/tags/block/snow.json
 17bf02f1662de477e421a897a9b1a092da3fd1b4 data/minecraft/tags/block/candle_cakes.json
 f90b8e6674252583fae1583255b371b3c95c36d5 data/minecraft/tags/block/mooshrooms_spawnable_on.json
 e1aa1c0a968ded1719ec54dfd3d540a19ab16f67 data/minecraft/tags/block/coral_plants.json
-2a4ef45f174e1b40c81a372d8d0f920ccd2c40be data/minecraft/tags/block/doors.json
+a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/block/doors.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/block/gold_ores.json
 042f4a31ec358e6815cd7410f054de80cc7c8fb7 data/minecraft/tags/block/cherry_logs.json
 de497bdbd607638702d22bef902ced0dabe1d293 data/minecraft/tags/block/stairs.json
@@ -169,8 +170,8 @@ d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/soul_speed_bl
 afd862ebc333a8df53174530faee5f54c15a71a7 data/minecraft/tags/block/nether_carver_replaceables.json
 d795677dfa226e3d5f7f602fd7e9d9e7a55ee61b data/minecraft/tags/block/small_flowers.json
 45aac43b276cae0f4b4ca7dccad68ee2cf4f1ca9 data/minecraft/tags/block/sand.json
-d325dafefb521ba257286a3f3c66d9d6cd3bd320 data/minecraft/tags/block/cave_vines.json
 f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/block/invalid_spawn_inside.json
+d325dafefb521ba257286a3f3c66d9d6cd3bd320 data/minecraft/tags/block/cave_vines.json
 aeaa445db335760020004d563a198676fdad5ddf data/minecraft/tags/block/guarded_by_piglins.json
 2e39009883eda5b51c79d998168c46eee59d92c1 data/minecraft/tags/block/signs.json
 4c530addbf753cfb7836edbf503bcdaa33c68df3 data/minecraft/tags/block/small_dripleaf_placeable.json
