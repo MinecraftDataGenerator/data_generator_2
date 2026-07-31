@@ -1,4 +1,4 @@
-// 1.21 Pre-Release 3	2026-07-31T14:37:07.932573638	vanilla/Advancements
+// 1.21 Pre-Release 4	2026-07-31T14:37:28.487073796	vanilla/Advancements
 81b376199ae36a3da86787e6681ab9b658470d48 data/minecraft/advancement/story/upgrade_tools.json
 47d455b0c99b75844aafa5133986758a43c30b58 data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 0962940c1ca516bdf9c98dc2bf5e80c3e044a662 data/minecraft/advancement/end/root.json
@@ -106,8 +106,8 @@ cbeee743c79bd8f876cf1eee987d82685816d9ff data/minecraft/advancement/nether/summo
 eb611bea9ba1418588ad41f0a6de71eea0f796bb data/minecraft/advancement/story/shiny_gear.json
 3404f994be2bb43dd6f25bf4af5a4fae5e5448b6 data/minecraft/advancement/nether/get_wither_skull.json
 588826b48fbc4c18cb877189989e1df363cbdf8d data/minecraft/advancement/story/smelt_iron.json
-ccfb91bf9b2f4b0959bf0f81eed420eef24e4173 data/minecraft/advancement/end/dragon_egg.json
 9f8d20bb52f23ae8190d9aabaf857c3c8b04c15b data/minecraft/advancement/husbandry/root.json
+ccfb91bf9b2f4b0959bf0f81eed420eef24e4173 data/minecraft/advancement/end/dragon_egg.json
 f25234ce89a7c0bd3477b5cc521ce6180523efaa data/minecraft/advancement/end/elytra.json
 75fc47236efceabdc4828e64349af85eb7f42474 data/minecraft/advancement/husbandry/fishy_business.json
 715db3b5b705590e7895c325eb83480b77c488bd data/minecraft/advancement/husbandry/leash_all_frog_variants.json
