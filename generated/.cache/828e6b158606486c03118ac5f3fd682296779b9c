@@ -1,4 +1,4 @@
-// 22w43a	2026-07-31T14:07:14.953945095	vanilla/Loot Tables
+// 22w44a	2026-07-31T14:07:29.479205056	vanilla/Loot Tables
 ef017fe8afbc1e704a7cfb4818ece7ba018f9c91 data/minecraft/loot_tables/entities/pillager.json
 aef4becd6a9e27ead403fae58c8d35d9a7f54fc2 data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 13c0785dd4ffa82b959a93f4eccb46309ccde68c data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -21,8 +21,8 @@ b5ef75439368e87012a5b1c738c0b89c5b780eea data/minecraft/loot_tables/blocks/red_s
 45ba98208832b85859dc82ee8b93f1e0dd26aa23 data/minecraft/loot_tables/blocks/jungle_log.json
 52471e9949e93bece07168622a5b3fa2069f44b9 data/minecraft/loot_tables/blocks/potted_bamboo.json
 40233973f34aa129ba4bc9e5df2a5698f8112ade data/minecraft/loot_tables/blocks/andesite_slab.json
-2bb8da1f2d38c7512982e5fbf71598a14953b3df data/minecraft/loot_tables/blocks/horn_coral_block.json
 192d9f4f870a8ac7c5a8c84667e065963be8e9cf data/minecraft/loot_tables/blocks/moss_carpet.json
+2bb8da1f2d38c7512982e5fbf71598a14953b3df data/minecraft/loot_tables/blocks/horn_coral_block.json
 c68d46cb92c8a2954f5fc62285b8fab82c00b5f4 data/minecraft/loot_tables/gameplay/fishing/fish.json
 350f4b8e9ab920d84e7e51f1413a0dc8124c0b2d data/minecraft/loot_tables/blocks/turtle_egg.json
 24af6b87487e095751cda0cd6758a495e1dca2da data/minecraft/loot_tables/blocks/weathered_cut_copper_slab.json
@@ -88,8 +88,8 @@ bf3643909b4c22f2efe0d137d55e8fcdbf8d8049 data/minecraft/loot_tables/entities/she
 a75baf7491076f527463fa76afa82b7b7e7069d2 data/minecraft/loot_tables/blocks/prismarine_brick_slab.json
 a78f8171bda413f087c16e02463f95efa8d17267 data/minecraft/loot_tables/blocks/orange_candle.json
 7b7b957394140a2f84aedbd638e093a8936aff2d data/minecraft/loot_tables/blocks/magenta_candle_cake.json
-2786fd968f09e509712616fc2bb6e542a4088c68 data/minecraft/loot_tables/blocks/oak_stairs.json
 4d8155fbc4af4adb8e79c62e1bc0edfc60ef73e9 data/minecraft/loot_tables/chests/village/village_snowy_house.json
+2786fd968f09e509712616fc2bb6e542a4088c68 data/minecraft/loot_tables/blocks/oak_stairs.json
 69b98969b1f478fb05727cc9355adc3353158be2 data/minecraft/loot_tables/blocks/black_wool.json
 50592e2a27672f3634530e754899fafef1a9ea10 data/minecraft/loot_tables/blocks/mud_brick_slab.json
 0a2da822781158275084bf91fa33408fa3788503 data/minecraft/loot_tables/chests/village/village_weaponsmith.json
@@ -975,8 +975,8 @@ c3195419b17fa47366de6e230bb64ed7cc95aa97 data/minecraft/loot_tables/chests/deser
 84a65c1a2fe8498657319f268a2c586ef03fbe61 data/minecraft/loot_tables/blocks/stone.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/frogspawn.json
 1d4929d7d6176f60e5ea991a577527ed251ef375 data/minecraft/loot_tables/blocks/bamboo_slab.json
-ba9638105547c6d745eaae90f95b39d227598173 data/minecraft/loot_tables/chests/village/village_desert_house.json
 f029b8c4e1f7fd50447e8c460023adc8a0c92f90 data/minecraft/loot_tables/blocks/conduit.json
+ba9638105547c6d745eaae90f95b39d227598173 data/minecraft/loot_tables/chests/village/village_desert_house.json
 40cdacfba49532cb2cb9c1bf346ecd3614e13fa2 data/minecraft/loot_tables/chests/bastion_hoglin_stable.json
 73056537928f2a9264c277d3c9793e8c262bc859 data/minecraft/loot_tables/blocks/blackstone_stairs.json
 e61a389e2507d24f65be620633c4fc6aaab64096 data/minecraft/loot_tables/blocks/purple_carpet.json
