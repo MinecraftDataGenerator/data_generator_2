@@ -1,4 +1,4 @@
-// 1.19.3	2026-07-31T14:10:22.203819289	vanilla/Tags for minecraft:block
+// 23w03a	2026-07-31T14:10:36.380397803	vanilla/Tags for minecraft:block
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -51,7 +51,7 @@ af12451a6897e7ada9cfb050679665ae3017838e data/minecraft/tags/blocks/corals.json
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/blocks/nylium.json
 4d7b608c91d55324829c11f1861e797a47f33cb1 data/minecraft/tags/blocks/doors.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/blocks/crimson_stems.json
-8cc4d6aea87f3de13132aeb551de27898bbacb9a data/minecraft/tags/blocks/goats_spawnable_on.json
+b11fa6e29929f2e7106b38b86b6fa23fffae3894 data/minecraft/tags/blocks/goats_spawnable_on.json
 1d06a2ee122e3edcd98600fe98e131c26392d4bf data/minecraft/tags/blocks/coral_blocks.json
 f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/blocks/fall_damage_resetting.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/blocks/oak_logs.json
@@ -93,8 +93,8 @@ c2b28c0ec59c7268d451b0fb6e852b3d8db182a6 data/minecraft/tags/blocks/snow.json
 142370368e43b7d4da321528401df987a6ce35d4 data/minecraft/tags/blocks/crystal_sound_blocks.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/blocks/lapis_ores.json
 f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/blocks/infiniburn_end.json
-19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/blocks/mangrove_logs.json
 8111cee5527e48da678d0eafe325ab823f2bdaf1 data/minecraft/tags/blocks/planks.json
+19f48b0aa7f4f0432b1625d6afe2e73994b2e6ca data/minecraft/tags/blocks/mangrove_logs.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/blocks/fences.json
 afd862ebc333a8df53174530faee5f54c15a71a7 data/minecraft/tags/blocks/nether_carver_replaceables.json
 fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/blocks/wool.json
