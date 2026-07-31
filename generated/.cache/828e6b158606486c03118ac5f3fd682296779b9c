@@ -1,4 +1,4 @@
-// 24w06a	2026-07-31T14:28:45.422166965	vanilla/Loot Tables
+// 24w07a	2026-07-31T14:28:59.937911471	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -328,6 +328,7 @@ e67874f8a84cc41fd149007dd0d59a5e1838280c data/minecraft/loot_tables/blocks/nethe
 f10d1e3e52fa02749f43e6bb2758244d55e2d712 data/minecraft/loot_tables/blocks/dragon_head.json
 669196903d3d3fa097b578a841bf2cb15ce99915 data/minecraft/loot_tables/blocks/smoker.json
 06807537c37de49af714d39c032a38c0009f3312 data/minecraft/loot_tables/blocks/creeper_head.json
+1b1ce1ae05b2d02f80c60508fb6f74f839509d54 data/minecraft/loot_tables/entities/bogged.json
 0b73b342a91cb37835bf7c982ad8453643e9c245 data/minecraft/loot_tables/blocks/crimson_nylium.json
 8cea6af14c6e605fe572036e3daa93045709f3fe data/minecraft/loot_tables/blocks/brown_candle_cake.json
 2af86d2573275e274cf218547ab25f46c533132b data/minecraft/loot_tables/blocks/dead_fire_coral_fan.json
@@ -791,8 +792,8 @@ db483f89bd6a6f71e2ece42350814d82b3b8559a data/minecraft/loot_tables/blocks/smoot
 16627d78901fd7f72f23ebcc81e717877a2d5c67 data/minecraft/loot_tables/blocks/spruce_hanging_sign.json
 a57f92be2f30f6a5d42f66c8905a8add833bd8d2 data/minecraft/loot_tables/blocks/birch_trapdoor.json
 097a4f5a4df50e3e2aff94f0e2abb1deaf8e01b6 data/minecraft/loot_tables/blocks/potted_pink_tulip.json
-52052327b9ae772843164c701dc9be40ac6df431 data/minecraft/loot_tables/blocks/light_blue_bed.json
 7d77593e1ee18f049579f24302bfcb5e3b6f1f3b data/minecraft/loot_tables/blocks/spruce_fence_gate.json
+52052327b9ae772843164c701dc9be40ac6df431 data/minecraft/loot_tables/blocks/light_blue_bed.json
 63e9ecb03a641d1e7ca63a3453f4225d7510f061 data/minecraft/loot_tables/blocks/bamboo_pressure_plate.json
 ba4b6f9e942b8a7c380b82c6cc5875b2a616053b data/minecraft/loot_tables/blocks/waxed_copper_door.json
 1f8833138e14bec637c25208b1b9af7ac20461fa data/minecraft/loot_tables/blocks/oak_pressure_plate.json
@@ -1078,6 +1079,7 @@ aa1a0d24ead8e6864513962d7dabd58a83afe9ae data/minecraft/loot_tables/blocks/honey
 a84bba85137c0a34690de8596df6de56897c501d data/minecraft/loot_tables/blocks/dark_prismarine_slab.json
 763595efbff63b5a1e1597d994787eb1167801f3 data/minecraft/loot_tables/blocks/stone.json
 a730eed0bd7cd421e75c21a7822f3ae73bd471f5 data/minecraft/loot_tables/blocks/frogspawn.json
+ed230b71d3a627c59849fd62623a3583e7920f8e data/minecraft/loot_tables/gameplay/panda_sneeze.json
 5d1f6e2a0ebff27a36b7b1195701931d3fcca00e data/minecraft/loot_tables/blocks/pink_petals.json
 93ac6498b393e251754c423ceccfa29d069f7f65 data/minecraft/loot_tables/blocks/bamboo_slab.json
 d352c3798b7b11865d05b7b18dbcda7261d4e3a9 data/minecraft/loot_tables/chests/village/village_desert_house.json
