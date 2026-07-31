@@ -1,4 +1,4 @@
-// 24w37a	2026-07-31T14:40:25.333444019	vanilla/Tags for minecraft:item
+// 24w38a	2026-07-31T14:40:41.390584098	vanilla/Tags for minecraft:item
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
@@ -22,8 +22,8 @@ cefc090b8dcff422ad66b2068860ce1910cbc9b2 data/minecraft/tags/item/boats.json
 bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/armor.json
 4945b995a6277b3529e7ea8b445e7562b8f3b096 data/minecraft/tags/item/strider_tempt_items.json
 11016ca20eef8807f79a3d6958510957c0501d65 data/minecraft/tags/item/iron_ores.json
-c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
 64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/item/repairs_leather_armor.json
+c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
 64cced731059717fbae6969a456ba5a8fe08d5ad data/minecraft/tags/item/bookshelf_books.json
 f44e286dddebca1577f70e0e424c3109c07170fb data/minecraft/tags/item/piglin_loved.json
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/repairs_diamond_armor.json
@@ -49,6 +49,7 @@ d9902302dcd6c7d67acfc5bb641cbae30cf3d03c data/minecraft/tags/item/enchantable/we
 45aac43b276cae0f4b4ca7dccad68ee2cf4f1ca9 data/minecraft/tags/item/sand.json
 c998cf5cbc50fe6ebff96350e415e3db67a94c6b data/minecraft/tags/item/wooden_pressure_plates.json
 4b636e8a202b80de17ec8352bba191763ed63d3c data/minecraft/tags/item/wooden_doors.json
+e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/item/shulker_boxes.json
 885d31455883795cf973f9a3096f1094799602bd data/minecraft/tags/item/pickaxes.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/item/bamboo_blocks.json
@@ -103,8 +104,8 @@ f8376cab397acf16d638e5a8595dc07d123925c5 data/minecraft/tags/item/planks.json
 7e7d3420a52ab3a414f357e405493da7fd6434ad data/minecraft/tags/item/chest_boats.json
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/item/stone_tool_materials.json
 555cdf03117de10eb8274ffe28d2304a4d7bfb9f data/minecraft/tags/item/shovels.json
-960ce34834c666dfb7c179496c55483e6fa1cd4b data/minecraft/tags/item/enchantable/mining.json
 736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_iron_armor.json
+960ce34834c666dfb7c179496c55483e6fa1cd4b data/minecraft/tags/item/enchantable/mining.json
 5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/item/buttons.json
 b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 0a5b887d102211a1506d0ee422fae14d13a014f3 data/minecraft/tags/item/trapdoors.json
