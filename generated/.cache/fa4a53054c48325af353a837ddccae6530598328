@@ -1,4 +1,4 @@
-// 26.1-rc-1	2026-07-31T15:15:41.978947714	vanilla/Tags for minecraft:item
+// 26.1-rc-2	2026-07-31T15:16:00.818594138	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/item/small_flowers.json
@@ -103,8 +103,8 @@ d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/pillager_prefe
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/item/wart_blocks.json
 13d81b6d0ad3432d8c6ff2772386362ecca51f2d data/minecraft/tags/item/panda_eats_from_ground.json
 237ae0010a21b6661acf9b44a30d8c6ff981d328 data/minecraft/tags/item/enchantable/chest_armor.json
-6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/cauldron_can_remove_dye.json
+6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 644d4f67864112c3d8f4fcf42290bc8f7f11db2d data/minecraft/tags/item/enchantable/vanishing.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/item/gold_ores.json
 f6d2baa21576277e20daeb8665d3985c31b70579 data/minecraft/tags/item/leaves.json
@@ -125,8 +125,8 @@ a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/item/doors.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/enchantable/trident.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/item/emerald_ores.json
 3b84566bb28aa982abda5bf5c27806edbc350c63 data/minecraft/tags/item/hoglin_food.json
-085238f24aca214ce9eb3f57ab02370467990f33 data/minecraft/tags/item/copper.json
 f7a8c659163fbac23438e07049cc42e0aa39eb9a data/minecraft/tags/item/netherite_tool_materials.json
+085238f24aca214ce9eb3f57ab02370467990f33 data/minecraft/tags/item/copper.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/item/warped_stems.json
 29c3c032c543c313785b4a38ef26be8c177d2c10 data/minecraft/tags/item/chains.json
 7bdc4e8a848d74506654066162a98604bc481d64 data/minecraft/tags/item/swords.json

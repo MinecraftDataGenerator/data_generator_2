@@ -1,4 +1,4 @@
-// 26.1-rc-1	2026-07-31T15:15:41.983846885	vanilla/Tags for minecraft:block
+// 26.1-rc-2	2026-07-31T15:16:00.822452281	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -113,8 +113,8 @@ a67dfa87931257015394b3270b56ca3c4d46a7d0 data/minecraft/tags/block/enderman_hold
 f0f92c5f0b5c5412980a4ca8436b4cb180919deb data/minecraft/tags/block/cannot_support_kelp.json
 bd6afc9c5b446cf5cb2e265f9e719059f38d9f15 data/minecraft/tags/block/supports_melon_stem.json
 b4727e6ebe055c567441285ae565462a8b1e4abc data/minecraft/tags/block/enables_bubble_column_push_up.json
-8f756b6bb97bd87b831f683f85e42cabb7f86cd3 data/minecraft/tags/block/ice.json
 f045c2575c82c58d58f4b59d5292d3ec0e53d9a0 data/minecraft/tags/block/nether_carver_replaceables.json
+8f756b6bb97bd87b831f683f85e42cabb7f86cd3 data/minecraft/tags/block/ice.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/block/small_flowers.json
 7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/block/sand.json
 8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/bats_spawnable_on.json
@@ -191,8 +191,8 @@ b4727e6ebe055c567441285ae565462a8b1e4abc data/minecraft/tags/block/supports_neth
 2d97a7b26d2a65b8dab30789033841371c7361d4 data/minecraft/tags/block/enchantment_power_transmitter.json
 0f244217291b57180a2e4cd1c2385dcab32dead4 data/minecraft/tags/block/banners.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/block/logs.json
-e1e3ce6da8b89959d5563a7fffbc8ba14c1e20cf data/minecraft/tags/block/features_cannot_replace.json
 50e0ff26fd3c916d924204208650a91a98d622fd data/minecraft/tags/block/does_not_block_hoppers.json
+e1e3ce6da8b89959d5563a7fffbc8ba14c1e20cf data/minecraft/tags/block/features_cannot_replace.json
 c0b9472da044676739361fd55bc4d413e485144e data/minecraft/tags/block/blocks_wind_charge_explosions.json
 619667c1b7332d180fa0737d335fc257a9549000 data/minecraft/tags/block/polar_bears_spawnable_on_alternate.json
 1d7aa48ce8d3237e8de4c54cdd5f57c3b5457ab2 data/minecraft/tags/block/supports_warped_fungus.json
