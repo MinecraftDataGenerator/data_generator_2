@@ -1,4 +1,4 @@
-// 1.21.1 Release Candidate 1	2026-07-31T14:38:21.723262055	vanilla/Recipes
+// 1.21.1	2026-07-31T14:38:37.3539449	vanilla/Recipes
 6bfca1504a486901fc06d6d1e38a64458c36a3d8 data/minecraft/recipe/light_blue_dye_from_blue_orchid.json
 ee8b6458601fff7f67b745741b57b390a2320cc3 data/minecraft/recipe/spruce_planks.json
 d394d82650eafc27d893ab038ee7b419b920c597 data/minecraft/recipe/dye_magenta_bed.json
@@ -231,8 +231,8 @@ c10857363fa6ca79532f7d943cdc9bfd7ed43819 data/minecraft/recipe/mangrove_slab.jso
 16b7db9688b8d6c49448dd8b95cbe09293a29803 data/minecraft/recipe/dye_purple_wool.json
 ff7213100c326f73901ae39a14b87455a0828667 data/minecraft/recipe/jungle_slab.json
 1719add10aa719995051c3760b33a3e5dff11983 data/minecraft/advancement/recipes/building_blocks/bamboo_block.json
-09740e164f4e5f6d8bc66a3f37e8cb08553f318f data/minecraft/recipe/blue_dye.json
 2507c469df0db16aa8e64bb982525bdbe42a5636 data/minecraft/advancement/recipes/brewing/blaze_powder.json
+09740e164f4e5f6d8bc66a3f37e8cb08553f318f data/minecraft/recipe/blue_dye.json
 466c39656f50ee4ed2c1ec7bf75d325c3b5e9468 data/minecraft/recipe/packed_ice.json
 a62290bfc90600b05d280ee36cca24544fb54007 data/minecraft/recipe/lapis_block.json
 33986e79db39c61e97663c1508c119dd61250747 data/minecraft/advancement/recipes/building_blocks/exposed_copper_grate.json
