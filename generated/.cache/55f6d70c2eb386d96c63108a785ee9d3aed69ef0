@@ -1,4 +1,4 @@
-// 25w41a	2026-07-31T15:05:33.580051428	vanilla/Tags for minecraft:enchantment
+// 25w42a	2026-07-31T15:05:55.923337503	vanilla/Tags for minecraft:enchantment
 c70bc791512fff340e5ae4a1177588b0964a0b75 data/minecraft/tags/enchantment/in_enchanting_table.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_infested_spawns.json
 7c893bf28447111c4e2765774fbef7830f83ee9e data/minecraft/tags/enchantment/tooltip_order.json
@@ -15,7 +15,6 @@ b9a8c15c84e333914665934683499f9d9cc6ae92 data/minecraft/tags/enchantment/exclusi
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_bee_spawns_when_mining.json
 57cf4c40c86706605ded6a65caa1440568f5b069 data/minecraft/tags/enchantment/treasure.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_ice_melting.json
-3c39c5be6d18cb8105adca1358412a4ecc8db634 data/minecraft/tags/enchantment/exclusive_set/lunge.json
 c70bc791512fff340e5ae4a1177588b0964a0b75 data/minecraft/tags/enchantment/on_traded_equipment.json
 ba4d030f4fdd436e18d3e4c3bda99cca73a3d4cf data/minecraft/tags/enchantment/prevents_decorated_pot_shattering.json
 c70bc791512fff340e5ae4a1177588b0964a0b75 data/minecraft/tags/enchantment/on_mob_spawn_equipment.json
