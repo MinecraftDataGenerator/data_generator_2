@@ -1,4 +1,4 @@
-// 1.19.3 Pre-release 2	2026-07-31T14:08:42.899570579	vanilla/Tags for minecraft:block
+// 1.19.3 Pre-release 3	2026-07-31T14:08:56.71734995	vanilla/Tags for minecraft:block
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/blocks/frogs_spawnable_on.json
 31855d768b20e56a7ad007279733d27e91becc21 data/minecraft/tags/blocks/dark_oak_logs.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/blocks/jungle_logs.json
@@ -58,8 +58,8 @@ f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/blocks/fall_damage_
 5abe17319bd9765e3b12d3ba7b7e55a124dbff30 data/minecraft/tags/blocks/mineable/axe.json
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/blocks/lush_ground_replaceable.json
 62b3c476ebacc9707c4f2ddcc513e14294fd1988 data/minecraft/tags/blocks/needs_iron_tool.json
-64b66f0912167ef1fa6a5673e31b46d65e27c9af data/minecraft/tags/blocks/dragon_immune.json
 857af144d264bb68eb7d28c87b994b1edf50a685 data/minecraft/tags/blocks/beehives.json
+64b66f0912167ef1fa6a5673e31b46d65e27c9af data/minecraft/tags/blocks/dragon_immune.json
 e81f8b8dbba774b8eb3ff4252140a7cce46870f8 data/minecraft/tags/blocks/small_flowers.json
 e552b504472828620709403e49e9aca495f2e6ef data/minecraft/tags/blocks/snow_layer_can_survive_on.json
 c0373adadbd97eced4b1af5cf94d7644a303fc3c data/minecraft/tags/blocks/wolves_spawnable_on.json
@@ -134,8 +134,8 @@ a99c319e7583b7c567fddf608bde6dff744103b2 data/minecraft/tags/blocks/walls.json
 65111dce44b1fa957a52d1cce0ae3f4eebfe803f data/minecraft/tags/blocks/frog_prefer_jump_to.json
 da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/blocks/axolotls_spawnable_on.json
 8f756b6bb97bd87b831f683f85e42cabb7f86cd3 data/minecraft/tags/blocks/ice.json
-23ee682863dab3403a7d100c972329c13cc29c35 data/minecraft/tags/blocks/wall_signs.json
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/blocks/dampens_vibrations.json
+23ee682863dab3403a7d100c972329c13cc29c35 data/minecraft/tags/blocks/wall_signs.json
 e2feff85afb7e4871204d6f5d72b8760e2780187 data/minecraft/tags/blocks/shulker_boxes.json
 734b007dbed51424bf1bd5bdb7084531d4e0f010 data/minecraft/tags/blocks/logs.json
 8764a27533bd7e677a24f1061965a780b6b3e274 data/minecraft/tags/blocks/lava_pool_stone_cannot_replace.json

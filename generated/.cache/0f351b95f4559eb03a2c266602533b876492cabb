@@ -1,8 +1,8 @@
-// 1.19.3 Pre-release 2	2026-07-31T14:08:42.896496051	update_1_20/Tags for minecraft:block
+// 1.19.3 Pre-release 3	2026-07-31T14:08:56.714480962	update_1_20/Tags for minecraft:block
 daa8395d03959ea75580e808e829c5f83a49330d data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/all_signs.json
-cf90c563e751e124dd4d698f10e092ea27dc1ee2 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_doors.json
-b6bbcc7e53f8a8ebbb2562ff4e2891b413de4c1f data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/fence_gates.json
 3518927132422cba83e4a7a855a11323fbab302d data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/axe.json
+b6bbcc7e53f8a8ebbb2562ff4e2891b413de4c1f data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/fence_gates.json
+cf90c563e751e124dd4d698f10e092ea27dc1ee2 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_doors.json
 9a63d88cf08452a9223374f12e377a986e92d707 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/standing_signs.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/bamboo_blocks.json
 78b4241f82e7add7dc06bbc32f5396f5f9cb4405 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_stairs.json
