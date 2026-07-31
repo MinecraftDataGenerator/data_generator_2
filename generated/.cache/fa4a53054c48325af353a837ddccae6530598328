@@ -1,4 +1,4 @@
-// 26.2-pre-4	2026-07-31T15:23:25.755038521	vanilla/Tags for minecraft:item
+// 26.2-pre-5	2026-07-31T15:23:46.21458567	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -9,8 +9,8 @@ b9d0a0f22210c8764d7f52b92e0ac6983fb1536c data/minecraft/tags/item/horse_food.jso
 105727dc444ddc319293c250e6c64f197b4ba151 data/minecraft/tags/item/frog_food.json
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/diamond_tool_materials.json
 a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisonous_food.json
-587c54e473e14c5f06b1e5cff5be44068aeba6d3 data/minecraft/tags/item/copper_golem_statues.json
 17ba01ef695bf5921b47243b56fd226dca024488 data/minecraft/tags/item/lightning_rods.json
+587c54e473e14c5f06b1e5cff5be44068aeba6d3 data/minecraft/tags/item/copper_golem_statues.json
 7c7d628823aeb153c19b28c52827f0b6a399e5d7 data/minecraft/tags/item/breaks_decorated_pots.json
 eaa103df61588e3f3fc65f53de2a329861423539 data/minecraft/tags/item/boats.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/item/lapis_ores.json
@@ -92,8 +92,8 @@ e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glas
 5671028f6cec1b1c772da1cd507313c31a738ac7 data/minecraft/tags/item/dampens_vibrations.json
 6fdd5c6baf32268057b79f15d383cba374ad482a data/minecraft/tags/item/sulfur_cube_archetype/explosive.json
 6b369f3e01c478f5ecb879b9b5d66757d78e5a8f data/minecraft/tags/item/enchantable/head_armor.json
-9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/cow_food.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/drowned_preferred_weapons.json
+9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/cow_food.json
 8161d1797f25c171fe19ce7472d59eaac4675b95 data/minecraft/tags/item/nautilus_taming_items.json
 78d52a15257f82784b70913a5e08d27f0ef58f42 data/minecraft/tags/item/happy_ghast_tempt_items.json
 3c14928ee4a5428a0856e205485230539f706d8f data/minecraft/tags/item/enchantable/fishing.json

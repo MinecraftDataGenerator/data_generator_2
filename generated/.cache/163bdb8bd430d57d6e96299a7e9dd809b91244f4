@@ -1,4 +1,4 @@
-// 26.2-pre-4	2026-07-31T15:23:25.759850237	vanilla/Tags for minecraft:entity_type
+// 26.2-pre-5	2026-07-31T15:23:46.222694517	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json
@@ -23,8 +23,8 @@ bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/deflect
 4c073b476785113705dfd3c6b286a337ddbd56b0 data/minecraft/tags/entity_type/beehive_inhabitors.json
 1a9ff8b6300d09673692b0b494e91f2683c5c4d8 data/minecraft/tags/entity_type/cannot_be_age_locked.json
 d108935ea565f22643f51f9b7f152a08b9a831d0 data/minecraft/tags/entity_type/not_scary_for_pufferfish.json
-5bdb0128416480b595d5ceb36c299533cdc2fd2e data/minecraft/tags/entity_type/can_equip_harness.json
 58748f381d8f3508e8f58a62b0d64e706b06bc78 data/minecraft/tags/entity_type/nautilus_hostiles.json
+5bdb0128416480b595d5ceb36c299533cdc2fd2e data/minecraft/tags/entity_type/can_equip_harness.json
 8629ab74d7e233ee955826685af6d6e0b912cac4 data/minecraft/tags/entity_type/axolotl_always_hostiles.json
 1ca3e9485b35aa306b8137e5b6b2f90e4580aa99 data/minecraft/tags/entity_type/cannot_be_pushed_onto_boats.json
 e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_friends.json
