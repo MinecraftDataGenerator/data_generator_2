@@ -1,4 +1,4 @@
-// 26.3-snapshot-1	2026-07-31T15:25:33.371888329	vanilla/Tags for minecraft:villager_trade
+// 26.3-snapshot-2	2026-07-31T15:26:01.340367276	vanilla/Tags for minecraft:villager_trade
 8e206eb5b523d15247b9c247720d2ede19c6f388 data/minecraft/tags/villager_trade/common_smith/level_2.json
 8eafe6516e5fae133a13313f56473f297be45385 data/minecraft/tags/villager_trade/librarian/level_5.json
 b95fffffb7de49538ebc6cc79772e4dbd7644071 data/minecraft/tags/villager_trade/fisherman/level_5.json
@@ -8,7 +8,7 @@ a52e2e6af8278cc0e6b723f49c26782842ea36e9 data/minecraft/tags/villager_trade/armo
 a8e4ed4fab6c6c026e8e453f1a8f723edab8ec61 data/minecraft/tags/villager_trade/leatherworker/level_3.json
 1084e2158f5b8a0e1a6c19ede608411fd0879cb8 data/minecraft/tags/villager_trade/butcher/level_5.json
 f60986a29e5d9a2091706550e7fcdc0110eb7603 data/minecraft/tags/villager_trade/weaponsmith/level_4.json
-2443341959cfe2a52f69944d912a7422b2901cbc data/minecraft/tags/villager_trade/wandering_trader/uncommon.json
+e966bb524ef46e9d0c0e48cad30c471bd2f979d5 data/minecraft/tags/villager_trade/wandering_trader/uncommon.json
 489836d9fea7a3f26c67a146c0d263253f7d0dee data/minecraft/tags/villager_trade/farmer/level_5.json
 2fdf888fea9fddbba8f24cc3c0119114a701395a data/minecraft/tags/villager_trade/shepherd/level_1.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/villager_trade/common_smith/level_3.json
@@ -48,8 +48,8 @@ e36a29622bc248fbe7bab0a2e55f3f6dcd95aec1 data/minecraft/tags/villager_trade/cler
 f5c014eab97970765e430cf3b18932e19fdce897 data/minecraft/tags/villager_trade/farmer/level_3.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/villager_trade/common_smith/level_5.json
 7eadb76f46134e102b003a787b5216b52dc61420 data/minecraft/tags/villager_trade/butcher/level_3.json
-7ffcec19da8beaa91838c7ac64b54c006805a204 data/minecraft/tags/villager_trade/shepherd/level_4.json
 725e9358f2f0c0e8c3a57ea0f25894b7908b64a2 data/minecraft/tags/villager_trade/farmer/level_2.json
+7ffcec19da8beaa91838c7ac64b54c006805a204 data/minecraft/tags/villager_trade/shepherd/level_4.json
 dbe77232a971e90801318028ff9284560d220f97 data/minecraft/tags/villager_trade/cartographer/level_3.json
 aa52e0a9630233cae88b21880f94d798f802dae7 data/minecraft/tags/villager_trade/butcher/level_2.json
 d8b29f4fc9c37ef0312168c62a73360a2c25d026 data/minecraft/tags/villager_trade/mason/level_3.json

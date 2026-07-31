@@ -1,4 +1,4 @@
-// 26.3-snapshot-1	2026-07-31T15:25:33.359476572	vanilla/Advancements
+// 26.3-snapshot-2	2026-07-31T15:26:01.32786891	vanilla/Advancements
 722f45171920e40a359658d6f1a358d280dafbf9 data/minecraft/advancement/story/upgrade_tools.json
 30cf01fc718cbe954eb77ead9d393814cad61b0e data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json
 fb1623e5bb386f83c03abfdf53264d6b6dfc5b06 data/minecraft/advancement/end/root.json
@@ -95,8 +95,8 @@ d01aab2f53f17efbbb326c174cbf7f700aeb8f3f data/minecraft/advancement/story/follow
 1750c13e4bd7200162a60261c6a9fd5ee427de88 data/minecraft/advancement/nether/ride_strider.json
 a9b802f1a64df1f6c83934fbb700c472464aa41c data/minecraft/advancement/husbandry/tactical_fishing.json
 f180ba34a32cd869be5a663fdbb8be1fcd69b098 data/minecraft/advancement/husbandry/tadpole_in_a_bucket.json
-6d564f6a6985e23e0ca61e322369d1821ee4cc89 data/minecraft/advancement/husbandry/wax_off.json
 c4040ecde04f4b95a0884d42fd57938128fe892b data/minecraft/advancement/husbandry/axolotl_in_a_bucket.json
+6d564f6a6985e23e0ca61e322369d1821ee4cc89 data/minecraft/advancement/husbandry/wax_off.json
 50abc51d2f26df3558444a66e556d978a7f93bca data/minecraft/advancement/adventure/trim_with_all_exclusive_armor_patterns.json
 111be21425c2a4091233c8f31ce5ffdd545184ac data/minecraft/advancement/end/enter_end_gateway.json
 4ac5d31d4f15e2a831158243af852b4cdda1c902 data/minecraft/advancement/husbandry/balanced_diet.json
