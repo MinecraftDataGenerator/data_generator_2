@@ -1,4 +1,4 @@
-// 26.1	2026-07-31T15:16:50.13445638	vanilla/Default Components
+// 26.1.1-rc-1	2026-07-31T15:17:09.278526956	vanilla/Default Components
 36d2289e2c51a4a07b49d784f609f16b950f3c90 reports/minecraft/components/item/dead_brain_coral_fan.json
 11939540e907f9960265fb479a09aebaa2e62d65 reports/minecraft/components/item/infested_stone_bricks.json
 bb15e89633ba13f3393a39033dfa1f7195f79f47 reports/minecraft/components/item/beetroot.json
@@ -217,8 +217,8 @@ f959fd722fa0fb900b1829b68da505aa50c5c3a4 reports/minecraft/components/item/stone
 00c9c89705c7a423fee71bce6e6ad2a68acd260f reports/minecraft/components/item/yellow_terracotta.json
 d5174a2530fa05207bd60ee9c2e352e651205bcf reports/minecraft/components/item/crafting_table.json
 81717aa04a415e79300d756c020f7af98c0499e8 reports/minecraft/components/item/cherry_planks.json
-2e3e22c83a7fe397cf33591f6ce811465fe68be5 reports/minecraft/components/item/diamond_pickaxe.json
 36c5519061754e073148eb761ce5b5d472084af5 reports/minecraft/components/item/pink_candle.json
+2e3e22c83a7fe397cf33591f6ce811465fe68be5 reports/minecraft/components/item/diamond_pickaxe.json
 06f4708899713273f7245137f7eb93f1108de457 reports/minecraft/components/item/blue_ice.json
 28201c57191efe1228a8c7e22ca4baecc3a9669e reports/minecraft/components/item/bucket.json
 8b892eed9cf3a0364aa57af81af823e751a4747b reports/minecraft/components/item/skull_banner_pattern.json
@@ -777,8 +777,8 @@ d8e1c9035b187e0fefb6e45c02d1fc7675a721a8 reports/minecraft/components/item/acaci
 0cdec16c1d9c687be12981ae0504d75293fa801b reports/minecraft/components/item/tube_coral.json
 b9fd4be4afe48f0b4c4c4e01bb9b590a09104846 reports/minecraft/components/item/calibrated_sculk_sensor.json
 17b5166204719a9f7ab72f7fe0e1a7f3e8330b18 reports/minecraft/components/item/pearlescent_froglight.json
-669ea33536e00431ea22bb18184331c11ad80a2a reports/minecraft/components/item/podzol.json
 881bef298542c0f825a034f8df6317902644550b reports/minecraft/components/item/waxed_oxidized_cut_copper_slab.json
+669ea33536e00431ea22bb18184331c11ad80a2a reports/minecraft/components/item/podzol.json
 7d6ff45245e2db341140b61aee81fabcc31480c5 reports/minecraft/components/item/orange_glazed_terracotta.json
 e1ee4df0635f6814c72216709f991220ae58dc35 reports/minecraft/components/item/brick_wall.json
 21c65fb62578ac038b67cf4d15567dd0374ccdd6 reports/minecraft/components/item/gray_stained_glass.json

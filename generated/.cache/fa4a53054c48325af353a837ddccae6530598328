@@ -1,4 +1,4 @@
-// 26.1	2026-07-31T15:16:50.144076753	vanilla/Tags for minecraft:item
+// 26.1.1-rc-1	2026-07-31T15:17:09.291119825	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/item/small_flowers.json
@@ -165,15 +165,15 @@ f8b33bdbdce4a74f9b09d6755c47411a750a0d4e data/minecraft/tags/item/lanterns.json
 8bc7e4604ea01b7d0b14daf858785e5b46d91c8b data/minecraft/tags/item/shovels.json
 960ce34834c666dfb7c179496c55483e6fa1cd4b data/minecraft/tags/item/enchantable/mining.json
 5338100e594200c9c08cc4228d31ae3b14f5bdd1 data/minecraft/tags/item/buttons.json
-b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 6222fd0d7d2ce08ee1f70be68a61f4e167dda650 data/minecraft/tags/item/copper_tool_materials.json
+b766bb3d2459cc6abff394829a4bde3d82596311 data/minecraft/tags/item/decorated_pot_sherds.json
 d32efc3396c94cf043c5aa0ad11b4671a52cdeb4 data/minecraft/tags/item/enchantable/lunge.json
 f31f05943153cd4c1a2e0eae1982ae48238089c7 data/minecraft/tags/item/decorated_pot_ingredients.json
 533400376c7ce584616f3af5acf77d2b925e82b1 data/minecraft/tags/item/harnesses.json
 02dfdb41688ccea8169a8d046943461f0aa3c361 data/minecraft/tags/item/fox_food.json
+f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/item/diamond_ores.json
 620fc7b39fd41c75ee966f17103bf6b9debc80c9 data/minecraft/tags/item/bee_food.json
 4a86b6a6b50a249765e637a8e93fd0e09c01b1a7 data/minecraft/tags/item/piglin_safe_armor.json
-f28dc9f2c7d071fef84fb760a59427d564938731 data/minecraft/tags/item/diamond_ores.json
 a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/item/noteblock_top_instruments.json
 736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/iron_tool_materials.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/item/fences.json

@@ -1,4 +1,4 @@
-// 26.1	2026-07-31T15:16:50.147560693	vanilla/Tags for minecraft:block
+// 26.1.1-rc-1	2026-07-31T15:17:09.295756491	vanilla/Tags for minecraft:block
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
 a5350542ad1610ab7b06a994e138612b780495e3 data/minecraft/tags/block/base_stone_nether.json
 c26c0325f2dc7400a5776499a15a74cee043591e data/minecraft/tags/block/mob_interactable_doors.json
@@ -52,8 +52,8 @@ a7909c7163d85f8e0b928c566fc0f89cc89e9b04 data/minecraft/tags/block/prevent_mob_s
 f0f92c5f0b5c5412980a4ca8436b4cb180919deb data/minecraft/tags/block/cannot_support_seagrass.json
 b965cf1cefd134257c07643683f8547e274e026e data/minecraft/tags/block/mud.json
 65bff720ec9fa0ed537b2bf6462fc181a94ad90c data/minecraft/tags/block/supports_nether_sprouts.json
-11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_wooden_tool.json
 bb5968e9752253a1de8aed7529e1d9e29ddee6a5 data/minecraft/tags/block/ice_spike_replaceable.json
+11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_wooden_tool.json
 b73e2e921b30b8fdd8e7ef278ca3cb68410ec6f3 data/minecraft/tags/block/slabs.json
 e096b0c31004c577be60ad20cf513bd59bbaed94 data/minecraft/tags/block/wall_signs.json
 67b6ac293119b51c49d06c2ebc69a49e94065320 data/minecraft/tags/block/support_override_cactus_flower.json
@@ -78,8 +78,8 @@ e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/triggers_ambi
 7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/block/portals.json
 9fa8e169d8e22baeaa4b0c96ba6ab87ab881a4cd data/minecraft/tags/block/wolves_spawnable_on.json
 31c793313c9b85d3bd3d53198d21098ea2adaf78 data/minecraft/tags/block/camel_sand_step_sound_blocks.json
-ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/block/concrete_powder.json
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/block/spruce_logs.json
+ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/block/concrete_powder.json
 da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spawnable_on.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_netherite_tool.json
 3358796e1ddbb79ccb13467bfc720a95b4a19352 data/minecraft/tags/block/enchantment_power_provider.json
@@ -159,8 +159,8 @@ cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_s
 110040194828a0fac26455799a86fd02e3e731a1 data/minecraft/tags/block/supports_lily_pad.json
 23f8b225b40273aa217361a5f80d59c954a3da1f data/minecraft/tags/block/mineable/hoe.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/block/wool_carpets.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/block/fences.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/block/nylium.json
 142370368e43b7d4da321528401df987a6ce35d4 data/minecraft/tags/block/crystal_sound_blocks.json
 b11fa6e29929f2e7106b38b86b6fa23fffae3894 data/minecraft/tags/block/goats_spawnable_on.json
