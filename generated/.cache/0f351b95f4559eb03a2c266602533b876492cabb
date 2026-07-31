@@ -1,4 +1,4 @@
-// 1.19.4 Pre-release 4	2026-07-31T14:12:46.953917329	update_1_20/Tags for minecraft:block
+// 1.19.4 Release Candidate 1	2026-07-31T14:13:01.215644825	update_1_20/Tags for minecraft:block
 3518927132422cba83e4a7a855a11323fbab302d data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/axe.json
 eee0da0f4d390aeb43c92710793e67c57956776e data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/mineable/hoe.json
 ebaf74aa861968ef9c407fc0446d5bc8d443cf81 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/small_flowers.json
@@ -13,12 +13,12 @@ ee03b23ed0cc5aab63222d46f23c94ead6450e8c data/minecraft/datapacks/update_1_20/da
 eec37846ab2c083341057273cdf03ad47909fad7 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/logs_that_burn.json
 d949ba976eb4b4d5c638bb692b434a2814421fd4 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_slabs.json
 b52423f5068cc8fb52ca34b247ad0626b6d0c532 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_trapdoors.json
-f549715bfd65ed54ca643077696fcff45e31cb72 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/inside_step_sound_blocks.json
 daa8395d03959ea75580e808e829c5f83a49330d data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/all_signs.json
+f549715bfd65ed54ca643077696fcff45e31cb72 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/inside_step_sound_blocks.json
 eee0da0f4d390aeb43c92710793e67c57956776e data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/flowers.json
 d3b5b1c0dfd9a925ad78fe2e69f1036ac11f4f3f data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/crops.json
-92071585c8aaf0d9aa4b0ac0b9e924f155e01696 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_doors.json
 2893f986f28b5d804d403f95b9b2b61e776bab7c data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/fence_gates.json
+92071585c8aaf0d9aa4b0ac0b9e924f155e01696 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_doors.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/bamboo_blocks.json
 aac6b30b1b49e4964f21b38b74f2b570c360997f data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/standing_signs.json
 4e17204999bfb36e12714e523975c4ba04eeae2b data/minecraft/datapacks/update_1_20/data/minecraft/tags/blocks/wooden_fences.json
