@@ -1,4 +1,4 @@
-// 1.21.4 Pre-Release 3	2026-07-31T14:46:19.89994994	vanilla/Loot Tables
+// 1.21.4 Release Candidate 1	2026-07-31T14:46:43.077773881	vanilla/Loot Tables
 6a9c523b197b53b50ee100e38af9bba416c8381d data/minecraft/loot_table/gameplay/chicken_lay.json
 0f905afcf3733f9f7ce32d8b48e4a2041b7aefdd data/minecraft/loot_table/blocks/waxed_oxidized_copper.json
 c4dbb75007d3c56c0793952d0e1581a79319e798 data/minecraft/loot_table/blocks/birch_wood.json
@@ -139,8 +139,8 @@ febed2f137956c075d2ea0f72e7825a002cbb430 data/minecraft/loot_table/blocks/acacia
 4c2dcc6d99816e9499ec8d6bd8bfdd66d12ae4ed data/minecraft/loot_table/entities/sheep.json
 21813e433dcf70828c1ecf18896242570a52b472 data/minecraft/loot_table/blocks/prismarine_stairs.json
 ac9b49bbec4cb872c361fc026589d22faf9d406a data/minecraft/loot_table/blocks/light_blue_wool.json
-5b8c5dbabe215810e756d8d4deb66f3b9ca2ec31 data/minecraft/loot_table/blocks/oxidized_cut_copper_stairs.json
 31a43a46c0a4e72e393afdf0553f6b519bcd9a4c data/minecraft/loot_table/blocks/potted_dark_oak_sapling.json
+5b8c5dbabe215810e756d8d4deb66f3b9ca2ec31 data/minecraft/loot_table/blocks/oxidized_cut_copper_stairs.json
 ee2a29204be281b6ecca3d700f11dde354902e69 data/minecraft/loot_table/blocks/stone_slab.json
 ff172aa27b96029df5842d0203c8209bfe3dc157 data/minecraft/loot_table/blocks/sculk_vein.json
 e229b7d832e621ad8518f66214be21e6ce9b56ac data/minecraft/loot_table/blocks/birch_slab.json
@@ -500,8 +500,8 @@ cca214a1dc25565bea71731e6a38940f45bc1645 data/minecraft/loot_table/blocks/fire_c
 4ff02ac7e24c1de8db847416106c152cc8888c8f data/minecraft/loot_table/blocks/purple_glazed_terracotta.json
 575bc879086958ee15e8ab20d4044deec8d1daad data/minecraft/loot_table/blocks/crimson_hyphae.json
 ff3c24076c50c002c4e50f4a40130cb3e4cf1fd2 data/minecraft/loot_table/blocks/exposed_cut_copper.json
-91db3c2461009152cc143529b494d28833a635b9 data/minecraft/loot_table/blocks/pitcher_plant.json
 0782a34e32a9db7a739752cfd61be691cd773ef7 data/minecraft/loot_table/blocks/stripped_cherry_log.json
+91db3c2461009152cc143529b494d28833a635b9 data/minecraft/loot_table/blocks/pitcher_plant.json
 e6bd2944608361936c8a1898ede4444f85814837 data/minecraft/loot_table/blocks/gilded_blackstone.json
 0c86c37b2ccfc66e5f5d27b7ecdbf9f7da58b174 data/minecraft/loot_table/blocks/piston.json
 e8a52c44294efaeaca3deb3cf522210e4fcdc84b data/minecraft/loot_table/blocks/blue_carpet.json
