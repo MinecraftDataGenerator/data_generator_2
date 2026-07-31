@@ -1,4 +1,4 @@
-// 1.20 Pre-release 1	2026-07-31T14:16:08.129470247	vanilla/Loot Tables
+// 1.20 Pre-release 2	2026-07-31T14:16:22.89599305	vanilla/Loot Tables
 54c3a075fffe891f5304f78431b399591c21254d data/minecraft/loot_tables/entities/pillager.json
 c7a410c9af5115f9e305d37401560439823f174c data/minecraft/loot_tables/blocks/light_gray_terracotta.json
 646e3c32bdf5f578758ceaa773aa590decc61c97 data/minecraft/loot_tables/blocks/mud_bricks.json
@@ -919,8 +919,8 @@ dd1552eefd990f860aef37cacf531d4f581b8fbc data/minecraft/loot_tables/blocks/fire.
 d328a65612bb8b7e9d8e06a185e2fa939fe52501 data/minecraft/loot_tables/blocks/infested_deepslate.json
 67366971b205369a145a5ff7425e34e4d11703ad data/minecraft/loot_tables/blocks/cut_copper.json
 6183a0083b5d553316fd7858c8f5ef7687703a86 data/minecraft/loot_tables/blocks/magma_block.json
-db33a6718e20467bf0649e3a89e12fb5c253f5d6 data/minecraft/loot_tables/blocks/deepslate_tile_slab.json
 c2aa7f78f9cb0f047835704ba07e8b29a64d0df3 data/minecraft/loot_tables/blocks/pink_concrete.json
+db33a6718e20467bf0649e3a89e12fb5c253f5d6 data/minecraft/loot_tables/blocks/deepslate_tile_slab.json
 ea09f8b9741125e6dbd0a6a70d2d936973990f1c data/minecraft/loot_tables/blocks/bamboo_block.json
 4dc68479d14d6650da5454555b0f576d68d6f185 data/minecraft/loot_tables/blocks/mangrove_fence_gate.json
 780a4c719ea76f70a155509b3f76833abf5efbf2 data/minecraft/loot_tables/blocks/dead_bubble_coral_block.json
@@ -1052,8 +1052,8 @@ ea677d0a2798844a319089fce850c21e06733a34 data/minecraft/loot_tables/blocks/waxed
 206a5e07ea875fa95b36fe18098d9c7b68130e89 data/minecraft/loot_tables/blocks/cave_vines_plant.json
 3702b8e1f73f43be7dd722d0f013e76a0ea121ac data/minecraft/loot_tables/blocks/waxed_oxidized_cut_copper.json
 87c1be3dc8e7eb5f4397c268efcf81470f629f63 data/minecraft/loot_tables/entities/silverfish.json
-a1907666d67586f32ac3689feaf47500d022ae1c data/minecraft/loot_tables/blocks/mangrove_sign.json
 52f08265fbe5842952d7ebdf29d07bd889fe3081 data/minecraft/loot_tables/blocks/light_gray_carpet.json
+a1907666d67586f32ac3689feaf47500d022ae1c data/minecraft/loot_tables/blocks/mangrove_sign.json
 ee9e7f3f636d04492cc8dfd33d047c5c94f24bb3 data/minecraft/loot_tables/blocks/white_terracotta.json
 3bcf4ca5237f63bfbb2cd3213a57bd9b3c1b268a data/minecraft/loot_tables/blocks/purple_concrete_powder.json
 255b95ec5c1888d40631a100ab2c3684ad187750 data/minecraft/loot_tables/blocks/deepslate_lapis_ore.json
