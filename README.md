@@ -40,6 +40,17 @@ The `manifest.py` script fetches the official Minecraft version manifest from Mo
 python manifest.py
 ```
 
+**Python dependencies:**
+
+The scripts in this repository require the Python requests library. Install dependencies with pip:
+
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+The GitHub Actions workflow also installs these dependencies automatically when present (see .github/workflows/update-minecraft.yml).
+
 **Output example:**
 ```
 release=26.2

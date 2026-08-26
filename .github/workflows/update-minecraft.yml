@@ -30,6 +30,18 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            pip-
+
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then python -m pip install --upgrade pip && pip install -r requirements.txt; else echo "No requirements.txt found, skipping pip install"; fi
+
       - name: Setup Java (required by data generator)
         uses: actions/setup-java@v4
         with:
