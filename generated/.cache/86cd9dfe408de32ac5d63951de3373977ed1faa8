@@ -1,4 +1,4 @@
-// 26.3-snapshot-9	2026-08-26T12:03:58.732945468	vanilla/Tags for minecraft:block
+// 26.3-snapshot-10	2026-08-26T12:04:14.821805873	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/block/concrete_slabs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
@@ -74,6 +74,7 @@ c715bf7a2af064dd438c1329fc0b1976373e9a1a data/minecraft/tags/block/wall_signs.js
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/block/candles.json
 80ca0014239f0046a5e01ce25e5f173990cdb610 data/minecraft/tags/block/sculk_replaceable_world_gen.json
 882f7161808179f92ed953b9200fdaf74eec6c36 data/minecraft/tags/block/infiniburn_overworld.json
+24573ff5727cf2d96b7b00280cc07fc1ef1e900e data/minecraft/tags/block/conduit_effect_block.json
 3c4ac3776003f4217a20f6ed7a55765569f41a87 data/minecraft/tags/block/beacon_base_blocks.json
 991b4b13f517a78c2fdff9d9a6e631ecaf58a920 data/minecraft/tags/block/blocks_lava_fire_spread.json
 4b5f3ef91668afe7be45b3949ecab5d666d7977f data/minecraft/tags/block/completes_find_tree_tutorial.json
@@ -149,7 +150,7 @@ f835cdeac806ff176e388bdfc26f543b95288939 data/minecraft/tags/block/invalid_spawn
 c882f1fc924c7ace24f2ece6ec48f727ede793e9 data/minecraft/tags/block/concrete.json
 d772e288e7520c6974ec3238c6aa3ecd2b8e686b data/minecraft/tags/block/trail_ruins_replaceable.json
 2caaea18fac536a215b6c7605223c78256f6c345 data/minecraft/tags/block/inside_step_sound_blocks.json
-f66fd70acd1a5b973744bbd4d2871c6c3ec1209b data/minecraft/tags/block/replaceable_by_trees.json
+304b705eb98005ae0c7539ed2528d7aa2e888547 data/minecraft/tags/block/replaceable_by_trees.json
 587c54e473e14c5f06b1e5cff5be44068aeba6d3 data/minecraft/tags/block/copper_golem_statues.json
 8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/dripstone_replaceable_blocks.json
 9c8472a64a3dcde9ed2c0ad0bb67999d78d40431 data/minecraft/tags/block/grass_blocks.json
@@ -197,8 +198,8 @@ cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_s
 dcf51b0ea0186b6d5470c530e7c6375c9f2f5749 data/minecraft/tags/block/mineable/hoe.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/block/wool_carpets.json
 991b4b13f517a78c2fdff9d9a6e631ecaf58a920 data/minecraft/tags/block/blocks_motion_in_heightmap.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/block/fences.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
 2bfdd47c936c1bc7e9948da6d2ad59e4cb9a11cb data/minecraft/tags/block/nylium.json
 142370368e43b7d4da321528401df987a6ce35d4 data/minecraft/tags/block/crystal_sound_blocks.json
 b11fa6e29929f2e7106b38b86b6fa23fffae3894 data/minecraft/tags/block/goats_spawnable_on.json
@@ -212,6 +213,7 @@ d360d5c5c3d215bc124823b456d4dcfda62f4430 data/minecraft/tags/block/moss_blocks.j
 382a0c8f43b3cf9557290daf4f352695e7c44bb2 data/minecraft/tags/block/valid_spawn.json
 1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 da2f2099b67874757261a241b2b6e9b12e182749 data/minecraft/tags/block/cannot_place_basalt_pillar_on.json
+26d89c4e3cfa827f5d2a7ef1ef43ec4c8c63cd6e data/minecraft/tags/block/nether_portal_frame.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
 ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 6bfdb8f02c5c5d180b5747096f4c3c755768ee0f data/minecraft/tags/block/cushion_uses_collision_shape.json

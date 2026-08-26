@@ -1,4 +1,4 @@
-// 26.3-snapshot-9	2026-08-26T12:03:58.718728831	vanilla/Tags for minecraft:item
+// 26.3-snapshot-10	2026-08-26T12:04:14.804535175	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -159,7 +159,7 @@ f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/repairs_gold_a
 ea2b7aa418c563ab8f02c06883d3c45e0ec7435c data/minecraft/tags/item/happy_ghast_food.json
 ad5bb18bdc60a11ee86a7e6739c94bc4b2213592 data/minecraft/tags/item/sulfur_cube_archetype/fast_sliding.json
 d6cf88ab73624a67b1cffc6e2fe8d4b95b053a79 data/minecraft/tags/item/sulfur_cube_archetype/sticky.json
-11ef3bd84dce31c43ec02747396ee39edb91aa0a data/minecraft/tags/item/clonable_maps.json
+d2dd1a0654037b68d6a69fbb241fbe22fc86d73f data/minecraft/tags/item/clonable_maps.json
 95395a843ea1808b5232c2ee3bac76fd4b9836a8 data/minecraft/tags/item/walls.json
 84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 29adee991374ea810bcde93bfb5cd54fe65ab9a5 data/minecraft/tags/item/wooden_stairs.json
