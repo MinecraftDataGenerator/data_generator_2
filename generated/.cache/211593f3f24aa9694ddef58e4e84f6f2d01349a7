@@ -1,4 +1,4 @@
-// 26.3-snapshot-5	2026-07-31T15:27:07.612910385	vanilla/Tags for minecraft:worldgen/biome
+// 26.3-snapshot-6	2026-08-26T12:03:09.877896917	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -25,8 +25,8 @@ afd9da16b8e57511d3b12c69ccd4555d71ebb29f data/minecraft/tags/worldgen/biome/has_
 378840c455ad2277df61b86384bba36f3ec8b253 data/minecraft/tags/worldgen/biome/without_wandering_trader_spawns.json
 2ea2f6b4e52c4ebdcb58dd12967cff289aefa815 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_meadow.json
 eac36e45c24e9f2ff3c1f50ad2ea4fc921892916 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_taiga.json
-65aef629239b5fa923be6767bb43c837ebb35e8a data/minecraft/tags/worldgen/biome/required_ocean_monument_surrounding.json
 f9c1e0a4e9110960f437188d04c291cd2ff37cf0 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_dappled_forest.json
+65aef629239b5fa923be6767bb43c837ebb35e8a data/minecraft/tags/worldgen/biome/required_ocean_monument_surrounding.json
 92d2cbd84ddef8c77972b539dd8c7cffaa131aed data/minecraft/tags/worldgen/biome/more_frequent_drowned_spawns.json
 1d08d3b15c59b4c742161ec69693b66fc2ef75d6 data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_cold.json
 f85bfa0d4b462706e486bac541e720ebc630330c data/minecraft/tags/worldgen/biome/is_jungle.json
@@ -44,8 +44,8 @@ c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_
 325e601b9c75d59207dfffc1a0149d9e965bd45e data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_mountain.json
 f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_structure/village_desert.json
 b020f6cdcd2d955793278b2f89a178a1d31e599a data/minecraft/tags/worldgen/biome/has_structure/stronghold.json
-6481e28398e6c2b52c711a1de3a995ce9dbad12b data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_old_growth_birch_forest.json
 0394cc29b21ea80f88b2f36ea3f7dfb6c99192ff data/minecraft/tags/worldgen/biome/is_beach.json
+6481e28398e6c2b52c711a1de3a995ce9dbad12b data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_old_growth_birch_forest.json
 45e2314b6fbf2e847bd70c163e678e0e756a1640 data/minecraft/tags/worldgen/biome/mineshaft_blocking.json
 4301fee991060a44225e5c74bedfd95e386538e1 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_flower_forest.json
 15343ca7e7931ca3b093f52c77b5d7fae920fed9 data/minecraft/tags/worldgen/biome/has_structure/nether_fossil.json
