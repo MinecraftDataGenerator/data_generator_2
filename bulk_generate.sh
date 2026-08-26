@@ -74,10 +74,13 @@ for version in "${ALL_VERSIONS[@]}"; do
     fi
 
     # Check if branch already exists locally or remotely
-    if git rev-parse --verify --quiet "refs/heads/$branch_name" >/dev/null || \
-       git rev-parse --verify --quiet "refs/remotes/origin/$branch_name" >/dev/null; then
-        echo "--> Branch '$branch_name' (version: $version) already exists. Skipping..."
+    if git rev-parse --verify --quiet "refs/heads/$branch_name" >/dev/null; then
+        echo "--> Branch '$branch_name' (version: $version) already exists locally. Skipping..."
         previous_branch="$branch_name"
+        continue
+    elif git rev-parse --verify --quiet "refs/remotes/origin/$branch_name" >/dev/null; then
+        echo "--> Branch '$branch_name' exists on origin. Skipping (will base new branches on origin/$branch_name)."
+        previous_branch="origin/$branch_name"
         continue
     fi
 
