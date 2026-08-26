@@ -72,8 +72,7 @@ jobs:
           rm -rf /tmp/datagenerator || true
           ln -s "$GITHUB_WORKSPACE/.mc_cache" /tmp/datagenerator
 
-      - name: Make bulk script executable and run
+      - name: Run bulk_generate.sh
         run: |
-          chmod +x ./bulk_generate.sh
-          ./bulk_generate.sh
+          bash ./bulk_generate.sh
 
