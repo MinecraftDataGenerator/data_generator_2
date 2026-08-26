@@ -1,0 +1,67 @@
+name: Scheduled Minecraft Data Bulk Generate
+
+on:
+  schedule:
+    # Runs daily at 02:00 and 14:00 UTC (twice daily)
+    - cron: '0 2,14 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  bulk-generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Configure git user for actions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Setup Java (required by data generator)
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Compute manifest hash for cache key
+        id: manifest
+        run: |
+          set -e
+          python3 manifest.py > manifest.out
+          VERSIONS_LINE=$(grep '^versions=' manifest.out | cut -d= -f2 || true)
+          echo "versions=$VERSIONS_LINE" >> $GITHUB_OUTPUT
+          HASH=$(printf "%s" "$VERSIONS_LINE" | sha1sum | cut -d' ' -f1)
+          echo "hash=$HASH" >> $GITHUB_OUTPUT
+
+      - name: Restore server JARs cache
+        uses: actions/cache@v4
+        with:
+          path: .mc_cache
+          key: mc-jars-${{ steps.manifest.outputs.hash }}
+          restore-keys: |
+            mc-jars-
+
+      - name: Prepare cache directory and symlink to /tmp/datagenerator
+        run: |
+          mkdir -p "$GITHUB_WORKSPACE/.mc_cache"
+          rm -rf /tmp/datagenerator || true
+          ln -s "$GITHUB_WORKSPACE/.mc_cache" /tmp/datagenerator
+
+      - name: Make bulk script executable and run
+        run: |
+          chmod +x ./bulk_generate.sh
+          ./bulk_generate.sh
+
