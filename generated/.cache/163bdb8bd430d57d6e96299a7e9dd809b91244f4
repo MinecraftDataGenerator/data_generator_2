@@ -1,4 +1,4 @@
-// 26.3-snapshot-6	2026-08-26T12:03:09.884033687	vanilla/Tags for minecraft:entity_type
+// 26.3-snapshot-7	2026-08-26T12:03:26.087997482	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json
@@ -6,8 +6,8 @@ bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_tur
 1eed0c14ea5905bcbd45feee0d16154f92f53f32 data/minecraft/tags/entity_type/illager.json
 3afabed24e89a8a510028c80f51fc32e4fd6612b data/minecraft/tags/entity_type/aquatic.json
 796cb0b0d476d27f30e1e3ba130863892df78c4f data/minecraft/tags/entity_type/sensitive_to_bane_of_arthropods.json
-33c59d9d681e158b1ccb6ea656e59ddc600e3f4c data/minecraft/tags/entity_type/freeze_hurts_extra_types.json
 fd03792012d037b2783775c9b14e51362fd43a4f data/minecraft/tags/entity_type/sensitive_to_impaling.json
+33c59d9d681e158b1ccb6ea656e59ddc600e3f4c data/minecraft/tags/entity_type/freeze_hurts_extra_types.json
 8dff73e0c61ac45f8d47dfc26017899290fa5393 data/minecraft/tags/entity_type/zombies.json
 c1b00f0a433fe83520f389c47e8162851d1f9bbb data/minecraft/tags/entity_type/can_wear_nautilus_armor.json
 e1f5049789bea1f0a8097f1e43c87fded291f85d data/minecraft/tags/entity_type/impact_projectiles.json
