@@ -1,4 +1,4 @@
-// 26.3-snapshot-8	2026-08-26T12:03:42.888765546	vanilla/Tags for minecraft:block
+// 26.3-snapshot-9	2026-08-26T12:03:58.732945468	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/block/concrete_slabs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
@@ -84,6 +84,7 @@ c1b2a217bb3fcb7e1d67f5bc45409796720bd171 data/minecraft/tags/block/supports_cact
 a50dcf5915e98c7c6616f3b34f657c2f14d6d173 data/minecraft/tags/block/lush_ground_replaceable.json
 2f6f453e3ae95b8921ba5b843b704a77117e01a7 data/minecraft/tags/block/climbable.json
 e0857c0286da03c64261e49bed84b0916d69b6f7 data/minecraft/tags/block/maintains_farmland.json
+3d175102ebd7d3ac67b8cab1a354d8e3b49e1ee9 data/minecraft/tags/block/enderman_does_not_teleport_to.json
 f5d73120ea1f55d3d12d51ade52c0d39eb6a758b data/minecraft/tags/block/infiniburn_end.json
 efb3ca1f32daa2cf5586ec3e635381b706ee9e0f data/minecraft/tags/block/villager_babies_can_jump_on_bed.json
 60f661a9b26b7f6b1910e5390a40644354fe0919 data/minecraft/tags/block/frogs_spawnable_on.json
@@ -97,6 +98,7 @@ e20a9087558b4404a6e500f050a7d0e926667902 data/minecraft/tags/block/wall_post_ove
 3782c28ed558699d6993e67ad026112a2f2901b3 data/minecraft/tags/block/chains.json
 e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/triggers_ambient_desert_sand_block_sounds.json
 7ff1531dc7f287a36682c786f864934ac10ba0dc data/minecraft/tags/block/portals.json
+4531184566b4f05e0e070028fec5524beb50467f data/minecraft/tags/block/dangerous_for_teleportation.json
 9fa8e169d8e22baeaa4b0c96ba6ab87ab881a4cd data/minecraft/tags/block/wolves_spawnable_on.json
 b9a6465699ac4611925ddc3f370853207bfa68de data/minecraft/tags/block/camel_sand_step_sound_blocks.json
 3bd2eeaac98c81e18bfb56e9bd09c764e71d4cf5 data/minecraft/tags/block/spruce_logs.json
@@ -181,12 +183,14 @@ c80b1d012971f56913dc513b63585a6ff72cd3ce data/minecraft/tags/block/supports_suga
 4b3a4c310cf37ae02e8a2814af654638cdaecaa5 data/minecraft/tags/block/base_stone_overworld.json
 c76acfdbd66a8bd29a7896ca07c5ae7beb0fc775 data/minecraft/tags/block/washed_away_by_fluids.json
 991b4b13f517a78c2fdff9d9a6e631ecaf58a920 data/minecraft/tags/block/ice_melts_when_destroyed_above.json
+cfab2ab481bf476a645d326b87627918009b9e50 data/minecraft/tags/block/shulker_does_not_teleport_to.json
 9994f212884e8264af96eaba34aa7e89696d8994 data/minecraft/tags/block/supports_chorus_plant.json
 ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/block/overrides_mushroom_light_requirement.json
 486861a8a01410d404ee129446a439a712b98156 data/minecraft/tags/block/fire.json
 1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/block/coal_ores.json
 91298092263229c22ed59f780495f30405f23e44 data/minecraft/tags/block/grows_crops.json
 b7c610fe74377a42b51b7a87a3693fc1244cd9d6 data/minecraft/tags/block/suppresses_bounce.json
+cfab2ab481bf476a645d326b87627918009b9e50 data/minecraft/tags/block/uncarvable.json
 cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_step_sound_blocks.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/block/lapis_ores.json
 110040194828a0fac26455799a86fd02e3e731a1 data/minecraft/tags/block/supports_lily_pad.json
@@ -283,6 +287,7 @@ ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/block/concrete_powders.json
 cbd9fd30c8de79f33bf91c6cf5d399e0d09f65c9 data/minecraft/tags/block/turns_into_dirt_path.json
 08686fbe81389dddc4df471b0c7b219b6579b8ee data/minecraft/tags/block/lanterns.json
+65b5762a8dca66c7fd4c5490e17ced3bb5a37df9 data/minecraft/tags/block/cat_does_not_teleport_to.json
 61457dea01cddadbf6e92ae401e0d7c9c804c96a data/minecraft/tags/block/supports_cocoa.json
 995639aa7139df7ea910cdd8f4a3805d6368cbdd data/minecraft/tags/block/dampens_vibrations.json
 8f81701d3d8af27885661ded1822c8dc147b9577 data/minecraft/tags/block/copper_chests.json

@@ -1,4 +1,4 @@
-// 26.3-snapshot-8	2026-08-26T12:03:42.872266316	vanilla/Tags for minecraft:item
+// 26.3-snapshot-9	2026-08-26T12:03:58.718728831	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -67,6 +67,7 @@ f8fefc25b1df4fbf75b2f1db5237ce04d2d50cc1 data/minecraft/tags/item/parrot_food.js
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/item/terracotta.json
 32f2f403e37e5baac117b086c30ca301be42de1c data/minecraft/tags/item/bundles.json
 64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/item/ignored_by_piglin_babies.json
+95c8d23f98cfeb5b8e1a10e73746ecd410181149 data/minecraft/tags/item/brewing_potion_inputs.json
 a7fd7b53b9756417ac161fdb2a06289d39e95e53 data/minecraft/tags/item/planks.json
 842716513d36493490a860080082a4540bd153e7 data/minecraft/tags/item/enchantable/melee_weapon.json
 736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_iron_armor.json
