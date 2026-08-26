@@ -1,4 +1,4 @@
-// 26.3-snapshot-7	2026-08-26T12:03:26.076543443	vanilla/Tags for minecraft:block
+// 26.3-snapshot-8	2026-08-26T12:03:42.888765546	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/block/concrete_slabs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
@@ -190,7 +190,7 @@ b7c610fe74377a42b51b7a87a3693fc1244cd9d6 data/minecraft/tags/block/suppresses_bo
 cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_step_sound_blocks.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/block/lapis_ores.json
 110040194828a0fac26455799a86fd02e3e731a1 data/minecraft/tags/block/supports_lily_pad.json
-23f8b225b40273aa217361a5f80d59c954a3da1f data/minecraft/tags/block/mineable/hoe.json
+dcf51b0ea0186b6d5470c530e7c6375c9f2f5749 data/minecraft/tags/block/mineable/hoe.json
 71f3b79e3c514d631454464911d07563b93b71c4 data/minecraft/tags/block/wool_carpets.json
 991b4b13f517a78c2fdff9d9a6e631ecaf58a920 data/minecraft/tags/block/blocks_motion_in_heightmap.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/incorrect_for_diamond_tool.json
