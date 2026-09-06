@@ -104,6 +104,9 @@ for version in "${ALL_VERSIONS[@]}"; do
     )
 
     # Create/checkout target branch
+    echo "--> Cleaning untracked files before switching branches..."
+    git clean -fd
+
     if [[ -z "$previous_branch" ]]; then
         echo "--> First target ($START_VERSION): Creating orphan branch..."
         git checkout --orphan "$branch_name"
@@ -144,6 +147,7 @@ EOF
     previous_branch="$branch_name"
 
     # Switch back to main branch for next iteration
+    git clean -fd
     git checkout "$MAIN_BRANCH"
 done
 

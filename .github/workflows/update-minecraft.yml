@@ -52,8 +52,10 @@ jobs:
         id: manifest
         run: |
           set -e
-          python3 manifest.py > manifest.out
-          VERSIONS_LINE=$(grep '^versions=' manifest.out | cut -d= -f2 || true)
+          TMP_MANIFEST=$(mktemp)
+          trap 'rm -f "$TMP_MANIFEST"' EXIT
+          python3 manifest.py > "$TMP_MANIFEST"
+          VERSIONS_LINE=$(grep '^versions=' "$TMP_MANIFEST" | cut -d= -f2 || true)
           echo "versions=$VERSIONS_LINE" >> $GITHUB_OUTPUT
           HASH=$(printf "%s" "$VERSIONS_LINE" | sha1sum | cut -d' ' -f1)
           echo "hash=$HASH" >> $GITHUB_OUTPUT
