@@ -1,4 +1,4 @@
-// 26.3-pre-1	2026-09-06T13:21:55.489084437	vanilla/Tags for minecraft:worldgen/biome
+// 26.3-pre-2	2026-09-06T13:22:12.106416206	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
@@ -32,8 +32,8 @@ f9c1e0a4e9110960f437188d04c291cd2ff37cf0 data/minecraft/tags/worldgen/biome/has_
 f85bfa0d4b462706e486bac541e720ebc630330c data/minecraft/tags/worldgen/biome/is_jungle.json
 4515b902a2803d77400aa33b8a3a7751bcaf389a data/minecraft/tags/worldgen/biome/has_structure/jungle_temple.json
 45707864d688ef531d52bd0287366ea1e7736874 data/minecraft/tags/worldgen/biome/has_structure/mineshaft_mesa.json
-f9a867df65eed6c7fbe6df17bf367c9c3bc26dea data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_birch_forest.json
 9f1a7b9d7c1f633c2245e7066a7bdc93fafb7ffd data/minecraft/tags/worldgen/biome/is_deep_ocean.json
+f9a867df65eed6c7fbe6df17bf367c9c3bc26dea data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_birch_forest.json
 3a8d281584c0df02db2de45b5148feea3cc913a8 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_forest.json
 6525dda69924a36f16797ed873bffc083e1f4de5 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_swamp.json
 f435c629c4e64303cb04329925903bda3d917ba9 data/minecraft/tags/worldgen/biome/is_hill.json

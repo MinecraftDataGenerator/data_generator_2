@@ -1,4 +1,4 @@
-// 26.3-pre-1	2026-09-06T13:21:55.489446376	vanilla/Tags for minecraft:block
+// 26.3-pre-2	2026-09-06T13:22:12.106774778	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/block/concrete_slabs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
@@ -23,8 +23,8 @@ f389efdf22fabad15f8c493652b07cd4c176910d data/minecraft/tags/block/wooden_fences
 d4ccdd52d950205105f63938b548d92c42dd1761 data/minecraft/tags/block/supports_hanging_mangrove_propagule.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/triggers_ambient_dried_ghast_block_sounds.json
 4b41342be611564da2a2009e3322c8fd08f20cdd data/minecraft/tags/block/warped_stems.json
-c8ec59201ede7ff6cb74a70bd44fb6be642a3f40 data/minecraft/tags/block/stone_pressure_plates.json
 a581b28fafc2a608be1c41aa3e2a8126975330c9 data/minecraft/tags/block/impermeable.json
+c8ec59201ede7ff6cb74a70bd44fb6be642a3f40 data/minecraft/tags/block/stone_pressure_plates.json
 c7ea382c3711cc470f33079f0c7c3413eddaa0fd data/minecraft/tags/block/convertible_to_mud.json
 27b300dfea9e8b457738735b0971c85be8e8bca9 data/minecraft/tags/block/wool_slabs.json
 913bc5c31b098eada6b776a32e560c19f9515e61 data/minecraft/tags/block/emerald_ores.json
@@ -167,8 +167,8 @@ d72522e84cfdc43060fb263c9fd0b9844ce011a5 data/minecraft/tags/block/replaceable_b
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/block/stone_bricks.json
 a7fd7b53b9756417ac161fdb2a06289d39e95e53 data/minecraft/tags/block/planks.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/block/acacia_logs.json
-047a6adadaadd4c62c1119fd47f7bc87b5908917 data/minecraft/tags/block/wool_stairs.json
 5e7941c4b371483c37b894b05e6d830506776c13 data/minecraft/tags/block/wooden_buttons.json
+047a6adadaadd4c62c1119fd47f7bc87b5908917 data/minecraft/tags/block/wool_stairs.json
 9dfd09180a555f6464fec17bc82c39e10974b22e data/minecraft/tags/block/ancient_city_replaceable.json
 6434eab593808ccdda380aa89dbf4977e908d7b4 data/minecraft/tags/block/mangrove_roots_can_grow_through.json
 59915df434e567b5f9f414c5d6f9e5842cd803ab data/minecraft/tags/block/turns_into_farmland.json
