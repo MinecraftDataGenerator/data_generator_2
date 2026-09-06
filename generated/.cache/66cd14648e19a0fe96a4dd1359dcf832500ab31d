@@ -1,4 +1,4 @@
-// 26.3-snapshot-10	2026-08-26T12:04:14.829604723	vanilla/Tags for minecraft:worldgen/structure
+// 26.3-pre-1	2026-09-06T13:21:55.498985912	vanilla/Tags for minecraft:worldgen/structure
 6e9b88a9d7545d083cd0118cff815131cf329080 data/minecraft/tags/worldgen/structure/on_savanna_village_maps.json
 a124e2034270a8639a98494959c2524661377ecc data/minecraft/tags/worldgen/structure/shipwreck.json
 b8b802260fa8e2b6d5f33a96b18e63709bd8b2b6 data/minecraft/tags/worldgen/structure/on_abandoned_camp_windswept.json
@@ -25,8 +25,8 @@ f2401a25b1b014422c676d22732df78913b05497 data/minecraft/tags/worldgen/structure/
 9255f5bb041a060c7b38b753dda0b0b77bfdf7b0 data/minecraft/tags/worldgen/structure/on_ancient_city_maps.json
 090709de2c4ac91fd6f45b239990f787fb3cf01b data/minecraft/tags/worldgen/structure/on_abandoned_camp_pale_garden.json
 c0f4e5bd52b666e1cbd106441f23f0eb83f8b77f data/minecraft/tags/worldgen/structure/on_taiga_village_maps.json
-bbbe24f27529eaf42c8a9b3684400be25962ba11 data/minecraft/tags/worldgen/structure/on_jungle_pyramid_maps.json
 ded0e25c8f15f59a4e7e03c54e562a3b7fe9d303 data/minecraft/tags/worldgen/structure/on_mineshaft_maps.json
+bbbe24f27529eaf42c8a9b3684400be25962ba11 data/minecraft/tags/worldgen/structure/on_jungle_pyramid_maps.json
 db7acc9f9e931ed7a41f2b2c96466edd7e528acc data/minecraft/tags/worldgen/structure/on_treasure_maps.json
 7e9b33de97d1683dc0a7620a9c797c0e919b4974 data/minecraft/tags/worldgen/structure/dolphin_located.json
 2e3ef883a0d81134c688c5a78b72dcc44dfa15be data/minecraft/tags/worldgen/structure/on_ocean_monument_maps.json

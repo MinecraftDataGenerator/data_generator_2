@@ -1,4 +1,4 @@
-// 26.3-snapshot-10	2026-08-26T12:04:14.804535175	vanilla/Tags for minecraft:item
+// 26.3-pre-1	2026-09-06T13:21:55.467632773	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -95,6 +95,7 @@ e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glas
 6b369f3e01c478f5ecb879b9b5d66757d78e5a8f data/minecraft/tags/item/enchantable/head_armor.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/drowned_preferred_weapons.json
 9c99444249ea9362072a08ee44c2d01c8ab03176 data/minecraft/tags/item/cow_food.json
+539f643546b72a2cb0edd99a75566b5576423ef9 data/minecraft/tags/item/furnace_fuel_bottom_takeable.json
 8161d1797f25c171fe19ce7472d59eaac4675b95 data/minecraft/tags/item/nautilus_taming_items.json
 78d52a15257f82784b70913a5e08d27f0ef58f42 data/minecraft/tags/item/happy_ghast_tempt_items.json
 3c14928ee4a5428a0856e205485230539f706d8f data/minecraft/tags/item/enchantable/fishing.json
