@@ -8,11 +8,16 @@ The generated data is then committed to a corresponding branch named after the v
 ## How It Works
 
 1. A GitHub Actions workflow runs on a schedule (`cron`) or manually.
-2. For each known version:
-   - The workflow downloads the official Mojang server JAR.
-   - It runs the Data Generator included in that version of the Minecraft server.
-   - It commits the generated dump to the branch for that version.
-3. Branches are updated only when a change in the generated data is detected.
+2. The workflow computes the current Mojang version manifest and caches downloaded server JARs by manifest hash.
+3. The bulk generation script (`bulk_generate.sh`) loads the version list from `manifest.py`, skips any versions listed in `skip_version.txt`, and iterates through the available versions starting at `18w01a`.
+4. For each new version:
+   - it downloads the official Mojang server JAR into a temporary working directory,
+   - it runs the bundled data generator from that server JAR,
+   - it creates or checks out the corresponding git branch,
+   - it copies the generated output into the repository root,
+   - it commits the generated dump to that version branch and pushes it.
+5. Existing local or remote version branches are skipped automatically, and the script reuses the last processed branch as the base for follow-up versions.
+6. The workflow and script both clean generated temporary files before branch switches to avoid Git checkout conflicts from untracked files like `manifest.out`.
 
 ---
 
