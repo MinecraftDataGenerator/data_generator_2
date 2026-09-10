@@ -1,4 +1,4 @@
-// 26.3-pre-3	2026-09-08T17:46:31.459022932	vanilla/Default Components
+// 26.3-rc-1	2026-09-10T17:30:07.710274051	vanilla/Default Components
 2701c78985571128750874ddba5e5722ab4e76c0 reports/minecraft/components/item/dead_brain_coral_fan.json
 6532da05f86ad31cf1cda4d00fefab7fd95ab254 reports/minecraft/components/item/infested_stone_bricks.json
 620e40609d0160377263fff9fa9fec0831ad8312 reports/minecraft/components/item/beetroot.json
@@ -844,8 +844,8 @@ a5e61cbfdcdd6990a3ee71d1e248910871a7f3a9 reports/minecraft/components/item/dark_
 3e090717277352da08eafaccac03d7543294fe8d reports/minecraft/components/item/glistering_melon_slice.json
 4603e0c2daf71fe4ee7e218cb0794161a01a07db reports/minecraft/components/item/yellow_glazed_terracotta.json
 8cb935193fc15a97417a58f3e51998332429f88c reports/minecraft/components/item/snowball.json
-db9dff78c087fa52810a5a2c4271ca946d611bf5 reports/minecraft/components/item/stripped_oak_wood.json
 7cbe506734a010ab7caa78db1af44929b021a4c7 reports/minecraft/components/item/shelter_pottery_sherd.json
+db9dff78c087fa52810a5a2c4271ca946d611bf5 reports/minecraft/components/item/stripped_oak_wood.json
 89965a27a1894546127b43fdcfebff87e4b90f02 reports/minecraft/components/item/bamboo_door.json
 fe36aa7c30cadc550791d3289c06b1f01a01c7b0 reports/minecraft/components/item/pink_wool_slab.json
 9269ef54ca4829bbf5681b6da4ed4adc0f804816 reports/minecraft/components/item/spire_armor_trim_smithing_template.json
@@ -1336,8 +1336,8 @@ b4e4e07511a43294c4a99d8013bceec233f849c6 reports/minecraft/components/item/leath
 b532bd2ed30a9486bac15d68521d1a75df0373c0 reports/minecraft/components/item/iron_shovel.json
 9ab6ef93d37efff2bdf7f3be6e97029b4496b849 reports/minecraft/components/item/dragon_head.json
 1725fdf50e166e0c0ecc372ee2800b04c9c519c4 reports/minecraft/components/item/cooked_cod.json
-addeee4070f66a0a2763c7a857a1cec3c772d2b8 reports/minecraft/components/item/burn_pottery_sherd.json
 c660f12211e13bb4b214adac74e719d7bf9f4d53 reports/minecraft/components/item/bubble_coral.json
+addeee4070f66a0a2763c7a857a1cec3c772d2b8 reports/minecraft/components/item/burn_pottery_sherd.json
 c00799831614fdf0759ef3d0c7cf6a58d962e171 reports/minecraft/components/item/polished_blackstone_slab.json
 f6db3a9f08f5906eb2642c074386a44d21bcdbbc reports/minecraft/components/item/wooden_pickaxe.json
 3ad209400ecc4016aef3fe478e0cd7bed52e7a9b reports/minecraft/components/item/netherite_chestplate.json
