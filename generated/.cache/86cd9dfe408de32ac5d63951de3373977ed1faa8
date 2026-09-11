@@ -1,4 +1,4 @@
-// 26.3-rc-1	2026-09-10T17:30:07.733414168	vanilla/Tags for minecraft:block
+// 26.3-rc-2	2026-09-11T17:33:12.584594441	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/block/concrete_slabs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
@@ -261,8 +261,8 @@ f7ec61aaf7fd6e33b399721bc6d5aa2bc2e814ff data/minecraft/tags/block/fall_damage_r
 52601cc0888aa51f164cf44aa8c088293bb40ce6 data/minecraft/tags/block/armadillo_spawnable_on.json
 9cf89cc089a03f7415393823473c106253d62661 data/minecraft/tags/block/wall_corals.json
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/block/anvil.json
-54ce76b81f7f86116493bdcb069428c6fd16ef11 data/minecraft/tags/block/air.json
 17101232f637078d895d0c5b5f9e6d9fc5a88944 data/minecraft/tags/block/required_for_poplar_leaf_ambience.json
+54ce76b81f7f86116493bdcb069428c6fd16ef11 data/minecraft/tags/block/air.json
 5337506be1f6356b358e996c2464276eabf6a174 data/minecraft/tags/block/supports_crimson_roots.json
 17bf02f1662de477e421a897a9b1a092da3fd1b4 data/minecraft/tags/block/candle_cakes.json
 a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/block/doors.json

@@ -1,4 +1,4 @@
-// 26.3-rc-1	2026-09-10T17:30:07.710274051	vanilla/Default Components
+// 26.3-rc-2	2026-09-11T17:33:12.55703319	vanilla/Default Components
 2701c78985571128750874ddba5e5722ab4e76c0 reports/minecraft/components/item/dead_brain_coral_fan.json
 6532da05f86ad31cf1cda4d00fefab7fd95ab254 reports/minecraft/components/item/infested_stone_bricks.json
 620e40609d0160377263fff9fa9fec0831ad8312 reports/minecraft/components/item/beetroot.json
@@ -1336,8 +1336,8 @@ b4e4e07511a43294c4a99d8013bceec233f849c6 reports/minecraft/components/item/leath
 b532bd2ed30a9486bac15d68521d1a75df0373c0 reports/minecraft/components/item/iron_shovel.json
 9ab6ef93d37efff2bdf7f3be6e97029b4496b849 reports/minecraft/components/item/dragon_head.json
 1725fdf50e166e0c0ecc372ee2800b04c9c519c4 reports/minecraft/components/item/cooked_cod.json
-c660f12211e13bb4b214adac74e719d7bf9f4d53 reports/minecraft/components/item/bubble_coral.json
 addeee4070f66a0a2763c7a857a1cec3c772d2b8 reports/minecraft/components/item/burn_pottery_sherd.json
+c660f12211e13bb4b214adac74e719d7bf9f4d53 reports/minecraft/components/item/bubble_coral.json
 c00799831614fdf0759ef3d0c7cf6a58d962e171 reports/minecraft/components/item/polished_blackstone_slab.json
 f6db3a9f08f5906eb2642c074386a44d21bcdbbc reports/minecraft/components/item/wooden_pickaxe.json
 3ad209400ecc4016aef3fe478e0cd7bed52e7a9b reports/minecraft/components/item/netherite_chestplate.json
