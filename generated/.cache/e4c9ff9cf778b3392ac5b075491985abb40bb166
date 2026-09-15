@@ -1,4 +1,4 @@
-// 26.3-rc-3	2026-09-14T19:02:57.487325534	vanilla/Tags for minecraft:fluid
+// 26.3	2026-09-15T17:56:51.38003536	vanilla/Tags for minecraft:fluid
 d26028b2a8e11c663ec9a14ee723c257992049e9 data/minecraft/tags/fluid/supports_sugar_cane_adjacently.json
 cf3608bd187922aeb48c566c19e8482b0dca34c7 data/minecraft/tags/fluid/dolphin_tries_to_find.json
 cf3608bd187922aeb48c566c19e8482b0dca34c7 data/minecraft/tags/fluid/supports_frogspawn.json
