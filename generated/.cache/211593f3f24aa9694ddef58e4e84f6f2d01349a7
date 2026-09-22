@@ -1,6 +1,7 @@
-// 26.3	2026-09-15T17:56:51.380387208	vanilla/Tags for minecraft:worldgen/biome
+// 26.4-snapshot-1	2026-09-22T17:57:58.010510606	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
+a438c3523b28cc2043b791a74838a96895e2390d data/minecraft/tags/worldgen/biome/generated_in_below_zero_retrogen.json
 0f241c94b10e4b16b4304f66ad949bb089955b1e data/minecraft/tags/worldgen/biome/allows_tropical_fish_spawns_at_any_height.json
 70978571ac75b9d8954293882c95413c8505d39f data/minecraft/tags/worldgen/biome/spawns_white_rabbits.json
 afd9da16b8e57511d3b12c69ccd4555d71ebb29f data/minecraft/tags/worldgen/biome/has_structure/shipwreck.json
@@ -38,6 +39,7 @@ f9a867df65eed6c7fbe6df17bf367c9c3bc26dea data/minecraft/tags/worldgen/biome/has_
 6525dda69924a36f16797ed873bffc083e1f4de5 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_swamp.json
 f435c629c4e64303cb04329925903bda3d917ba9 data/minecraft/tags/worldgen/biome/is_hill.json
 f3dc9f00fb98a763e374de9b2aa55e6707d3a6f3 data/minecraft/tags/worldgen/biome/is_taiga.json
+6edeadcc58e11a32de0d2572e556afb01dfd0b4f data/minecraft/tags/worldgen/biome/is_cave.json
 3d220c49d07585dca965d162e0f6e1e6b51d2ee2 data/minecraft/tags/worldgen/biome/spawns_cold_variant_frogs.json
 db75635a9bc36e736cf56101b9c81b3e37b69aac data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_bamboo_jungle.json
 c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json

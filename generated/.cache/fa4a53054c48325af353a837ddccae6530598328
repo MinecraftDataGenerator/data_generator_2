@@ -1,4 +1,4 @@
-// 26.3	2026-09-15T17:56:51.370763756	vanilla/Tags for minecraft:item
+// 26.4-snapshot-1	2026-09-22T17:57:57.996983356	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
