@@ -1,4 +1,4 @@
-// 26.4-snapshot-2	2026-09-29T19:07:30.313432089	vanilla/Tags for minecraft:item
+// 26.4-snapshot-3	2026-10-06T19:18:58.963957485	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -116,6 +116,7 @@ d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/pillager_prefe
 6afbc8d2f12d963bba5d64cd6a63eb9a77c8a7b3 data/minecraft/tags/item/wolf_food.json
 d5226c7edf4f5bd081c1bbadbb012daad5a120cc data/minecraft/tags/item/cauldron_can_remove_dye.json
 644d4f67864112c3d8f4fcf42290bc8f7f11db2d data/minecraft/tags/item/enchantable/vanishing.json
+2554bb25aaa696aeca8da09c7bf2325529a9d0c4 data/minecraft/tags/item/sheep_wool_dyes.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/item/gold_ores.json
 95b1f6d4179ccf8d3094b5dfa8b146b10352e329 data/minecraft/tags/item/leaves.json
 49fc3802397b9999fbbc71f9d4e9c1962cab6506 data/minecraft/tags/item/anvil.json
@@ -132,6 +133,7 @@ fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/repairs_diamon
 17af95fdfeae062d798fc610dd9332ac88beae64 data/minecraft/tags/item/extendable_maps.json
 3fdfa9ed4805c94904dacc7fe41accf2f18c5030 data/minecraft/tags/item/chest_armor.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/item/birch_logs.json
+d8e989de012c96b230d004a4e06b0a256beb61b4 data/minecraft/tags/item/frostbite_preferred_weapons.json
 a2c241225b687d962d7c986e6cbe8be5184f847c data/minecraft/tags/item/doors.json
 0de249645a62e3e99c8930f651e59a7b0919338a data/minecraft/tags/item/villager_plantable_seeds.json
 2bf3a7eafd69c022433bc4f2776944d90e7c7cbf data/minecraft/tags/item/enchantable/trident.json
@@ -165,8 +167,8 @@ d2dd1a0654037b68d6a69fbb241fbe22fc86d73f data/minecraft/tags/item/clonable_maps.
 84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 29adee991374ea810bcde93bfb5cd54fe65ab9a5 data/minecraft/tags/item/wooden_stairs.json
 cf2c9a38dd61b6e22d0d8660a025aa3471e30504 data/minecraft/tags/item/sulfur_cube_archetype/slow_bouncy.json
-2554bb25aaa696aeca8da09c7bf2325529a9d0c4 data/minecraft/tags/item/cat_collar_dyes.json
 578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/map_invisibility_equipment.json
+2554bb25aaa696aeca8da09c7bf2325529a9d0c4 data/minecraft/tags/item/cat_collar_dyes.json
 27b300dfea9e8b457738735b0971c85be8e8bca9 data/minecraft/tags/item/wool_slabs.json
 68f246f71ae9f6e70afc3b182652d81a9baf370a data/minecraft/tags/item/armadillo_food.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/item/sulfur_cube_archetype/high_resistance.json
@@ -199,8 +201,8 @@ a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/item/noteblock_top_
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/item/fences.json
 9b8795d1664fc903071c19ae4d9834819ebb68e2 data/minecraft/tags/item/signs.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/item/llama_tempt_items.json
-1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
 ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
+1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
 578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/gaze_disguise_equipment.json
 4daabef6d18a3fe09d467332a112f5361cf48610 data/minecraft/tags/item/fence_gates.json
 84b3d65e0c030bb9db4f394951b273f9c2e90782 data/minecraft/tags/item/piglin_preferred_weapons.json
@@ -235,3 +237,4 @@ d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/item/soul_fire_base
 c95c455fe4e6a7c8c1a280e27f6957acdeb9e2f3 data/minecraft/tags/item/sulfur_cube_archetype/light.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/item/concrete_slabs.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/coals.json
+ea2b7aa418c563ab8f02c06883d3c45e0ec7435c data/minecraft/tags/item/knocks_back_players_even_with_zero_damage.json
