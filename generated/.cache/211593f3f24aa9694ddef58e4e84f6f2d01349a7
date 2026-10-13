@@ -1,4 +1,4 @@
-// 26.4-snapshot-3	2026-10-06T19:18:58.978234205	vanilla/Tags for minecraft:worldgen/biome
+// 26.4-snapshot-4	2026-10-13T20:06:17.972827776	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 a438c3523b28cc2043b791a74838a96895e2390d data/minecraft/tags/worldgen/biome/generated_in_below_zero_retrogen.json
@@ -40,7 +40,7 @@ f9a867df65eed6c7fbe6df17bf367c9c3bc26dea data/minecraft/tags/worldgen/biome/has_
 6525dda69924a36f16797ed873bffc083e1f4de5 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_swamp.json
 f435c629c4e64303cb04329925903bda3d917ba9 data/minecraft/tags/worldgen/biome/is_hill.json
 f3dc9f00fb98a763e374de9b2aa55e6707d3a6f3 data/minecraft/tags/worldgen/biome/is_taiga.json
-6edeadcc58e11a32de0d2572e556afb01dfd0b4f data/minecraft/tags/worldgen/biome/is_cave.json
+70c27e2d039d027da38dd9be5ac4ff986edb7ca4 data/minecraft/tags/worldgen/biome/is_cave.json
 abea4c705e54bcc1f7f94f910292f5077a04831d data/minecraft/tags/worldgen/biome/spawns_cold_variant_frogs.json
 db75635a9bc36e736cf56101b9c81b3e37b69aac data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_bamboo_jungle.json
 c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json
@@ -57,8 +57,8 @@ a2c17e9189d16e11b26ac0a0c170a0bc41bf1093 data/minecraft/tags/worldgen/biome/has_
 6058b6dfa7b36e34bf6b02b94306bbdf8b334214 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_old_growth_spruce_taiga.json
 6d2fe067a4e43feb66712b684ce4628e2252ee38 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_savanna.json
 a24545b58f3f91c6c033586e2b2ae12f1e8131b1 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_nether.json
-3437f146e7780b8779e1617366226f1892d8a533 data/minecraft/tags/worldgen/biome/is_river.json
 562853abe345ceeddc3931331c8cdb3aa0fbe085 data/minecraft/tags/worldgen/biome/is_savanna.json
+3437f146e7780b8779e1617366226f1892d8a533 data/minecraft/tags/worldgen/biome/is_river.json
 09eef8a5b31b2b922a1bf5e092e897bf6949121c data/minecraft/tags/worldgen/biome/is_end.json
 91b0eb2c9a1bca9eaa7aeb065cf6566cc9ef4ef6 data/minecraft/tags/worldgen/biome/has_structure/end_city.json
 d832b5c1a25025865422b4bc8e9ca7862f0e5f42 data/minecraft/tags/worldgen/biome/stronghold_biased_to.json
@@ -72,8 +72,8 @@ f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_
 2f84e342375f3ca795313978e56d02cdd91cbeb1 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_pale_garden.json
 7ab168754d6e78ecef39a6d1baa046622304b683 data/minecraft/tags/worldgen/biome/polar_bears_spawn_on_alternate_blocks.json
 068e9616fd14b1280352ffc9d66cc3846c00a5e4 data/minecraft/tags/worldgen/biome/is_ocean.json
-ba88e23e2234b0ec008692a68db03a13bb92b548 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_snowy_taiga.json
 080d246ec6009090db8d9470d55c3ec78f26eced data/minecraft/tags/worldgen/biome/has_structure/igloo.json
+ba88e23e2234b0ec008692a68db03a13bb92b548 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_snowy_taiga.json
 79254fb0a47fe9e246a8658d0bc9c5d50191d7f2 data/minecraft/tags/worldgen/biome/has_structure/woodland_mansion.json
 ec7bbb0c9b5fc5378f8716f54862806404f04360 data/minecraft/tags/worldgen/biome/has_structure/ocean_monument.json
 a2c17e9189d16e11b26ac0a0c170a0bc41bf1093 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_swamp.json
@@ -82,7 +82,7 @@ be4a1f061b9d167a07a785d3d7fd97b5993bc33a data/minecraft/tags/worldgen/biome/has_
 a18b42d48e473c1416af02fa30d2722fbc057e77 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_cherry_grove.json
 becbb3e6d736ab8feb41683bc5afacce936c4825 data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
 67ce3f178239436f7e21f2e0dce35834d76c990d data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json
-db559b630eb1e15fc94e0ed089c5e4a2b1247670 data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json
+6915a475da62f8aefcab8fb2d2558b93db72a101 data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json
 34221cf2084477b59843b281cf1b1519bbf50e89 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_old_growth_pine_taiga.json
 cf692980e7b8c83321d8489ae0d76db7effbaa4a data/minecraft/tags/worldgen/biome/has_structure/bastion_remnant.json
 e230510c9f5c1188c61cd1ad728a3d9a6bd3125f data/minecraft/tags/worldgen/biome/without_zombie_sieges.json

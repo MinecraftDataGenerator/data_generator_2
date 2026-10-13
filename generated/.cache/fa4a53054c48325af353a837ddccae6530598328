@@ -1,4 +1,4 @@
-// 26.4-snapshot-3	2026-10-06T19:18:58.963957485	vanilla/Tags for minecraft:item
+// 26.4-snapshot-4	2026-10-13T20:06:17.951260272	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -21,8 +21,8 @@ a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisono
 84ca487e773b4a6e5d2dfb9c9a4e6a7d99f6f480 data/minecraft/tags/item/glazed_terracotta.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
 64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/item/repairs_leather_armor.json
-7069d2e27614b3e0e2a077d52610d0e37af4d48c data/minecraft/tags/item/spears.json
 c882f1fc924c7ace24f2ece6ec48f727ede793e9 data/minecraft/tags/item/concrete.json
+7069d2e27614b3e0e2a077d52610d0e37af4d48c data/minecraft/tags/item/spears.json
 076f70e1596b4685975ab2449c3d706a2696a293 data/minecraft/tags/item/piglin_loved.json
 002618d0a2234b3b3d20a70a6c530ec63bab9783 data/minecraft/tags/item/flowers.json
 1076a481369cba40dea8b2da41e26f468270ab47 data/minecraft/tags/item/hoes.json
@@ -42,8 +42,8 @@ c06a1b103e6284ff927992e92c8f0261f8a1d6ca data/minecraft/tags/item/stairs.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/item/lectern_books.json
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/item/concrete_powders.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
-8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
 184aa6c8542ece7272079ce0fb0330ed2c466672 data/minecraft/tags/item/wooden_slabs.json
+8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/enchantable/crossbow.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/item/copper_ores.json
@@ -101,6 +101,7 @@ e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/item/smelts_to_glas
 3c14928ee4a5428a0856e205485230539f706d8f data/minecraft/tags/item/enchantable/fishing.json
 eb3c0e588c14fccd0a90d2090948169302feae6a data/minecraft/tags/item/wooden_tool_materials.json
 c96d8e1b29c19aa3bf76efc79c606f288d0dad3d data/minecraft/tags/item/enchantable/durability.json
+ab9a8c2b2d316f2c4f896065c378d0b205213bb5 data/minecraft/tags/item/jukebox_containers.json
 3b950c80bace8299126b5b156ecf34a265bf4df2 data/minecraft/tags/item/arrows.json
 7b91c698c6976ef998da8b9c521231cb091d2b94 data/minecraft/tags/item/enchantable/fire_aspect.json
 fef1644c33bdd401b55824ed29a4df7cd9464fd0 data/minecraft/tags/item/wool.json

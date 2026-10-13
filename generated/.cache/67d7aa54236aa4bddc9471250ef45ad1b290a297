@@ -1,4 +1,4 @@
-// 26.4-snapshot-3	2026-10-06T19:18:58.963819315	vanilla/Tags for minecraft:damage_type
+// 26.4-snapshot-4	2026-10-13T20:06:17.951010516	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -35,3 +35,4 @@ aa669bcc85b7e5fec735bdee399d1256313141bb data/minecraft/tags/damage_type/burn_fr
 2d4efe6180742d6e569ec5cd165312f0b4811b7a data/minecraft/tags/damage_type/burns_armor_stands.json
 489c47edfcfc99812acc8a92f08c0c9c5f6d5041 data/minecraft/tags/damage_type/panic_causes.json
 cb84df645671afc2fdb658810f8c98d63eab5114 data/minecraft/tags/damage_type/bypasses_armor.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/damage_type/no_hurt_sound.json
