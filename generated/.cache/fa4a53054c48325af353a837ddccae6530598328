@@ -1,4 +1,4 @@
-// 26.4-snapshot-4	2026-10-13T20:06:17.951260272	vanilla/Tags for minecraft:item
+// 26.4-snapshot-5	2026-10-20T18:22:08.828959689	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -21,8 +21,8 @@ a62188adba8d65fe5971b95f4c552a1072086c31 data/minecraft/tags/item/parrot_poisono
 84ca487e773b4a6e5d2dfb9c9a4e6a7d99f6f480 data/minecraft/tags/item/glazed_terracotta.json
 c3344f6e568a707914a420dacbf9b082a8ff1787 data/minecraft/tags/item/stone_bricks.json
 64a5131137472b111eb62466b0b98a6cf19cd19c data/minecraft/tags/item/repairs_leather_armor.json
-c882f1fc924c7ace24f2ece6ec48f727ede793e9 data/minecraft/tags/item/concrete.json
 7069d2e27614b3e0e2a077d52610d0e37af4d48c data/minecraft/tags/item/spears.json
+c882f1fc924c7ace24f2ece6ec48f727ede793e9 data/minecraft/tags/item/concrete.json
 076f70e1596b4685975ab2449c3d706a2696a293 data/minecraft/tags/item/piglin_loved.json
 002618d0a2234b3b3d20a70a6c530ec63bab9783 data/minecraft/tags/item/flowers.json
 1076a481369cba40dea8b2da41e26f468270ab47 data/minecraft/tags/item/hoes.json
@@ -38,12 +38,12 @@ f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/gold_tool_mate
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/item/stone_crafting_materials.json
 f651379db3bd93084b50c5759f13066cb9859ee2 data/minecraft/tags/item/pig_food.json
 b965cf1cefd134257c07643683f8547e274e026e data/minecraft/tags/item/mud.json
-c06a1b103e6284ff927992e92c8f0261f8a1d6ca data/minecraft/tags/item/stairs.json
+293588f22a66a121eddf194163eebe1d9da4f51c data/minecraft/tags/item/stairs.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/item/lectern_books.json
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/item/concrete_powders.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
-184aa6c8542ece7272079ce0fb0330ed2c466672 data/minecraft/tags/item/wooden_slabs.json
 8605d3ce0997290e1153d618de9ddc62bc060c4c data/minecraft/tags/item/enchantable/leg_armor.json
+184aa6c8542ece7272079ce0fb0330ed2c466672 data/minecraft/tags/item/wooden_slabs.json
 50e13739c5004ff1f5177fb29ecff7b5d3d45cd3 data/minecraft/tags/item/furnace_minecart_fuel.json
 d29f89452b265a80884c87a48e71ea780a21849a data/minecraft/tags/item/enchantable/crossbow.json
 37c1e07dffc966dafe0401977955eba42bfaeccf data/minecraft/tags/item/copper_ores.json
@@ -83,7 +83,7 @@ e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/item/creeper_drop_m
 051133c671b0594616a93c94a321767d92bc1940 data/minecraft/tags/item/mushrooms.json
 2554bb25aaa696aeca8da09c7bf2325529a9d0c4 data/minecraft/tags/item/loom_dyes.json
 17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
-bcdd40357041ca76c6b2e3939cb8172ffdc69e3c data/minecraft/tags/item/slabs.json
+2bbb16e424fc9f3bcbbd0a00c9560100d717bb96 data/minecraft/tags/item/slabs.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/item/crimson_stems.json
 736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_chain_armor.json
 d5819c82fddfaf937dbe9ed568e87f1206349f8d data/minecraft/tags/item/wither_skeleton_disliked_weapons.json
@@ -161,10 +161,10 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/item/redstone_ores.
 49731163f40c037fed63e50ebb86dc7fd3d2722b data/minecraft/tags/item/sniffer_food.json
 f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/repairs_gold_armor.json
 ea2b7aa418c563ab8f02c06883d3c45e0ec7435c data/minecraft/tags/item/happy_ghast_food.json
-ad5bb18bdc60a11ee86a7e6739c94bc4b2213592 data/minecraft/tags/item/sulfur_cube_archetype/fast_sliding.json
+cddbd9ba06ca3e6442f1cf17c432cca342370ab2 data/minecraft/tags/item/sulfur_cube_archetype/fast_sliding.json
 d6cf88ab73624a67b1cffc6e2fe8d4b95b053a79 data/minecraft/tags/item/sulfur_cube_archetype/sticky.json
 d2dd1a0654037b68d6a69fbb241fbe22fc86d73f data/minecraft/tags/item/clonable_maps.json
-95395a843ea1808b5232c2ee3bac76fd4b9836a8 data/minecraft/tags/item/walls.json
+e79d4671817af0ce48d636c3e151de1f868179af data/minecraft/tags/item/walls.json
 84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 29adee991374ea810bcde93bfb5cd54fe65ab9a5 data/minecraft/tags/item/wooden_stairs.json
 cf2c9a38dd61b6e22d0d8660a025aa3471e30504 data/minecraft/tags/item/sulfur_cube_archetype/slow_bouncy.json

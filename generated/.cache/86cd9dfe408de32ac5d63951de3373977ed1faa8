@@ -1,4 +1,4 @@
-// 26.4-snapshot-4	2026-10-13T20:06:17.973262829	vanilla/Tags for minecraft:block
+// 26.4-snapshot-5	2026-10-20T18:22:08.843807075	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/block/concrete_slabs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
@@ -19,7 +19,7 @@ e85d473045cf55c6f706798af73a74b69875c186 data/minecraft/tags/block/smelts_to_gla
 2d763e05a229e6a7dd61a548583f193804395954 data/minecraft/tags/block/parrots_spawnable_on.json
 cd8129f9b36ba889bfb44ded631588b0d1ff8c46 data/minecraft/tags/block/supports_melon_stem_fruit.json
 0c1a213cc742a04f10530675d366852cee183ca2 data/minecraft/tags/block/face_occluding_ice_blocks.json
-95395a843ea1808b5232c2ee3bac76fd4b9836a8 data/minecraft/tags/block/walls.json
+e79d4671817af0ce48d636c3e151de1f868179af data/minecraft/tags/block/walls.json
 f389efdf22fabad15f8c493652b07cd4c176910d data/minecraft/tags/block/wooden_fences.json
 d4ccdd52d950205105f63938b548d92c42dd1761 data/minecraft/tags/block/supports_hanging_mangrove_propagule.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/triggers_ambient_dried_ghast_block_sounds.json
@@ -73,7 +73,7 @@ b965cf1cefd134257c07643683f8547e274e026e data/minecraft/tags/block/mud.json
 65bff720ec9fa0ed537b2bf6462fc181a94ad90c data/minecraft/tags/block/supports_nether_sprouts.json
 bb5968e9752253a1de8aed7529e1d9e29ddee6a5 data/minecraft/tags/block/ice_spike_replaceable.json
 11fe8bc74aee9eac795481b12cf9d92e57ce4b78 data/minecraft/tags/block/incorrect_for_wooden_tool.json
-bcdd40357041ca76c6b2e3939cb8172ffdc69e3c data/minecraft/tags/block/slabs.json
+2bbb16e424fc9f3bcbbd0a00c9560100d717bb96 data/minecraft/tags/block/slabs.json
 c715bf7a2af064dd438c1329fc0b1976373e9a1a data/minecraft/tags/block/wall_signs.json
 67b6ac293119b51c49d06c2ebc69a49e94065320 data/minecraft/tags/block/support_override_cactus_flower.json
 71180030d3ebe73ed7aa07473fb200e0aa359909 data/minecraft/tags/block/candles.json
@@ -117,7 +117,7 @@ da1d12f678963493519caaff63a76241b220579f data/minecraft/tags/block/axolotls_spaw
 dc2e648fb038e928e6f24c27d588b7cd820659ae data/minecraft/tags/block/sword_efficient.json
 880c6cb436ecac6c58d3a87877655d56d71c3c15 data/minecraft/tags/block/logs_that_burn.json
 f8f437f299af14e5c9c0453089d4e03d42015d2e data/minecraft/tags/block/terracotta.json
-0cc14a91745011af31e86690aedda90ef27fb7f9 data/minecraft/tags/block/mineable/pickaxe.json
+e356e9110168f6330ccd09b9db4c355c8a1ab68e data/minecraft/tags/block/mineable/pickaxe.json
 090e10929cf921bcfe7ca9e263679610ff359335 data/minecraft/tags/block/wart_blocks.json
 f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/block/pale_oak_logs.json
 d5aebde1fd1141df86b6ed4ace3f720504b32ab2 data/minecraft/tags/block/wither_summon_base_blocks.json
@@ -133,7 +133,7 @@ d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/block/gold_ores.jso
 740c576cd6b7b63f4cc04210fe34f9e87563cc4a data/minecraft/tags/block/forest_rock_can_place_on.json
 2c7fdf870b645c21b9a0fdcd38a2a3ba2eb7c902 data/minecraft/tags/block/supports_wither_rose.json
 91298092263229c22ed59f780495f30405f23e44 data/minecraft/tags/block/supports_crops.json
-c06a1b103e6284ff927992e92c8f0261f8a1d6ca data/minecraft/tags/block/stairs.json
+293588f22a66a121eddf194163eebe1d9da4f51c data/minecraft/tags/block/stairs.json
 d8549ed0a6b120b24ad5de272abf8e9a39554f26 data/minecraft/tags/block/triggers_ambient_desert_dry_vegetation_block_sounds.json
 857af144d264bb68eb7d28c87b994b1edf50a685 data/minecraft/tags/block/beehives.json
 a4e8097fff07f9a74259d6b5dd583f3437ff28a2 data/minecraft/tags/block/shears_extreme_breaking_speed.json
@@ -147,7 +147,7 @@ bc8701774f57ab000a8f0f1d390702175a6cdbb8 data/minecraft/tags/block/stray_immune_
 f0f92c5f0b5c5412980a4ca8436b4cb180919deb data/minecraft/tags/block/cannot_support_kelp.json
 bd6afc9c5b446cf5cb2e265f9e719059f38d9f15 data/minecraft/tags/block/supports_melon_stem.json
 b4727e6ebe055c567441285ae565462a8b1e4abc data/minecraft/tags/block/enables_bubble_column_push_up.json
-6416c962454ea2ad33723644fcb85c96730e59e7 data/minecraft/tags/block/ice.json
+d1c911b99022c90f3cf4785df91416222225d40f data/minecraft/tags/block/ice.json
 3e82340f518a6ff10613f963ea0ab39e7667b6f6 data/minecraft/tags/block/small_flowers.json
 7cb991e6337963d9eff8bf77ae0bdbc1ded0f092 data/minecraft/tags/block/sand.json
 8dd9194492a51b40153c68f2381b0eaa8f09a217 data/minecraft/tags/block/bats_spawnable_on.json
@@ -226,8 +226,8 @@ d360d5c5c3d215bc124823b456d4dcfda62f4430 data/minecraft/tags/block/moss_blocks.j
 1babc3647a545dddb5fe13e06599fb605cf5ca16 data/minecraft/tags/block/all_signs.json
 da2f2099b67874757261a241b2b6e9b12e182749 data/minecraft/tags/block/cannot_place_basalt_pillar_on.json
 26d89c4e3cfa827f5d2a7ef1ef43ec4c8c63cd6e data/minecraft/tags/block/nether_portal_frame.json
-ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 a249c46329a41538f49a564e1f14338aaf1be5a0 data/minecraft/tags/block/incorrect_for_iron_tool.json
+ef8b53a5070a43fe7b9c6aa14d13e5b64c516aae data/minecraft/tags/block/incorrect_for_stone_tool.json
 6bfdb8f02c5c5d180b5747096f4c3c755768ee0f data/minecraft/tags/block/cushion_uses_collision_shape.json
 63155bd2e062478d6c9822ed300f20263356b435 data/minecraft/tags/block/piglin_repellents.json
 0063083a1ab9e3bce7dd8dbc7136e7021459f0d8 data/minecraft/tags/block/replaceable.json

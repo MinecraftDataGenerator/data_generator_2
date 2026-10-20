@@ -1,4 +1,4 @@
-// 26.4-snapshot-4	2026-10-13T20:06:17.972827776	vanilla/Tags for minecraft:worldgen/biome
+// 26.4-snapshot-5	2026-10-20T18:22:08.843526223	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 a438c3523b28cc2043b791a74838a96895e2390d data/minecraft/tags/worldgen/biome/generated_in_below_zero_retrogen.json
@@ -10,7 +10,6 @@ ff13fafcc6c847d2ce8a4262842bf1316dc580ea data/minecraft/tags/worldgen/biome/has_
 6d2fe067a4e43feb66712b684ce4628e2252ee38 data/minecraft/tags/worldgen/biome/has_structure/village_savanna.json
 1505832e2c5cce98d18f5100da3a5072dfae4d4a data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_sparse_jungle.json
 f618bcdd46ef4a345def4ad2181ac31502864c9a data/minecraft/tags/worldgen/biome/has_structure/village_snowy.json
-24068151a8a09b4fe329b7c48b1ea001562b0e82 data/minecraft/tags/worldgen/biome/spawns_strays_without_powder_snow.json
 7d07eadabf7c4a312f72ca08671d78901b4187d7 data/minecraft/tags/worldgen/biome/is_forest.json
 63cc15f2723d9d0af2299cd998bb15d080d8c528 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_windswept_forest.json
 6525dda69924a36f16797ed873bffc083e1f4de5 data/minecraft/tags/worldgen/biome/allows_surface_slime_spawns.json
@@ -46,6 +45,7 @@ db75635a9bc36e736cf56101b9c81b3e37b69aac data/minecraft/tags/worldgen/biome/has_
 c444711b27cfdbdc7007986b4068da830047fe0f data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json
 325e601b9c75d59207dfffc1a0149d9e965bd45e data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_mountain.json
 f3ef2895c49e29111297e950661e5bc71a79989e data/minecraft/tags/worldgen/biome/has_structure/village_desert.json
+24068151a8a09b4fe329b7c48b1ea001562b0e82 data/minecraft/tags/worldgen/biome/spawns_cold_variants_underground.json
 b020f6cdcd2d955793278b2f89a178a1d31e599a data/minecraft/tags/worldgen/biome/has_structure/stronghold.json
 0394cc29b21ea80f88b2f36ea3f7dfb6c99192ff data/minecraft/tags/worldgen/biome/is_beach.json
 6481e28398e6c2b52c711a1de3a995ce9dbad12b data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_old_growth_birch_forest.json
@@ -57,11 +57,11 @@ a2c17e9189d16e11b26ac0a0c170a0bc41bf1093 data/minecraft/tags/worldgen/biome/has_
 6058b6dfa7b36e34bf6b02b94306bbdf8b334214 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_old_growth_spruce_taiga.json
 6d2fe067a4e43feb66712b684ce4628e2252ee38 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_savanna.json
 a24545b58f3f91c6c033586e2b2ae12f1e8131b1 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_nether.json
-562853abe345ceeddc3931331c8cdb3aa0fbe085 data/minecraft/tags/worldgen/biome/is_savanna.json
 3437f146e7780b8779e1617366226f1892d8a533 data/minecraft/tags/worldgen/biome/is_river.json
+562853abe345ceeddc3931331c8cdb3aa0fbe085 data/minecraft/tags/worldgen/biome/is_savanna.json
 09eef8a5b31b2b922a1bf5e092e897bf6949121c data/minecraft/tags/worldgen/biome/is_end.json
 91b0eb2c9a1bca9eaa7aeb065cf6566cc9ef4ef6 data/minecraft/tags/worldgen/biome/has_structure/end_city.json
-d832b5c1a25025865422b4bc8e9ca7862f0e5f42 data/minecraft/tags/worldgen/biome/stronghold_biased_to.json
+fcccb36605b67c0524ef40902fc15ea890a828eb data/minecraft/tags/worldgen/biome/stronghold_biased_to.json
 3fa322f81d21600f5bd69c9cc2d314568a07b192 data/minecraft/tags/worldgen/biome/spawns_warm_variant_frogs.json
 d7ba4ab6bbb19d4af911a94387434569f0fc8605 data/minecraft/tags/worldgen/biome/spawns_cold_variant_farm_animals.json
 9fb63b1cbdd4f5028cd641d38191e5c3d702d1ad data/minecraft/tags/worldgen/biome/spawns_warm_variant_farm_animals.json
@@ -77,7 +77,7 @@ ba88e23e2234b0ec008692a68db03a13bb92b548 data/minecraft/tags/worldgen/biome/has_
 79254fb0a47fe9e246a8658d0bc9c5d50191d7f2 data/minecraft/tags/worldgen/biome/has_structure/woodland_mansion.json
 ec7bbb0c9b5fc5378f8716f54862806404f04360 data/minecraft/tags/worldgen/biome/has_structure/ocean_monument.json
 a2c17e9189d16e11b26ac0a0c170a0bc41bf1093 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_swamp.json
-be4a1f061b9d167a07a785d3d7fd97b5993bc33a data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json
+117f54ff115174d534fb155850767de0f54d46c3 data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json
 45e2314b6fbf2e847bd70c163e678e0e756a1640 data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json
 a18b42d48e473c1416af02fa30d2722fbc057e77 data/minecraft/tags/worldgen/biome/has_structure/abandoned_camp_cherry_grove.json
 becbb3e6d736ab8feb41683bc5afacce936c4825 data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
