@@ -1,4 +1,4 @@
-// 26.4-snapshot-5	2026-10-20T18:22:08.828959689	vanilla/Tags for minecraft:item
+// 26.4-snapshot-6	2026-10-27T19:14:32.313597862	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -38,7 +38,7 @@ f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/gold_tool_mate
 30cba093322f9f2391402da95a9ae4b07afeea00 data/minecraft/tags/item/stone_crafting_materials.json
 f651379db3bd93084b50c5759f13066cb9859ee2 data/minecraft/tags/item/pig_food.json
 b965cf1cefd134257c07643683f8547e274e026e data/minecraft/tags/item/mud.json
-293588f22a66a121eddf194163eebe1d9da4f51c data/minecraft/tags/item/stairs.json
+72ddda0b87d0b2218f6dcc4313b93ecef58c5b0d data/minecraft/tags/item/stairs.json
 002646611f726ba21cc4b5060d0258c405ae2291 data/minecraft/tags/item/lectern_books.json
 ed3052eb0c49103d4cdd5f410d09b189a33c80b9 data/minecraft/tags/item/concrete_powders.json
 2279d1f34e9b03831a4631584ee0fcdf1ea0fc66 data/minecraft/tags/item/rails.json
@@ -83,7 +83,7 @@ e70ae23a62e7115f4464da721e870e8809abffb9 data/minecraft/tags/item/creeper_drop_m
 051133c671b0594616a93c94a321767d92bc1940 data/minecraft/tags/item/mushrooms.json
 2554bb25aaa696aeca8da09c7bf2325529a9d0c4 data/minecraft/tags/item/loom_dyes.json
 17d50f6f18b088b37a115366eb756dd27d3cae17 data/minecraft/tags/item/meat.json
-2bbb16e424fc9f3bcbbd0a00c9560100d717bb96 data/minecraft/tags/item/slabs.json
+bf9a1f41105beeb3e7b036fa23f7c978f040da63 data/minecraft/tags/item/slabs.json
 90fe11a09b39af8310bdb1fe3937f3fa32798af7 data/minecraft/tags/item/crimson_stems.json
 736f4ef35696340b932cdb679c5a32e7b28db783 data/minecraft/tags/item/repairs_chain_armor.json
 d5819c82fddfaf937dbe9ed568e87f1206349f8d data/minecraft/tags/item/wither_skeleton_disliked_weapons.json
@@ -151,6 +151,7 @@ f53e830597a8df09dc1d9097501a773daf98b408 data/minecraft/tags/item/pale_oak_logs.
 d9902302dcd6c7d67acfc5bb641cbae30cf3d03c data/minecraft/tags/item/enchantable/weapon.json
 0d7a4c11ebf0aae0af19bacbd70cea4cdca1a342 data/minecraft/tags/item/enchantable/bow.json
 905676a5aba24b0d5d5fe36ca5d6f5b67b0b61bd data/minecraft/tags/item/wooden_doors.json
+f12710e9c28fd237cbfc94b57f80a2fd67940d54 data/minecraft/tags/item/sulfur_cube_archetype/cold.json
 13d3532f640db14e79bc743413da8c80782305e8 data/minecraft/tags/item/shulker_boxes.json
 1ae902776b0942fb7f6424ba52eb2150950f973c data/minecraft/tags/item/acacia_logs.json
 b8301ea44cd37172345daf7b728de0a78e6ad149 data/minecraft/tags/item/bamboo_blocks.json
@@ -161,10 +162,10 @@ d1b3de80a7e228bb1b85aa05703471032bc2a8c8 data/minecraft/tags/item/redstone_ores.
 49731163f40c037fed63e50ebb86dc7fd3d2722b data/minecraft/tags/item/sniffer_food.json
 f2aa87f54e7951ea0cf81ac252c2abe279b0c936 data/minecraft/tags/item/repairs_gold_armor.json
 ea2b7aa418c563ab8f02c06883d3c45e0ec7435c data/minecraft/tags/item/happy_ghast_food.json
-cddbd9ba06ca3e6442f1cf17c432cca342370ab2 data/minecraft/tags/item/sulfur_cube_archetype/fast_sliding.json
+86af04677ba2ad5e1ac5a8308bcf2e6c250eb202 data/minecraft/tags/item/sulfur_cube_archetype/fast_sliding.json
 d6cf88ab73624a67b1cffc6e2fe8d4b95b053a79 data/minecraft/tags/item/sulfur_cube_archetype/sticky.json
 d2dd1a0654037b68d6a69fbb241fbe22fc86d73f data/minecraft/tags/item/clonable_maps.json
-e79d4671817af0ce48d636c3e151de1f868179af data/minecraft/tags/item/walls.json
+9da77d8d9fbff7b5ad07d971b19b1d4d87c267bf data/minecraft/tags/item/walls.json
 84fbe775bf2e331dd6e0083cbaca1bc8aa63a5f0 data/minecraft/tags/item/cat_food.json
 29adee991374ea810bcde93bfb5cd54fe65ab9a5 data/minecraft/tags/item/wooden_stairs.json
 cf2c9a38dd61b6e22d0d8660a025aa3471e30504 data/minecraft/tags/item/sulfur_cube_archetype/slow_bouncy.json
@@ -208,7 +209,7 @@ ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/ma
 4daabef6d18a3fe09d467332a112f5361cf48610 data/minecraft/tags/item/fence_gates.json
 84b3d65e0c030bb9db4f394951b273f9c2e90782 data/minecraft/tags/item/piglin_preferred_weapons.json
 7b97c6d04f0979acf1ecdace14c02c61cd03f2a4 data/minecraft/tags/item/leg_armor.json
-a7b2047e7c485493490b9c761ba997eebaa3ef72 data/minecraft/tags/item/sulfur_cube_swallowable.json
+600468ed6bade0fd8447aa179c482eb7e951f0b7 data/minecraft/tags/item/sulfur_cube_swallowable.json
 3034ccf4a055a88bc1a838345484c9b80700d009 data/minecraft/tags/item/sulfur_cube_archetype/fast_flat.json
 cc7f5e855f69d19e65cf34e7553ef938a52aa695 data/minecraft/tags/item/head_armor.json
 cc310cf207ff7973792ef30d865e4808de844a78 data/minecraft/tags/item/cushions.json
