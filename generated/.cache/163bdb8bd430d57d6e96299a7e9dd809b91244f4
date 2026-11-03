@@ -1,4 +1,4 @@
-// 26.4-snapshot-6	2026-10-27T19:14:32.345330353	vanilla/Tags for minecraft:entity_type
+// 26.4-snapshot-7	2026-11-03T20:26:08.738227633	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json
@@ -19,7 +19,6 @@ e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/inverte
 c8eec608e1e980b0d32a9b90deaed39fc52e2611 data/minecraft/tags/entity_type/frog_food.json
 f91cbde94cdeade285561d65ea83bbcd815c7e82 data/minecraft/tags/entity_type/raiders.json
 e8887e949992b2478423fdd15dfa070bfc1ae5ef data/minecraft/tags/entity_type/boat.json
-ff9168a6aa4a6a7818e15964e381b61498b8416f data/minecraft/tags/entity_type/flying.json
 938693c0d925c28b546fc000571541b1f61e42c1 data/minecraft/tags/entity_type/immune_to_infested.json
 a8940a6817c182c8cead86eb02e5b2e19a1d4471 data/minecraft/tags/entity_type/immune_to_wither.json
 7b0afc33956c29f4d47227abcfa62488a85697a8 data/minecraft/tags/entity_type/cannot_be_dismounted_by_item_usage.json
@@ -37,7 +36,6 @@ e2f26c4696552a05feacf8eaadfb3b41a8907161 data/minecraft/tags/entity_type/wither_
 1d670a94cff7be39fb2db66dc268cb21e4b3cf20 data/minecraft/tags/entity_type/non_controlling_rider.json
 d24da55a6377f7765e4dbe282a4b8d9e0ccd893b data/minecraft/tags/entity_type/powder_snow_walkable_mobs.json
 3b9491f8c3d5a66d5ce8a9dd1582fce60060ded3 data/minecraft/tags/entity_type/undead.json
-6aa3460dddd58d4ba24daca3fe7587efc90bd90b data/minecraft/tags/entity_type/swimming.json
 e00f2931577049b9a4400a87ed9c249373be376c data/minecraft/tags/entity_type/not_affected_by_geysers.json
 5e2d6dbd339cdc162f1bd13fa83d0ece1b6014d8 data/minecraft/tags/entity_type/immune_to_oozing.json
 d68679e83c83770b9f1ffb2e523af6765f7fbbdd data/minecraft/tags/entity_type/fall_damage_immune.json
