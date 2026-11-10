@@ -1,4 +1,4 @@
-// 26.4-snapshot-7	2026-11-03T20:26:08.732144711	vanilla/Tags for minecraft:block
+// 26.4-snapshot-8	2026-11-10T20:42:54.087397634	vanilla/Tags for minecraft:block
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/default_immune_to.json
 071a9e24bca27e3717a9ff3a9d7cb2c977088a75 data/minecraft/tags/block/concrete_slabs.json
 1b34690c952fb0cae947d85b752e19a7a83a453b data/minecraft/tags/block/oak_logs.json
@@ -128,6 +128,7 @@ cf33535cd44ff4af692d72c1889bef8fd7ee12a2 data/minecraft/tags/block/supports_big_
 c2b28c0ec59c7268d451b0fb6e852b3d8db182a6 data/minecraft/tags/block/snow.json
 5195273cc8871728f6217906c11399b58481e1a1 data/minecraft/tags/block/bars.json
 f90b8e6674252583fae1583255b371b3c95c36d5 data/minecraft/tags/block/mooshrooms_spawnable_on.json
+619667c1b7332d180fa0737d335fc257a9549000 data/minecraft/tags/block/triggers_ambient_ice_block_sounds.json
 e1aa1c0a968ded1719ec54dfd3d540a19ab16f67 data/minecraft/tags/block/coral_plants.json
 d19277bda7fab58f7d36ca6d828bbaaa6531b042 data/minecraft/tags/block/gold_ores.json
 740c576cd6b7b63f4cc04210fe34f9e87563cc4a data/minecraft/tags/block/forest_rock_can_place_on.json
@@ -203,6 +204,7 @@ ab8bc29e7b3b95dbe4e8f35ee876efa1b2c5fe0a data/minecraft/tags/block/overrides_mus
 1b50a67efc31f461ce0bca94ec806cbf528412db data/minecraft/tags/block/coal_ores.json
 91298092263229c22ed59f780495f30405f23e44 data/minecraft/tags/block/grows_crops.json
 b7c610fe74377a42b51b7a87a3693fc1244cd9d6 data/minecraft/tags/block/suppresses_bounce.json
+4342dbe120758da700a1d9f914789a75c43c98e9 data/minecraft/tags/block/triggers_ambient_ice_crystal_sounds.json
 cfab2ab481bf476a645d326b87627918009b9e50 data/minecraft/tags/block/uncarvable.json
 cf9f105b363a284d4f2daa46f39d208291608129 data/minecraft/tags/block/combination_step_sound_blocks.json
 89a7253fe70309e791af46e2363de068e26b63f2 data/minecraft/tags/block/lapis_ores.json

@@ -1,4 +1,4 @@
-// 26.4-snapshot-7	2026-11-03T20:26:08.718017519	vanilla/Tags for minecraft:item
+// 26.4-snapshot-8	2026-11-10T20:42:54.07187029	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -203,8 +203,8 @@ a6c8bad401aae8576742844c87f1b8717cf253b7 data/minecraft/tags/item/noteblock_top_
 74f68e22bf93a751191e1ec35390adcf191a2880 data/minecraft/tags/item/fences.json
 9b8795d1664fc903071c19ae4d9834819ebb68e2 data/minecraft/tags/item/signs.json
 c355652a37cce0c0ccb94b0aa63ddc5e72a97a60 data/minecraft/tags/item/llama_tempt_items.json
-1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
 ba1949056acc66b717086648b77871601c4cd73c data/minecraft/tags/item/enchantable/mace.json
+1f26d18c3d45a10ae2decb775f7570f08626b0db data/minecraft/tags/item/piglin_repellents.json
 578f235e3df08e5c68d3647fdf1a664eb602e533 data/minecraft/tags/item/gaze_disguise_equipment.json
 4daabef6d18a3fe09d467332a112f5361cf48610 data/minecraft/tags/item/fence_gates.json
 84b3d65e0c030bb9db4f394951b273f9c2e90782 data/minecraft/tags/item/piglin_preferred_weapons.json

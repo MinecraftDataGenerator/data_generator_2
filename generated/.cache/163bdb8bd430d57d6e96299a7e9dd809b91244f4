@@ -1,4 +1,4 @@
-// 26.4-snapshot-7	2026-11-03T20:26:08.738227633	vanilla/Tags for minecraft:entity_type
+// 26.4-snapshot-8	2026-11-10T20:42:54.09376027	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json
@@ -11,7 +11,7 @@ fd03792012d037b2783775c9b14e51362fd43a4f data/minecraft/tags/entity_type/sensiti
 803d2a8641b44d44cb209d44eef59ac2beb9445b data/minecraft/tags/entity_type/zombies.json
 11b2a8f4884ff3d5cf51a779796771443d4c02ec data/minecraft/tags/entity_type/does_not_break_brittle_ice.json
 c1b00f0a433fe83520f389c47e8162851d1f9bbb data/minecraft/tags/entity_type/can_wear_nautilus_armor.json
-c6710079f73deb4e7a08d41ac83acc50f16d89c2 data/minecraft/tags/entity_type/immune_to_freezing.json
+3f7c6005528c84d4f8643e6353b6835e31f3ebbc data/minecraft/tags/entity_type/immune_to_freezing.json
 95afd798d52faff6d2a130773ba8b3405b9bf824 data/minecraft/tags/entity_type/impact_projectiles.json
 a02d355150c8a99517b1ae6be71d86bce9195ca6 data/minecraft/tags/entity_type/no_anger_from_wind_charge.json
 9aa54cd5ec37fff24dfc4f679df3862f04ce6340 data/minecraft/tags/entity_type/axolotl_hunt_targets.json
