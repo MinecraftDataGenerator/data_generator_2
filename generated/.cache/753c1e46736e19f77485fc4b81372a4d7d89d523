@@ -1,4 +1,4 @@
-// 26.4-snapshot-9	2026-11-17T22:02:27.210306851	vanilla/Default Components
+// 26.4-snapshot-10	2026-11-17T22:02:45.559908415	vanilla/Default Components
 144e206cb8c0672d205951c6ed38e5f5b6bf0e19 reports/minecraft/components/item/infested_stone_bricks.json
 50a74bd700df06d7b8ce120a7b7809481ca317d3 reports/minecraft/components/item/dead_brain_coral_fan.json
 bc641b71f7b5f686707ce1500ed2592717ef8485 reports/minecraft/components/item/cyan_shulker_box.json
@@ -747,8 +747,8 @@ fc20ee609e72830852df2b58170121da597d2a32 reports/minecraft/components/item/sweet
 f6f7c970b41bde56389e1526aae1b89c2c2a34f7 reports/minecraft/components/item/cherry_slab.json
 0a40f36ec951290b2f80a691c626732d01e1aa55 reports/minecraft/components/item/gray_candle.json
 2382e2af70284ca42497e0f29cdd63dbcd81ea39 reports/minecraft/components/item/bee_spawn_egg.json
-4a79f04158dcdc3b68756784babfb101b90ff684 reports/minecraft/components/item/tuff_stairs.json
 cf1036bc45e39b26915754395d912977d733d75e reports/minecraft/components/item/bee_nest.json
+4a79f04158dcdc3b68756784babfb101b90ff684 reports/minecraft/components/item/tuff_stairs.json
 c914d6706efb105d794251b82c1f99f1b7abcef2 reports/minecraft/components/item/stripped_mangrove_log.json
 8f35a188862accc28e2f875a127623d4af4486bc reports/minecraft/components/item/black_wool_stairs.json
 ec72cff3b894b255d13222546d80c0728702aa8d reports/minecraft/components/item/oak_shelf.json

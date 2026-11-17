@@ -1,4 +1,4 @@
-// 26.4-snapshot-9	2026-11-17T22:02:27.250167446	vanilla/Tags for minecraft:entity_type
+// 26.4-snapshot-10	2026-11-17T22:02:45.599614271	vanilla/Tags for minecraft:entity_type
 74f0fafb937575d7472ef54ae86e0a6ea46b6bab data/minecraft/tags/entity_type/can_wear_horse_armor.json
 bb7b6f7f302ad860e4bf695fe03aef6d7a5b2533 data/minecraft/tags/entity_type/can_turn_in_boats.json
 1f530932eab976d894e835ba8fa845e9ccecf9ad data/minecraft/tags/entity_type/arthropod.json

@@ -184,12 +184,12 @@
   },
   "minecraft:enchanted_damage": {
     "allowed": [
-      "minecraft:damage_source",
       "minecraft:attacking_entity",
       "minecraft:origin",
       "minecraft:enchantment_level",
       "minecraft:direct_attacking_entity",
-      "minecraft:this_entity"
+      "minecraft:this_entity",
+      "minecraft:damage_source"
     ],
     "required": [
       "minecraft:damage_source",
@@ -200,14 +200,14 @@
   },
   "minecraft:enchanted_entity": {
     "allowed": [
-      "minecraft:enchantment_level",
       "minecraft:origin",
-      "minecraft:this_entity"
+      "minecraft:this_entity",
+      "minecraft:enchantment_level"
     ],
     "required": [
-      "minecraft:enchantment_level",
       "minecraft:origin",
-      "minecraft:this_entity"
+      "minecraft:this_entity",
+      "minecraft:enchantment_level"
     ]
   },
   "minecraft:enchanted_item": {
@@ -236,12 +236,12 @@
   },
   "minecraft:entity": {
     "allowed": [
-      "minecraft:damage_source",
       "minecraft:attacking_entity",
       "minecraft:origin",
       "minecraft:last_damage_player",
       "minecraft:direct_attacking_entity",
-      "minecraft:this_entity"
+      "minecraft:this_entity",
+      "minecraft:damage_source"
     ],
     "required": [
       "minecraft:damage_source",
@@ -251,9 +251,9 @@
   },
   "minecraft:entity_interact": {
     "allowed": [
-      "minecraft:interacting_entity",
       "minecraft:tool",
-      "minecraft:target_entity"
+      "minecraft:target_entity",
+      "minecraft:interacting_entity"
     ],
     "required": [
       "minecraft:tool",

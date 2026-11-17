@@ -1,4 +1,4 @@
-// 26.4-snapshot-9	2026-11-17T22:02:27.21831945	vanilla/Tags for minecraft:item
+// 26.4-snapshot-10	2026-11-17T22:02:45.567792677	vanilla/Tags for minecraft:item
 c573efc219c198638b6916e5de42b196f8267a1e data/minecraft/tags/item/horse_tempt_items.json
 a91a14b0d844c2e8beb882a51072178e0667620c data/minecraft/tags/item/jungle_logs.json
 75ab27e628b3600ee7ede926dff96124246e928e data/minecraft/tags/item/sulfur_cube_archetype/slow_flat.json
@@ -130,8 +130,8 @@ bc8f7ec42055271500d0f99c97af042d8e284272 data/minecraft/tags/item/enchantable/ar
 53fd259083f89b5b7caf2b54bd33d0ca3a14a5aa data/minecraft/tags/item/concrete_stairs.json
 64cced731059717fbae6969a456ba5a8fe08d5ad data/minecraft/tags/item/bookshelf_books.json
 f389efdf22fabad15f8c493652b07cd4c176910d data/minecraft/tags/item/wooden_fences.json
-17af95fdfeae062d798fc610dd9332ac88beae64 data/minecraft/tags/item/extendable_maps.json
 fdab8ddd5529ae14b26bc1853b004131135318a4 data/minecraft/tags/item/repairs_diamond_armor.json
+17af95fdfeae062d798fc610dd9332ac88beae64 data/minecraft/tags/item/extendable_maps.json
 3fdfa9ed4805c94904dacc7fe41accf2f18c5030 data/minecraft/tags/item/chest_armor.json
 3970b76be7ae4036da7a0d208370acfa1fc1577c data/minecraft/tags/item/birch_logs.json
 d8e989de012c96b230d004a4e06b0a256beb61b4 data/minecraft/tags/item/frostbite_preferred_weapons.json
