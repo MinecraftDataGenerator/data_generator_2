@@ -1,4 +1,4 @@
-// 26.4-snapshot-8	2026-11-10T20:42:54.071696245	vanilla/Tags for minecraft:damage_type
+// 26.4-snapshot-9	2026-11-17T22:02:27.218085801	vanilla/Tags for minecraft:damage_type
 d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_freezing.json
 01b02411e50cf6797a7cfe1546b58b44125cddb5 data/minecraft/tags/damage_type/damages_helmet.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/no_impact.json
@@ -6,7 +6,7 @@ d254e21f432676e5224504c193e10f6e8fceae9c data/minecraft/tags/damage_type/is_free
 fcafed271dc1cb0433d0273e880103fa82e16800 data/minecraft/tags/damage_type/mace_smash.json
 39551688c222c1bb009f79ed169be85995c54d6a data/minecraft/tags/damage_type/is_drowning.json
 d1ee7bd9dc6ab495ba73da1f280cf19c3e54586f data/minecraft/tags/damage_type/always_most_significant_fall.json
-35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/damage_type/bypasses_cooldown.json
+326672e05e57821ee02d55dec4d74bcf7479622e data/minecraft/tags/damage_type/bypasses_cooldown.json
 21d1d8c6c9d191148549fec95848f0c6cb1d14bc data/minecraft/tags/damage_type/ignites_armor_stands.json
 66c7f0f9e1c538a107e01284b2cfdefe08de7c47 data/minecraft/tags/damage_type/no_knockback.json
 8cf89cd31c32d4d63d8dd06e167ce925640cb8ea data/minecraft/tags/damage_type/is_fire.json
@@ -34,5 +34,6 @@ bb0b377e5176781815073123ed7c65af53295d70 data/minecraft/tags/damage_type/can_bre
 aa669bcc85b7e5fec735bdee399d1256313141bb data/minecraft/tags/damage_type/burn_from_stepping.json
 2d4efe6180742d6e569ec5cd165312f0b4811b7a data/minecraft/tags/damage_type/burns_armor_stands.json
 489c47edfcfc99812acc8a92f08c0c9c5f6d5041 data/minecraft/tags/damage_type/panic_causes.json
+ac560a53950a937767063a7acf5fdbff26b434aa data/minecraft/tags/damage_type/cannot_hurt_perching_ender_dragon.json
 cb84df645671afc2fdb658810f8c98d63eab5114 data/minecraft/tags/damage_type/bypasses_armor.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/damage_type/no_hurt_sound.json

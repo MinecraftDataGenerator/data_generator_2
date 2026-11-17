@@ -1,4 +1,4 @@
-// 26.4-snapshot-8	2026-11-10T20:42:54.095191173	vanilla/Tags for minecraft:potion
+// 26.4-snapshot-9	2026-11-17T22:02:27.251922562	vanilla/Tags for minecraft:potion
 cf3608bd187922aeb48c566c19e8482b0dca34c7 data/minecraft/tags/potion/extinguishes_entities.json
 cf3608bd187922aeb48c566c19e8482b0dca34c7 data/minecraft/tags/potion/douses_fire.json
 9e885220738644480366f478a3321f8549cacf41 data/minecraft/tags/potion/tradeable.json

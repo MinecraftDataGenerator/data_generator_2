@@ -1,4 +1,4 @@
-// 26.4-snapshot-8	2026-11-10T20:42:54.087124193	vanilla/Tags for minecraft:worldgen/biome
+// 26.4-snapshot-9	2026-11-17T22:02:27.240404108	vanilla/Tags for minecraft:worldgen/biome
 6410267e4c6c6e433ffa5df5cb5f1fefed919409 data/minecraft/tags/worldgen/biome/spawns_coral_variant_zombie_nautilus.json
 f813468c93191d40d0ec09e399b71a5f9c33ce5d data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json
 a438c3523b28cc2043b791a74838a96895e2390d data/minecraft/tags/worldgen/biome/generated_in_below_zero_retrogen.json
